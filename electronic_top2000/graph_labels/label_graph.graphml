@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="major_label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Flume">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Aurora">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Moby">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Jamie xx">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Rocco">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Mk.gee">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Machine Girl">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="ShyGirl">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="akiaura">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Swedish House Mafia">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Mura Masa">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Glass Animals">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Valorant">
+      <data key="d0">Other</data>
+    </node>
+    <node id="David Guetta">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Role Model">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Stereolab">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Lost Frequencies">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="I Monster">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="RÜFÜS DU SOL">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Basement Jaxx">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Yeule">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Broadcast">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Oliver Tree">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="nbsplv">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Galantis">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="New Order">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Edward Maya">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Kikuo">
+      <data key="d0">Other</data>
+    </node>
+    <node id="MGMT">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Underworld">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Clara La San">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Armin van Buuren">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Steve Aoki">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Kordhell">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Capital Cities">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Chase &amp; Status">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Owl City">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="BABYMONSTER">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Passion Pit">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Odesza">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Icona Pop">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Fatboy Slim">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Aphex Twin">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Blackbear">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Adventure Time">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Gigi D'Agostino">
+      <data key="d0">Other</data>
+    </node>
+    <node id="FKA twigs">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="John Summit">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Jungle">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Honne">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Portishead">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Eyedress">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Calvin Harris">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Toro y Moi">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Home">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Daft Punk">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="The Chemical Brothers">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Disclosure">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Sohodolls">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="James Blake">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Sophie">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Marshmello">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Gorillaz">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="6arelyhuman">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="deadmau5">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Martin Solveig">
+      <data key="d0">Other</data>
+    </node>
+    <node id="M83">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Jorge Rivera-Herrans">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Banks">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Flawed Mangoes">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Twenty One Pilots">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="DJ Shadow">
+      <data key="d0">Other</data>
+    </node>
+    <node id="alt-J">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="sewerslvt">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Anamanaguchi">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Depeche Mode">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Bonobo">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Gary Numan">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Skrillex">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="A. G. Cook">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Justice">
+      <data key="d0">Other</data>
+    </node>
+    <node id="The Dare">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Flying Lotus">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Vegyn">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Gesaffelstein">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Lumi Athena">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Bob Sinclar">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Barry Can't Swim">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Illenium">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Oklou">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Everything But the Girl">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Röyksopp">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Thom Yorke">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Kygo">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="pinkpantheress">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Björk">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Cascada">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Fred again..">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Air">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Kaytranada">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="BK">
+      <data key="d0">Other</data>
+    </node>
+    <node id="The Chainsmokers">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Porter Robinson">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Phantogram">
+      <data key="d0">Other</data>
+    </node>
+    <node id="PEGGY GOU">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Empire of the Sun">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Ellie Goulding">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="The Japanese House">
+      <data key="d0">Other</data>
+    </node>
+    <node id="cult member">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Arca">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Eartheater">
+      <data key="d0">Other</data>
+    </node>
+    <node id="KaytrAminé">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Zedd">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="DeVon Hendryx">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Alan Walker">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Tiësto">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="The Rah Band">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Dimitri Vegas &amp; Like Mike">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Bastille">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="STRFKR">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Alok">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Robin Schulz">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <edge source="Swedish House Mafia" target="Fred again.." />
+    <edge source="Valorant" target="Kordhell" />
+    <edge source="David Guetta" target="Dimitri Vegas &amp; Like Mike" />
+    <edge source="David Guetta" target="Galantis" />
+    <edge source="David Guetta" target="Robin Schulz" />
+    <edge source="David Guetta" target="Steve Aoki" />
+    <edge source="Lost Frequencies" target="Bastille" />
+    <edge source="RÜFÜS DU SOL" target="Odesza" />
+    <edge source="Oliver Tree" target="Robin Schulz" />
+    <edge source="Galantis" target="Icona Pop" />
+    <edge source="Steve Aoki" target="Alan Walker" />
+    <edge source="Fatboy Slim" target="Justice" />
+    <edge source="Calvin Harris" target="Ellie Goulding" />
+    <edge source="Disclosure" target="Barry Can't Swim" />
+    <edge source="Skrillex" target="Fred again.." />
+    <edge source="Vegyn" target="Air" />
+    <edge source="Kygo" target="Tiësto" />
+    <edge source="Fred again.." target="The Japanese House" />
+    <edge source="The Chainsmokers" target="Alok" />
+    <edge source="Ellie Goulding" target="Alok" />
+  </graph>
+</graphml>

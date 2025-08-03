@@ -1,0 +1,4 @@
+ARTIST GENRE NETWORK STATISTICS
+===============================
+Total artists: 1747
+Total collaborations: 6956

@@ -1,0 +1,925 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="major_label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="AJR">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="SYML">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Luis Fonsi">
+      <data key="d0">Other</data>
+    </node>
+    <node id="5 Seconds of Summer">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Zayn">
+      <data key="d0">Other</data>
+    </node>
+    <node id="mxmtoon">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Dominic Fike">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Anne-Marie">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Rosé">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Céline Dion">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="G-Dragon">
+      <data key="d0">Other</data>
+    </node>
+    <node id="The Ronettes">
+      <data key="d0">Other</data>
+    </node>
+    <node id="CHVRCHES">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Daryl Hall &amp; John Oates">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Hippo Campus">
+      <data key="d0">Other</data>
+    </node>
+    <node id="grentperez">
+      <data key="d0">Other</data>
+    </node>
+    <node id="STAYC">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Lucki">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Lola Young">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Meghan Trainor">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Dead or Alive">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Ed Sheeran">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Miley Cyrus">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Tate McRae">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Selena">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Halsey">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Madison Beer">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Chappell Roan">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Bonnie Tyler">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Heidi Montag">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Elita">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Riovaz">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Sixpence None the Richer">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Raye">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Dutch Melrose">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Nilüfer Yanya">
+      <data key="d0">Other</data>
+    </node>
+    <node id="The Cardigans">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Lykke Li">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Whitney Houston">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Sydney Rose">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="David Kushner">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Cyndi Lauper">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="ENHYPEN">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Suki Waterhouse">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Julie">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Haddaway">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Soccer Mommy">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Mr.kitty">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Cup of Joe">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Cults">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Billie Eilish">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Gracie Abrams">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Vanessa Carlton">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Lyn Lapid">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Louis Tomlinson">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Donna Summer">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Clairo">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Katy Perry">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="St. Vincent">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Bibi">
+      <data key="d0">Other</data>
+    </node>
+    <node id="NCT 127">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Rick Astley">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Still Woozy">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Jordana">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Luísa Sonza">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Dua Lipa">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Roxette">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Nancy Sinatra">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Bleachers">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Fifty Fifty">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Artemas">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Maisie Peters">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Quadeca">
+      <data key="d0">Other</data>
+    </node>
+    <node id="boywithuke">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Dean Lewis">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="NCT">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Nelly Furtado">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="boynextdoor">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Olivia Newton-John">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="I DONT KNOW HOW BUT THEY FOUND ME">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Itzy">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Vaundy">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Miki Matsubara">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Juanes">
+      <data key="d0">Other</data>
+    </node>
+    <node id="L'Impératrice">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Taeko Onuki">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Mika">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Japanese Breakfast">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Benson Boone">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Enrique Iglesias">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Odetari">
+      <data key="d0">Other</data>
+    </node>
+    <node id="TV Girl">
+      <data key="d0">Other</data>
+    </node>
+    <node id="aespa">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Jawny">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="BJ Lips">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Ive">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Tina Turner">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Tatsuya Kitani">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Lewis Capaldi">
+      <data key="d0">Other</data>
+    </node>
+    <node id="(G)I-DLE">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Lay Bankz">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Videoclub">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Claire Rosinkranz">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="LE SSERAFIM">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="slayyyter">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Troy">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Girl In Red">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="The B-52's">
+      <data key="d0">Other</data>
+    </node>
+    <node id="yoasobi">
+      <data key="d0">Other</data>
+    </node>
+    <node id="The Human League">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Selena Gomez &amp; the Scene">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Jeremy Zucker">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Reneé Rapp">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Carpenters">
+      <data key="d0">Other</data>
+    </node>
+    <node id="KT Tunstall">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Doja Cat">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Nena">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Charli XCX">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Pet Shop Boys">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="X Ambassadors">
+      <data key="d0">Other</data>
+    </node>
+    <node id="SurFaces">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Alessia Cara">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Big Time Rush">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Robbie Williams">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="RuPaul">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Gwen Stefani">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Mother Mother">
+      <data key="d0">Other</data>
+    </node>
+    <node id="The Hellp">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Frankie Cosmos">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Emilia">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Kylie Minogue">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Niall Horan">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="HAIM">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Yot Club">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Bronski Beat">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="100 gecs">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Janet Jackson">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Tove Lo">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Remi Wolf">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Alexandra Stan">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Kesha">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Isabel LaRosa">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Belle and Sebastian">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Margo Guryan">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Britney Manson">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Red Velvet">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Current Joys">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Poppy">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Jung Kook">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Christina Perri">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="ATEEZ">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Cafuné">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Ado">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Jason Mraz">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Mon Laferte">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Ava Max">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Shakira">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="SHINee">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Sophie Ellis-Bextor">
+      <data key="d0">Other</data>
+    </node>
+    <node id="of Montreal">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Hybs">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Jane Remover">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Ariana Grande">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Rita Ora">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Sabrina Carpenter">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Pabllo Vittar">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Bb trickz">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Ashe">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Bebe Rexha">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Hikaru Utada">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Ana Frango elétrico">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Foster the People">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Andy Grammer">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Lukas Graham">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="siouxxie sixxsta">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Snow Strippers">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Elley Duhé">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Aly &amp; AJ">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="NCT DREAM">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Demi Lovato">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Saint Avangeline">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Florence + the Machine">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Men I Trust">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Slow Pulp">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Kenshi Yonezu">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Jay Park">
+      <data key="d0">Other</data>
+    </node>
+    <node id="RM">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Selena Gomez">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Lany">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Between Friends">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Zara Larsson">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="FROMIS_9">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Natalie Imbruglia">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Modern Talking">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Loossemble">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Seventeen">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Tears for Fears">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Luan Santana">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Ricky Montgomery">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Underscores">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Mareux">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Natalia Lafourcade">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="James Arthur">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Max">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Benny Blanco">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Rebecca Black">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Rachel Chinouriri">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="A Flock of Seagulls">
+      <data key="d0">Other</data>
+    </node>
+    <node id="ABBA">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="WAYV">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Anna of the North">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Justin Timberlake">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Nessa Barrett">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Becky G">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Jonas Brothers">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Cher">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="The Script">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="artms">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Alec Benjamin">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="beabadoobee">
+      <data key="d0">Other</data>
+    </node>
+    <node id="griff">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="jimin">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Mariah Carey">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Caroline Polachek">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Lisa">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Matt Maltese">
+      <data key="d0">Other</data>
+    </node>
+    <node id="STRAY KIDS">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Troye Sivan">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="TWICE">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Jennifer Lopez">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Paris Paloma">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Rina Sawayama">
+      <data key="d0">Other</data>
+    </node>
+    <node id="DECO*27">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Dove Cameron">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Olivia Rodrigo">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Dayglow">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="half•alive">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Shawn Mendes">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="ROAR">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Elton John">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Conan Gray">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Gloria Groove">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="ericdoa">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="P!nk">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="TOMORROW X TOGETHER">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Royel Otis">
+      <data key="d0">Other</data>
+    </node>
+    <node id="FINNEAS">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Julia Wolf">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="DNCE">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="BØRNS">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Soft Cell">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="2NE1">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Lana Del Rey">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Lauv">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="The Marías">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Julia Michaels">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="James Blunt">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="LOVING">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Timothée Chalamet">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Sarah Kinsley">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Kai">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Allie X">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Maggie Rogers">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="NewJeans">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Rex Orange County">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Chrystal">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Lyn">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Liana Flores">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Kim Petras">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Fujii Kaze">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Kep1er">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Alex Warren">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="P1Harmony">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Alphaville">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Melanie Martinez">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="MAGDALENA BAY">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Carly Simon">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="XG">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Sasha Alex Sloan">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Black Box Recorder">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Camila Cabello">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Kelly Clarkson">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Olly Alexander (Years &amp; Years)">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Connie Francis">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="NMixx">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Carly Rae Jepsen">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="VACATIONS">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Exo">
+      <data key="d0">Other</data>
+    </node>
+    <node id="DAY6">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Rachel Zegler">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Duran Duran">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Lady Gaga">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Declan Mckenna">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Tennis">
+      <data key="d0">Other</data>
+    </node>
+    <edge source="SYML" target="Lana Del Rey" />
+    <edge source="Selena" target="Gracie Abrams" />
+    <edge source="Selena" target="The Marías" />
+    <edge source="Billie Eilish" target="Charli XCX" />
+    <edge source="Gracie Abrams" target="Selena Gomez &amp; the Scene" />
+    <edge source="Gracie Abrams" target="Selena Gomez" />
+    <edge source="Gracie Abrams" target="Benny Blanco" />
+    <edge source="Katy Perry" target="Kim Petras" />
+    <edge source="Jordana" target="TV Girl" />
+    <edge source="Jordana" target="half•alive" />
+    <edge source="Luísa Sonza" target="Demi Lovato" />
+    <edge source="Dua Lipa" target="Elton John" />
+    <edge source="Bleachers" target="Lana Del Rey" />
+    <edge source="Bleachers" target="Carly Rae Jepsen" />
+    <edge source="Artemas" target="Nessa Barrett" />
+    <edge source="Dean Lewis" target="Sasha Alex Sloan" />
+    <edge source="Nelly Furtado" target="Tove Lo" />
+    <edge source="L'Impératrice" target="Maggie Rogers" />
+    <edge source="TV Girl" target="Frankie Cosmos" />
+    <edge source="Girl In Red" target="Sabrina Carpenter" />
+    <edge source="Selena Gomez &amp; the Scene" target="The Marías" />
+    <edge source="Doja Cat" target="Lisa" />
+    <edge source="Charli XCX" target="Kesha" />
+    <edge source="Charli XCX" target="Bb trickz" />
+    <edge source="Charli XCX" target="Troye Sivan" />
+    <edge source="Charli XCX" target="Caroline Polachek" />
+    <edge source="Charli XCX" target="Ariana Grande" />
+    <edge source="Kylie Minogue" target="Tove Lo" />
+    <edge source="Kylie Minogue" target="Bebe Rexha" />
+    <edge source="Jane Remover" target="Underscores" />
+    <edge source="Ariana Grande" target="Kelly Clarkson" />
+    <edge source="Selena Gomez" target="The Marías" />
+    <edge source="Selena Gomez" target="Benny Blanco" />
+    <edge source="Benny Blanco" target="The Marías" />
+    <edge source="Matt Maltese" target="Liana Flores" />
+    <edge source="TWICE" target="Lauv" />
+    <edge source="Olivia Rodrigo" target="Rachel Zegler" />
+  </graph>
+</graphml>

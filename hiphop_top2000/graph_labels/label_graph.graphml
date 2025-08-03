@@ -1,0 +1,985 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="major_label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Powfu">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Mike">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Kanye West">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Rick Ross">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Freddie Gibbs">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Snoop Dogg">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="UnoTheActivist">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Lil Nas X">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Young Thug">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Young Stoner Life">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="CupcakKe">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Ebony">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Larry June">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="ScHoolboy Q">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Night Lovell">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Joey Valence &amp; Brae">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="LIL PEEP">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Lupe Fiasco">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Twista">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Chris Travis">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Destroy Lonely">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Lancey Foux">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="21 Savage">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Danny Brown">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Rich Gang">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="2hollis">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Rod Wave">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Alemán">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Logic">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Glorilla">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Jin">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Dreamville">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Denzel Curry">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Quavo">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="2 Chainz">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Westside Gunn">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Key Glock">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Insane Clown Posse">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Benny the Butcher">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Busta Rhymes">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Travis Scott">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="LAZER DIM 700">
+      <data key="d0">Other</data>
+    </node>
+    <node id="2Pac">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Homixide Gang">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Macklemore">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Aminé">
+      <data key="d0">Other</data>
+    </node>
+    <node id="bbno$">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Mac Miller">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="SahBabii">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Will Smith">
+      <data key="d0">Other</data>
+    </node>
+    <node id="SLEEPY HALLOW">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Fat Joe">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Trippie Redd">
+      <data key="d0">Other</data>
+    </node>
+    <node id="duquesa">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Post Malone">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Lil Wayne">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Tyga">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Tana">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Dizzee Rascal">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Madvillain">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Pharrell Williams">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Pi’erre Bourne">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="SHORELINE MAFIA">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Bakar">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Action Bronson">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="G Herbo">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Soulja Boy">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Lil Tecca">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Doechii">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Rels B">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Drake">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="K.Flay">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Gucci Mane">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Jack Harlow">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="$NOT">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Eladio Carrion">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Vince Staples">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="A BOOGIE WIT DA HOODIE">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Joost">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Childish Gambino">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="A$AP Ferg">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Offset">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="J. Cole">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Project Pat">
+      <data key="d0">Other</data>
+    </node>
+    <node id="MF DOOM">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="lil skies">
+      <data key="d0">Other</data>
+    </node>
+    <node id="KYLE">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Lil B">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Lil Yachty">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Future">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Gims">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Ian">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Lyrical Lemonade">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="JPEGMAFIA">
+      <data key="d0">Other</data>
+    </node>
+    <node id="DMX">
+      <data key="d0">Other</data>
+    </node>
+    <node id="DDG">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Cordae">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Kendrick Lamar">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Baco Exu do Blues">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Gunna">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Lin-Manuel Miranda">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Nemzzz">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Rema">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Baby smoove">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Common">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="HanuMankind">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Central Cee">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Agust D">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Boldy James">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Timbaland">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="ICE SPICE">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Xavier Wulf">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Nardo Wick">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Playboi Carti">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Ty Dolla $ign">
+      <data key="d0">Other</data>
+    </node>
+    <node id="lil tjay">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="FBC">
+      <data key="d0">Other</data>
+    </node>
+    <node id="nettspend">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Glokk40Spaz">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Bladee">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="fakemink">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Rob49">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Eem Triplin">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Matuê">
+      <data key="d0">Other</data>
+    </node>
+    <node id="yeat">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Megan Thee Stallion">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Cypress Hill">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Diddy">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="BigXthaPlug">
+      <data key="d0">Other</data>
+    </node>
+    <node id="¥$">
+      <data key="d0">Other</data>
+    </node>
+    <node id="SICKBOYRARI">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Rich The Kid">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Cris Mj">
+      <data key="d0">Other</data>
+    </node>
+    <node id="6ix9ine">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Arizona Zervas">
+      <data key="d0">Other</data>
+    </node>
+    <node id="The Alchemist">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="The Kid Laroi">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Yung Lean">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Trueno">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Little Simz">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Latto">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="DaBaby">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Connor Price">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Don Toliver">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Kneecap">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Ca7riel &amp; Paco Amoroso">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="YNW Melly">
+      <data key="d0">Other</data>
+    </node>
+    <node id="NF">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Yung Gravy">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Young Miko">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Juice WRLD">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Akon">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Lil Durk">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Dr. Dre">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="The Game">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Kodak Black">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Ice Cube">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Pitbull">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Eminem">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Bossman Dlow">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Kevin Gates">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="DJONGA">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Autumn!">
+      <data key="d0">Other</data>
+    </node>
+    <node id="LIL UZI VERT">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Nicki Minaj">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Sexyy Red">
+      <data key="d0">Other</data>
+    </node>
+    <node id="MoneyBagg Yo">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="YoungBoy Never Broke Again">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="SKI MASK THE SLUMP GOD">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="De La Soul">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Veigh">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Lil Darkie">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Duckwrth">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Ashnikko">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Coco &amp; Clair Clair">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Chance the Rapper">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Tyler, the Creator">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Slum Village">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Earl Sweatshirt">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Ken Carson">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="vierre cloud">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Nas">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Burna Boy">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Meek Mill">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Flo Milli">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="$uicideboy$">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Creepy Nuts">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="iann dior">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Fetty Wap">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Juicy J">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="YG">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Saba">
+      <data key="d0">Other</data>
+    </node>
+    <node id="B.o.B">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Racionais Mc's">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Famous Dex">
+      <data key="d0">Other</data>
+    </node>
+    <node id="NLE Choppa">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="SoFaygo">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Black Eyed Peas">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Fimiguerrero">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Smino">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Summrs">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Kxllswxtch">
+      <data key="d0">Other</data>
+    </node>
+    <node id="pumapjl">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Chief Keef">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="D. Savage">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Kevin Abstract">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Jordan Adetunji">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="French Montana">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="SAINt JHN">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Polo G">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Wiz Khalifa">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="G-Eazy">
+      <data key="d0">Sony Music Entertainment</data>
+    </node>
+    <node id="Mustard">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Bones">
+      <data key="d0">Other</data>
+    </node>
+    <node id="King Von">
+      <data key="d0">Other</data>
+    </node>
+    <node id="IDK">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Russ">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Junior H">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Kid Cudi">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Wu-Tang Clan">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Hollywood Undead">
+      <data key="d0">BMG</data>
+    </node>
+    <node id="Lil Baby">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Filipe Ret">
+      <data key="d0">Other</data>
+    </node>
+    <node id="Tee Grizzley">
+      <data key="d0">Warner Music Group</data>
+    </node>
+    <node id="Rich Amiri">
+      <data key="d0">Universal Music Group</data>
+    </node>
+    <node id="Eve">
+      <data key="d0">Other</data>
+    </node>
+    <edge source="Kanye West" target="¥$" />
+    <edge source="Kanye West" target="Ty Dolla $ign" />
+    <edge source="Kanye West" target="French Montana" />
+    <edge source="Kanye West" target="Cordae" />
+    <edge source="Rick Ross" target="Lil Wayne" />
+    <edge source="Rick Ross" target="French Montana" />
+    <edge source="Rick Ross" target="Meek Mill" />
+    <edge source="Rick Ross" target="Future" />
+    <edge source="Freddie Gibbs" target="ScHoolboy Q" />
+    <edge source="Snoop Dogg" target="Dr. Dre" />
+    <edge source="Snoop Dogg" target="Eminem" />
+    <edge source="Snoop Dogg" target="Pharrell Williams" />
+    <edge source="Snoop Dogg" target="Ice Cube" />
+    <edge source="Snoop Dogg" target="DMX" />
+    <edge source="Young Thug" target="Trippie Redd" />
+    <edge source="Young Thug" target="Lil Baby" />
+    <edge source="Young Thug" target="A BOOGIE WIT DA HOODIE" />
+    <edge source="Young Thug" target="Quavo" />
+    <edge source="Young Thug" target="Travis Scott" />
+    <edge source="Young Thug" target="Playboi Carti" />
+    <edge source="Young Thug" target="21 Savage" />
+    <edge source="Young Thug" target="Mustard" />
+    <edge source="Young Thug" target="Young Stoner Life" />
+    <edge source="Young Thug" target="Lil B" />
+    <edge source="Young Thug" target="Busta Rhymes" />
+    <edge source="Young Stoner Life" target="Trippie Redd" />
+    <edge source="Young Stoner Life" target="Offset" />
+    <edge source="Young Stoner Life" target="Cordae" />
+    <edge source="Larry June" target="Wiz Khalifa" />
+    <edge source="Larry June" target="The Alchemist" />
+    <edge source="Larry June" target="2 Chainz" />
+    <edge source="Larry June" target="YG" />
+    <edge source="Larry June" target="Action Bronson" />
+    <edge source="Larry June" target="Slum Village" />
+    <edge source="ScHoolboy Q" target="Tyler, the Creator" />
+    <edge source="ScHoolboy Q" target="Mustard" />
+    <edge source="Joey Valence &amp; Brae" target="Danny Brown" />
+    <edge source="Twista" target="Chance the Rapper" />
+    <edge source="Twista" target="Akon" />
+    <edge source="Twista" target="Gucci Mane" />
+    <edge source="Destroy Lonely" target="Ken Carson" />
+    <edge source="Lancey Foux" target="G-Eazy" />
+    <edge source="Lancey Foux" target="Fimiguerrero" />
+    <edge source="21 Savage" target="Lil Baby" />
+    <edge source="21 Savage" target="Gucci Mane" />
+    <edge source="21 Savage" target="Central Cee" />
+    <edge source="21 Savage" target="Travis Scott" />
+    <edge source="21 Savage" target="Burna Boy" />
+    <edge source="21 Savage" target="Lil Durk" />
+    <edge source="21 Savage" target="Lil Wayne" />
+    <edge source="21 Savage" target="Lil B" />
+    <edge source="21 Savage" target="Nardo Wick" />
+    <edge source="21 Savage" target="Diddy" />
+    <edge source="Rod Wave" target="Lil Baby" />
+    <edge source="Rod Wave" target="Lil B" />
+    <edge source="Rod Wave" target="Lil Yachty" />
+    <edge source="Glorilla" target="Sexyy Red" />
+    <edge source="Glorilla" target="Megan Thee Stallion" />
+    <edge source="Glorilla" target="Latto" />
+    <edge source="Dreamville" target="J. Cole" />
+    <edge source="Denzel Curry" target="Juicy J" />
+    <edge source="Denzel Curry" target="Ty Dolla $ign" />
+    <edge source="Denzel Curry" target="LAZER DIM 700" />
+    <edge source="Denzel Curry" target="Project Pat" />
+    <edge source="Denzel Curry" target="A$AP Ferg" />
+    <edge source="Denzel Curry" target="2 Chainz" />
+    <edge source="Denzel Curry" target="JPEGMAFIA" />
+    <edge source="Denzel Curry" target="Lyrical Lemonade" />
+    <edge source="Quavo" target="Future" />
+    <edge source="Quavo" target="Chief Keef" />
+    <edge source="Quavo" target="Mustard" />
+    <edge source="Quavo" target="Busta Rhymes" />
+    <edge source="2 Chainz" target="Eminem" />
+    <edge source="2 Chainz" target="Lil Wayne" />
+    <edge source="2 Chainz" target="The Alchemist" />
+    <edge source="2 Chainz" target="Juicy J" />
+    <edge source="Westside Gunn" target="Travis Scott" />
+    <edge source="Westside Gunn" target="French Montana" />
+    <edge source="Key Glock" target="Gucci Mane" />
+    <edge source="Benny the Butcher" target="Boldy James" />
+    <edge source="Busta Rhymes" target="Ice Cube" />
+    <edge source="Busta Rhymes" target="DaBaby" />
+    <edge source="Busta Rhymes" target="Burna Boy" />
+    <edge source="Busta Rhymes" target="Kodak Black" />
+    <edge source="Busta Rhymes" target="Diddy" />
+    <edge source="Travis Scott" target="Lil Baby" />
+    <edge source="Travis Scott" target="Offset" />
+    <edge source="Travis Scott" target="Future" />
+    <edge source="Travis Scott" target="Playboi Carti" />
+    <edge source="Travis Scott" target="Kid Cudi" />
+    <edge source="Travis Scott" target="Drake" />
+    <edge source="Travis Scott" target="Yung Lean" />
+    <edge source="Travis Scott" target="Rob49" />
+    <edge source="Travis Scott" target="Don Toliver" />
+    <edge source="Travis Scott" target="Mustard" />
+    <edge source="Travis Scott" target="ICE SPICE" />
+    <edge source="Travis Scott" target="Lil B" />
+    <edge source="Homixide Gang" target="Lil Yachty" />
+    <edge source="Macklemore" target="NLE Choppa" />
+    <edge source="Aminé" target="Lyrical Lemonade" />
+    <edge source="bbno$" target="Yung Gravy" />
+    <edge source="SahBabii" target="Trippie Redd" />
+    <edge source="SahBabii" target="Lyrical Lemonade" />
+    <edge source="Will Smith" target="Russ" />
+    <edge source="Fat Joe" target="Ty Dolla $ign" />
+    <edge source="Trippie Redd" target="G Herbo" />
+    <edge source="Trippie Redd" target="YoungBoy Never Broke Again" />
+    <edge source="Trippie Redd" target="Chance the Rapper" />
+    <edge source="Trippie Redd" target="Lil Tecca" />
+    <edge source="Trippie Redd" target="Lil Durk" />
+    <edge source="Trippie Redd" target="YNW Melly" />
+    <edge source="Trippie Redd" target="DaBaby" />
+    <edge source="Trippie Redd" target="Pi’erre Bourne" />
+    <edge source="Trippie Redd" target="Russ" />
+    <edge source="Trippie Redd" target="Juice WRLD" />
+    <edge source="Trippie Redd" target="Lil Yachty" />
+    <edge source="Trippie Redd" target="Rob49" />
+    <edge source="Trippie Redd" target="Famous Dex" />
+    <edge source="Trippie Redd" target="Rich The Kid" />
+    <edge source="duquesa" target="Baco Exu do Blues" />
+    <edge source="Lil Wayne" target="Nas" />
+    <edge source="Lil Wayne" target="Tyler, the Creator" />
+    <edge source="Lil Wayne" target="Nicki Minaj" />
+    <edge source="Lil Wayne" target="French Montana" />
+    <edge source="Lil Wayne" target="Tyga" />
+    <edge source="Lil Wayne" target="Cordae" />
+    <edge source="Lil Wayne" target="Juicy J" />
+    <edge source="Tyga" target="Flo Milli" />
+    <edge source="Tyga" target="Ty Dolla $ign" />
+    <edge source="Madvillain" target="MF DOOM" />
+    <edge source="Pharrell Williams" target="Kendrick Lamar" />
+    <edge source="Action Bronson" target="Chance the Rapper" />
+    <edge source="G Herbo" target="King Von" />
+    <edge source="G Herbo" target="Chief Keef" />
+    <edge source="G Herbo" target="Polo G" />
+    <edge source="G Herbo" target="lil tjay" />
+    <edge source="G Herbo" target="Tee Grizzley" />
+    <edge source="G Herbo" target="YG" />
+    <edge source="G Herbo" target="Lyrical Lemonade" />
+    <edge source="G Herbo" target="Rob49" />
+    <edge source="Lil Tecca" target="Don Toliver" />
+    <edge source="Lil Tecca" target="Lyrical Lemonade" />
+    <edge source="Doechii" target="Tyler, the Creator" />
+    <edge source="Rels B" target="Junior H" />
+    <edge source="Drake" target="Nicki Minaj" />
+    <edge source="Drake" target="Sexyy Red" />
+    <edge source="Gucci Mane" target="DaBaby" />
+    <edge source="Gucci Mane" target="Megan Thee Stallion" />
+    <edge source="Gucci Mane" target="J. Cole" />
+    <edge source="Gucci Mane" target="Nardo Wick" />
+    <edge source="Gucci Mane" target="Lil Baby" />
+    <edge source="Gucci Mane" target="Kodak Black" />
+    <edge source="Jack Harlow" target="Lyrical Lemonade" />
+    <edge source="$NOT" target="Lyrical Lemonade" />
+    <edge source="Eladio Carrion" target="Cris Mj" />
+    <edge source="Eladio Carrion" target="Young Miko" />
+    <edge source="Vince Staples" target="JPEGMAFIA" />
+    <edge source="Vince Staples" target="Earl Sweatshirt" />
+    <edge source="Vince Staples" target="Mustard" />
+    <edge source="A BOOGIE WIT DA HOODIE" target="Lil Durk" />
+    <edge source="A BOOGIE WIT DA HOODIE" target="Future" />
+    <edge source="Childish Gambino" target="Flo Milli" />
+    <edge source="Childish Gambino" target="Chance the Rapper" />
+    <edge source="A$AP Ferg" target="Future" />
+    <edge source="Offset" target="Latto" />
+    <edge source="Offset" target="Future" />
+    <edge source="Offset" target="Don Toliver" />
+    <edge source="Offset" target="Juice WRLD" />
+    <edge source="Offset" target="Gunna" />
+    <edge source="Offset" target="Polo G" />
+    <edge source="Offset" target="DDG" />
+    <edge source="J. Cole" target="Tee Grizzley" />
+    <edge source="J. Cole" target="Burna Boy" />
+    <edge source="Project Pat" target="Xavier Wulf" />
+    <edge source="Project Pat" target="Juicy J" />
+    <edge source="MF DOOM" target="De La Soul" />
+    <edge source="Lil B" target="Future" />
+    <edge source="Lil B" target="Lyrical Lemonade" />
+    <edge source="Lil Yachty" target="Kodak Black" />
+    <edge source="Lil Yachty" target="Ian" />
+    <edge source="Lil Yachty" target="Kid Cudi" />
+    <edge source="Lil Yachty" target="The Kid Laroi" />
+    <edge source="Lil Yachty" target="Mustard" />
+    <edge source="Lil Yachty" target="YG" />
+    <edge source="Lil Yachty" target="Lyrical Lemonade" />
+    <edge source="Future" target="Lil Baby" />
+    <edge source="Future" target="Playboi Carti" />
+    <edge source="Future" target="Don Toliver" />
+    <edge source="Future" target="The Kid Laroi" />
+    <edge source="Future" target="SKI MASK THE SLUMP GOD" />
+    <edge source="Future" target="Polo G" />
+    <edge source="Future" target="Meek Mill" />
+    <edge source="Future" target="Lil Durk" />
+    <edge source="Future" target="Mustard" />
+    <edge source="Future" target="Tee Grizzley" />
+    <edge source="Future" target="Nardo Wick" />
+    <edge source="Ian" target="Chief Keef" />
+    <edge source="Lyrical Lemonade" target="Juicy J" />
+    <edge source="Lyrical Lemonade" target="Kid Cudi" />
+    <edge source="Lyrical Lemonade" target="Cordae" />
+    <edge source="Lyrical Lemonade" target="Eminem" />
+    <edge source="Lyrical Lemonade" target="Latto" />
+    <edge source="Lyrical Lemonade" target="Lil Durk" />
+    <edge source="Lyrical Lemonade" target="Juice WRLD" />
+    <edge source="Lyrical Lemonade" target="Chief Keef" />
+    <edge source="DDG" target="The Game" />
+    <edge source="DDG" target="Ty Dolla $ign" />
+    <edge source="DDG" target="NLE Choppa" />
+    <edge source="DDG" target="Rob49" />
+    <edge source="DDG" target="DaBaby" />
+    <edge source="DDG" target="Rich The Kid" />
+    <edge source="DDG" target="Wiz Khalifa" />
+    <edge source="Cordae" target="NF" />
+    <edge source="Cordae" target="Ty Dolla $ign" />
+    <edge source="Cordae" target="Juicy J" />
+    <edge source="Cordae" target="Slum Village" />
+    <edge source="Kendrick Lamar" target="Playboi Carti" />
+    <edge source="Gunna" target="Wiz Khalifa" />
+    <edge source="Gunna" target="Flo Milli" />
+    <edge source="Gunna" target="ICE SPICE" />
+    <edge source="Nemzzz" target="Central Cee" />
+    <edge source="Common" target="De La Soul" />
+    <edge source="Central Cee" target="Lil Baby" />
+    <edge source="Central Cee" target="Lil Durk" />
+    <edge source="Central Cee" target="Young Miko" />
+    <edge source="Central Cee" target="The Kid Laroi" />
+    <edge source="Central Cee" target="ICE SPICE" />
+    <edge source="ICE SPICE" target="DaBaby" />
+    <edge source="ICE SPICE" target="NLE Choppa" />
+    <edge source="Xavier Wulf" target="Juicy J" />
+    <edge source="Nardo Wick" target="Lil Baby" />
+    <edge source="Nardo Wick" target="Sexyy Red" />
+    <edge source="Playboi Carti" target="Ty Dolla $ign" />
+    <edge source="Playboi Carti" target="Ken Carson" />
+    <edge source="Playboi Carti" target="Latto" />
+    <edge source="Ty Dolla $ign" target="¥$" />
+    <edge source="Ty Dolla $ign" target="Wiz Khalifa" />
+    <edge source="Ty Dolla $ign" target="Mustard" />
+    <edge source="Ty Dolla $ign" target="YG" />
+    <edge source="Ty Dolla $ign" target="D. Savage" />
+    <edge source="Ty Dolla $ign" target="Eem Triplin" />
+    <edge source="Ty Dolla $ign" target="Diddy" />
+    <edge source="lil tjay" target="Polo G" />
+    <edge source="lil tjay" target="Rich The Kid" />
+    <edge source="lil tjay" target="NLE Choppa" />
+    <edge source="Bladee" target="Yung Lean" />
+    <edge source="Rob49" target="Kodak Black" />
+    <edge source="Rob49" target="Mustard" />
+    <edge source="Rob49" target="MoneyBagg Yo" />
+    <edge source="Rob49" target="Lil Durk" />
+    <edge source="Rob49" target="DaBaby" />
+    <edge source="Matuê" target="Veigh" />
+    <edge source="yeat" target="Kodak Black" />
+    <edge source="yeat" target="Summrs" />
+    <edge source="yeat" target="Don Toliver" />
+    <edge source="yeat" target="Lil Durk" />
+    <edge source="Megan Thee Stallion" target="Flo Milli" />
+    <edge source="Megan Thee Stallion" target="Latto" />
+    <edge source="Diddy" target="Burna Boy" />
+    <edge source="Diddy" target="French Montana" />
+    <edge source="Rich The Kid" target="Famous Dex" />
+    <edge source="Rich The Kid" target="Kodak Black" />
+    <edge source="6ix9ine" target="Kodak Black" />
+    <edge source="The Alchemist" target="Earl Sweatshirt" />
+    <edge source="The Kid Laroi" target="YoungBoy Never Broke Again" />
+    <edge source="Latto" target="Flo Milli" />
+    <edge source="Don Toliver" target="Wiz Khalifa" />
+    <edge source="Don Toliver" target="Kodak Black" />
+    <edge source="Yung Gravy" target="Juicy J" />
+    <edge source="Juice WRLD" target="Nicki Minaj" />
+    <edge source="Juice WRLD" target="Eminem" />
+    <edge source="Juice WRLD" target="SKI MASK THE SLUMP GOD" />
+    <edge source="Lil Durk" target="King Von" />
+    <edge source="Lil Durk" target="French Montana" />
+    <edge source="Lil Durk" target="Polo G" />
+    <edge source="Lil Durk" target="Lil Baby" />
+    <edge source="Lil Durk" target="Mustard" />
+    <edge source="Lil Durk" target="MoneyBagg Yo" />
+    <edge source="Dr. Dre" target="Eminem" />
+    <edge source="The Game" target="French Montana" />
+    <edge source="Kodak Black" target="Mustard" />
+    <edge source="Kodak Black" target="Famous Dex" />
+    <edge source="Bossman Dlow" target="French Montana" />
+    <edge source="Bossman Dlow" target="Lil Baby" />
+    <edge source="Nicki Minaj" target="Meek Mill" />
+    <edge source="Sexyy Red" target="Tyler, the Creator" />
+    <edge source="Sexyy Red" target="Chief Keef" />
+    <edge source="Sexyy Red" target="Lil Baby" />
+    <edge source="Duckwrth" target="IDK" />
+    <edge source="Chance the Rapper" target="Saba" />
+    <edge source="Meek Mill" target="French Montana" />
+    <edge source="Juicy J" target="Wiz Khalifa" />
+    <edge source="YG" target="Tee Grizzley" />
+    <edge source="YG" target="Mustard" />
+    <edge source="Jordan Adetunji" target="Lil Baby" />
+    <edge source="French Montana" target="G-Eazy" />
+    <edge source="French Montana" target="Lil Baby" />
+    <edge source="French Montana" target="SAINt JHN" />
+    <edge source="Polo G" target="King Von" />
+    <edge source="Wiz Khalifa" target="Kid Cudi" />
+    <edge source="King Von" target="Tee Grizzley" />
+  </graph>
+</graphml>

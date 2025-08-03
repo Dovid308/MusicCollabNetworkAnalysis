@@ -1,0 +1,92 @@
+NETWORK ANALYSIS REPORT
+============================================================
+
+Basic Information:
+- Nodes: 250
+- Edges: 9
+- Density: 0.000289
+- Average Clustering Coefficient: 0.0120
+
+Degree Statistics:
+- Average Degree: 0.07
+- Median Degree: 0.00
+- Std Dev Degree: 0.30
+- Min Degree: 0
+- Max Degree: 2
+
+Component Analysis:
+- Connected Components: 242
+- Largest Component Size: 3
+- Largest Component Ratio: 1.20%
+
+Path Metrics (Largest Component):
+- Average Path Length: 1.0000
+- Diameter: 1
+
+Major_label Distribution:
+- Other: 100 (40.00%)
+- Universal Music Group: 59 (23.60%)
+- Warner Music Group: 56 (22.40%)
+- Sony Music Entertainment: 23 (9.20%)
+- BMG: 12 (4.80%)
+
+
+--- Homophily Analysis ---
+Homophily Ratio (original): 0.4444
+Average Blau's Heterogeneity Index: 0.0667
+
+Mixing Matrix:
+                          BMG  Other  Sony Music Entertainment  Universal Music Group  Warner Music Group
+BMG                         0      0                         0                      0                   0
+Other                       0      3                         1                      2                   2
+Sony Music Entertainment    0      1                         0                      0                   0
+Universal Music Group       0      2                         0                      1                   0
+Warner Music Group          0      2                         0                      0                   0
+
+E-I Index by Major_label:
+  BMG: 0.0000
+  Other: 0.2500
+  Universal Music Group: 0.3333
+  Warner Music Group: 1.0000
+  Sony Music Entertainment: 1.0000
+
+Attribute Assortativity Coefficient: 0.0110
+
+--- Null Model Analysis ---
+Original homophily ratio: 0.4444
+Original assortativity coefficient: 0.0110
+  Running rewiring model iteration 10/100
+  Running rewiring model iteration 20/100
+  Running rewiring model iteration 30/100
+  Running rewiring model iteration 40/100
+  Running rewiring model iteration 50/100
+  Running rewiring model iteration 60/100
+  Running rewiring model iteration 70/100
+  Running rewiring model iteration 80/100
+  Running rewiring model iteration 90/100
+Rewiring Model - Avg homophily: 0.4022
+Rewiring Model - Avg assortativity: -0.0642
+  Running attribute shuffling iteration 10/100
+  Running attribute shuffling iteration 20/100
+  Running attribute shuffling iteration 30/100
+  Running attribute shuffling iteration 40/100
+  Running attribute shuffling iteration 50/100
+  Running attribute shuffling iteration 60/100
+  Running attribute shuffling iteration 70/100
+  Running attribute shuffling iteration 80/100
+  Running attribute shuffling iteration 90/100
+Attribute Shuffling - Avg homophily: 0.2633
+Attribute Shuffling - Avg assortativity: -0.0838
+
+Statistical significance (p-values):
+Rewiring Model: 0.000804
+Attribute Shuffling: 0.000000
+
+--- Community Detection ---
+Using largest connected component with 3 nodes
+Number of attribute-based communities: 2
+Number of Louvain-detected communities: 1
+Normalized Mutual Information (NMI): 0.0000
+Adjusted Rand Index (ARI): 0.0000
+Modularity of attribute-based partition: -0.2222
+Modularity of Louvain partition: 0.0000

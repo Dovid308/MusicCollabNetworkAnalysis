@@ -1,0 +1,71 @@
+NETWORK ANALYSIS REPORT
+============================================================
+
+Basic Information:
+- Nodes: 298
+- Edges: 39
+- Density: 0.000881
+- Average Clustering Coefficient: 0.0056
+
+Degree Statistics:
+- Average Degree: 0.26
+- Median Degree: 0.00
+- Std Dev Degree: 0.70
+- Min Degree: 0
+- Max Degree: 6
+
+Component Analysis:
+- Connected Components: 263
+- Largest Component Size: 8
+- Largest Component Ratio: 2.68%
+
+Path Metrics (Largest Component):
+- Average Path Length: 1.9286
+- Diameter: 3
+
+Main_genre Distribution:
+- pop: 298 (100.00%)
+
+
+--- Homophily Analysis ---
+Homophily Ratio (original): 1.0000
+Average Blau's Heterogeneity Index: 0.0000
+
+Mixing Matrix:
+     pop
+pop   39
+
+E-I Index by Main_genre:
+  pop: -1.0000
+
+Attribute Assortativity Coefficient: nan
+
+--- Null Model Analysis ---
+Original homophily ratio: 1.0000
+Original assortativity coefficient: nan
+  Running rewiring model iteration 10/100
+  Running rewiring model iteration 20/100
+  Running rewiring model iteration 30/100
+  Running rewiring model iteration 40/100
+  Running rewiring model iteration 50/100
+  Running rewiring model iteration 60/100
+  Running rewiring model iteration 70/100
+  Running rewiring model iteration 80/100
+  Running rewiring model iteration 90/100
+Rewiring Model - Avg homophily: 1.0000
+Rewiring Model - Avg assortativity: nan
+  Running attribute shuffling iteration 10/100
+  Running attribute shuffling iteration 20/100
+  Running attribute shuffling iteration 30/100
+  Running attribute shuffling iteration 40/100
+  Running attribute shuffling iteration 50/100
+  Running attribute shuffling iteration 60/100
+  Running attribute shuffling iteration 70/100
+  Running attribute shuffling iteration 80/100
+  Running attribute shuffling iteration 90/100
+Attribute Shuffling - Avg homophily: 1.0000
+Attribute Shuffling - Avg assortativity: nan
+
+Statistical significance (p-values):
+Rewiring Model: nan
+Attribute Shuffling: nan

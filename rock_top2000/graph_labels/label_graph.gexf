@@ -1,0 +1,1274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-07-24">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="major_label" type="string" />
+    </attributes>
+    <nodes>
+      <node id="America" label="America">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Blur" label="Blur">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Panchiko" label="Panchiko">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Grouplove" label="Grouplove">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Billy Joel" label="Billy Joel">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Muse" label="Muse">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Kings of Leon" label="Kings of Leon">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="PJ Harvey" label="PJ Harvey">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="No Doubt" label="No Doubt">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Fleetwood Mac" label="Fleetwood Mac">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Sam Fender" label="Sam Fender">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Willow" label="Willow">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Him" label="Him">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Black Keys" label="The Black Keys">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Hole" label="Hole">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Portugal. The Man" label="Portugal. The Man">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Foo Fighters" label="Foo Fighters">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Creedence Clearwater Revival" label="Creedence Clearwater Revival">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Jet" label="Jet">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Nickelback" label="Nickelback">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Royal Blood" label="Royal Blood">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Boston" label="Boston">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="King Gizzard &amp; The Lizard Wizard" label="King Gizzard &amp; The Lizard Wizard">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Bloc Party" label="Bloc Party">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="311" label="311">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Yo La Tengo" label="Yo La Tengo">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Verve" label="The Verve">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The 1975" label="The 1975">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Peter Gabriel" label="Peter Gabriel">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="wifiskeleton" label="wifiskeleton">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Crosby, Stills, Nash &amp; Young" label="Crosby, Stills, Nash &amp; Young">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="TV on the Radio" label="TV on the Radio">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Smash Mouth" label="Smash Mouth">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Sting" label="Sting">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Chicago" label="Chicago">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Cássia Eller" label="Cássia Eller">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Dire Straits" label="Dire Straits">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="U2" label="U2">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Van Halen" label="Van Halen">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Roy Orbison" label="Roy Orbison">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Def Leppard" label="Def Leppard">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Faith No More" label="Faith No More">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Cars" label="The Cars">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Rush" label="Rush">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Måneskin" label="Måneskin">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Imagine Dragons" label="Imagine Dragons">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Djo" label="Djo">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Milky Chance" label="Milky Chance">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Mitski" label="Mitski">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Santana" label="Santana">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Kaiser Chiefs" label="Kaiser Chiefs">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="geordie greep" label="geordie greep">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="quannnic" label="quannnic">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Cage the Elephant" label="Cage the Elephant">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Snow Patrol" label="Snow Patrol">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Walk the Moon" label="Walk the Moon">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="The Cranberries" label="The Cranberries">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Pixies" label="Pixies">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Pinegrove" label="Pinegrove">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Rolling Stones" label="The Rolling Stones">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Tom Petty" label="Tom Petty">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="ZZ Top" label="ZZ Top">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Player" label="Player">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Che" label="Che">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Stereophonics" label="Stereophonics">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Linkin Park" label="Linkin Park">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Bush" label="Bush">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Wheatus" label="Wheatus">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Keane" label="Keane">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Puddle of Mudd" label="Puddle of Mudd">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Eagles" label="Eagles">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Unknown Mortal Orchestra" label="Unknown Mortal Orchestra">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Eden" label="Eden">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Sheryl Crow" label="Sheryl Crow">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Elvis Presley" label="Elvis Presley">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Sir Chloe" label="Sir Chloe">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Franz Ferdinand" label="Franz Ferdinand">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="ONE OK ROCK" label="ONE OK ROCK">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Mannequin Pussy" label="Mannequin Pussy">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Jefferson Airplane" label="Jefferson Airplane">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Lou Reed" label="Lou Reed">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Los Hermanos" label="Los Hermanos">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="MJ Lenderman" label="MJ Lenderman">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Bon Jovi" label="Bon Jovi">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Neil Young" label="Neil Young">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Cazuza" label="Cazuza">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Chuck Berry" label="Chuck Berry">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="King Gnu" label="King Gnu">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="KANA-BOON" label="KANA-BOON">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="The Pretty Reckless" label="The Pretty Reckless">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Coyote Theory" label="Coyote Theory">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Neon Trees" label="Neon Trees">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Kaleo" label="Kaleo">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Matchbox Twenty" label="Matchbox Twenty">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Kenny Loggins" label="Kenny Loggins">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Bruce Springsteen" label="Bruce Springsteen">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="The Mamas &amp; the Papas" label="The Mamas &amp; the Papas">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Queens of the Stone Age" label="Queens of the Stone Age">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Have a Nice Life" label="Have a Nice Life">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Steve Miller Band" label="Steve Miller Band">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Steely Dan" label="Steely Dan">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Malcolm Todd" label="Malcolm Todd">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Bryan Adams" label="Bryan Adams">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Sigur Rós" label="Sigur Rós">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Pat Benatar" label="Pat Benatar">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Train" label="Train">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Paramore" label="Paramore">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="wave to earth" label="wave to earth">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Stevie Nicks" label="Stevie Nicks">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Placebo" label="Placebo">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Rod Stewart" label="Rod Stewart">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Tom Petty and The Heartbreakers" label="Tom Petty and The Heartbreakers">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="George Harrison" label="George Harrison">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Alice Cooper" label="Alice Cooper">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Modest Mouse" label="Modest Mouse">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="ASIAN KUNG-FU GENERATION" label="ASIAN KUNG-FU GENERATION">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Animal Collective" label="Animal Collective">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Nirvana" label="Nirvana">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="King Crimson" label="King Crimson">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="David Bowie" label="David Bowie">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Vundabar" label="Vundabar">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Wings" label="Wings">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="John Lennon" label="John Lennon">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Rare Occasions" label="The Rare Occasions">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Crowded House" label="Crowded House">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Os Paralamas Do Sucesso" label="Os Paralamas Do Sucesso">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Blondie" label="Blondie">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Oasis" label="Oasis">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Violent Femmes" label="Violent Femmes">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Superheaven" label="Superheaven">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Slaughter Beach, Dog" label="Slaughter Beach, Dog">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lit" label="Lit">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Death Cab for Cutie" label="Death Cab for Cutie">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Metric" label="Metric">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Doobie Brothers" label="The Doobie Brothers">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Young the Giant" label="Young the Giant">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="bôa" label="bôa">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Crumb" label="Crumb">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Greta Van Fleet" label="Greta Van Fleet">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Nothing But Thieves" label="Nothing But Thieves">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="American Authors" label="American Authors">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Dream, Ivory" label="Dream, Ivory">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Billy Idol" label="Billy Idol">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="The Wombats" label="The Wombats">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Yes" label="Yes">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Saint Motel" label="Saint Motel">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Dr. Dog" label="Dr. Dog">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Papa Roach" label="Papa Roach">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Kansas" label="Kansas">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Creed" label="Creed">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Soundgarden" label="Soundgarden">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Thirty Seconds to Mars" label="Thirty Seconds to Mars">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Erasmo Carlos" label="Erasmo Carlos">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Pitty" label="Pitty">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Smashing Pumpkins" label="The Smashing Pumpkins">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Frank Zappa" label="Frank Zappa">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Zombies" label="The Zombies">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Rita Lee" label="Rita Lee">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Counting Crows" label="Counting Crows">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Beach Bunny" label="Beach Bunny">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Inhaler" label="Inhaler">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="3 Doors Down" label="3 Doors Down">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Pink Floyd" label="Pink Floyd">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Lenny Kravitz" label="Lenny Kravitz">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="The Last Dinner Party" label="The Last Dinner Party">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The National" label="The National">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="KMFDM" label="KMFDM">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Kasabian" label="Kasabian">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Beach Fossils" label="Beach Fossils">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Jeff Buckley" label="Jeff Buckley">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Stone Temple Pilots" label="Stone Temple Pilots">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Goo Goo Dolls" label="The Goo Goo Dolls">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Paul McCartney" label="Paul McCartney">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Vampire Weekend" label="Vampire Weekend">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Halestorm" label="Halestorm">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Strokes" label="The Strokes">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Chris Isaak" label="Chris Isaak">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Seether" label="Seether">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Thin Lizzy" label="Thin Lizzy">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The walters" label="The walters">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Beach Boys" label="The Beach Boys">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Evanescence" label="Evanescence">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Don McLean" label="Don McLean">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Supergrass" label="Supergrass">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Skillet" label="Skillet">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Incubus" label="Incubus">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Rainbow Kitten Surprise" label="Rainbow Kitten Surprise">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Hoobastank" label="Hoobastank">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Wilco" label="Wilco">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Joan Jett &amp; The Blackhearts" label="Joan Jett &amp; The Blackhearts">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Plain White T's" label="Plain White T's">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="New West" label="New West">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Wunderhorse" label="Wunderhorse">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Cochise" label="Cochise">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Enjambre" label="Enjambre">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Rick Springfield" label="Rick Springfield">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Foreigner" label="Foreigner">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Eric Clapton" label="Eric Clapton">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Coldplay" label="Coldplay">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Jack Johnson" label="Jack Johnson">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Drums" label="The Drums">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Duster" label="Duster">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Animals" label="The Animals">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Lucy Dacus" label="Lucy Dacus">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Doors" label="The Doors">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Third Eye Blind" label="Third Eye Blind">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Weezer" label="Weezer">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Police" label="The Police">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Simple Minds" label="Simple Minds">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="i don't like mirrors" label="i don't like mirrors">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Pearl Jam" label="Pearl Jam">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Beaches" label="The Beaches">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Briston Maroney" label="Briston Maroney">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Who" label="The Who">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Blue Öyster Cult" label="Blue Öyster Cult">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Bob Seger" label="Bob Seger">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Indigo De Souza" label="Indigo De Souza">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Finger Eleven" label="Finger Eleven">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Manchester Orchestra" label="Manchester Orchestra">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Car Seat Headrest" label="Car Seat Headrest">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Charlie Brown JR." label="Charlie Brown JR.">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="PVRIS" label="PVRIS">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Alex G" label="Alex G">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Beatles" label="The Beatles">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Peach Pit" label="Peach Pit">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Wallows" label="Wallows">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="OneRepublic" label="OneRepublic">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Ramirez" label="Ramirez">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Staind" label="Staind">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Primus" label="Primus">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Kinks" label="The Kinks">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Joy Again" label="Joy Again">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="fleshwater" label="fleshwater">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="RADWIMPS" label="RADWIMPS">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="R.E.M." label="R.E.M.">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Journey" label="Journey">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Deep Purple" label="Deep Purple">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="T. Rex" label="T. Rex">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Catfish and The Bottlemen" label="Catfish and The Bottlemen">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Jimi Hendrix" label="Jimi Hendrix">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Beach Weather" label="Beach Weather">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Interpol" label="Interpol">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Kiss" label="Kiss">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Grateful Dead" label="Grateful Dead">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lynyrd Skynyrd" label="Lynyrd Skynyrd">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Sleeping at Last" label="Sleeping at Last">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Flipturn" label="Flipturn">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="INXS" label="INXS">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Oingo Boingo" label="Oingo Boingo">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Novulent" label="Novulent">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="The Black Keys" target="Alice Cooper" id="0" />
+      <edge source="Portugal. The Man" target="Unknown Mortal Orchestra" id="1" />
+      <edge source="The Rolling Stones" target="Sheryl Crow" id="2" />
+      <edge source="Tom Petty" target="Stevie Nicks" id="3" />
+      <edge source="Wings" target="Paul McCartney" id="4" />
+      <edge source="Creed" target="3 Doors Down" id="5" />
+      <edge source="Creed" target="Finger Eleven" id="6" />
+      <edge source="3 Doors Down" target="Finger Eleven" id="7" />
+      <edge source="The Beaches" target="Beach Weather" id="8" />
+    </edges>
+  </graph>
+</gexf>

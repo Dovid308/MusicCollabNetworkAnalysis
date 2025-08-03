@@ -1,0 +1,214 @@
+NETWORK ANALYSIS REPORT
+============================================================
+
+Basic Information:
+- Nodes: 1271
+- Edges: 815
+- Density: 0.001010
+- Average Clustering Coefficient: 0.0332
+
+Degree Statistics:
+- Average Degree: 1.28
+- Median Degree: 0.00
+- Std Dev Degree: 2.59
+- Min Degree: 0
+- Max Degree: 23
+
+Component Analysis:
+- Connected Components: 802
+- Largest Component Size: 390
+- Largest Component Ratio: 30.68%
+
+Path Metrics (Largest Component):
+- Average Path Length: 5.3336
+- Diameter: 15
+
+Major_label Distribution:
+- Independent: 835 (65.70%)
+- Atlantic Records: 43 (3.38%)
+- Warner Records: 41 (3.23%)
+- Columbia Records: 41 (3.23%)
+- Interscope Records: 40 (3.15%)
+- RCA Records: 34 (2.68%)
+- BMG Rights Management: 33 (2.60%)
+- Republic Records: 25 (1.97%)
+- Capitol Records: 16 (1.26%)
+- Epic Records: 13 (1.02%)
+- Island Records: 13 (1.02%)
+- Legacy Recordings: 12 (0.94%)
+- Def Jam Recordings: 12 (0.94%)
+- 300 Entertainment: 9 (0.71%)
+- Rise Records: 9 (0.71%)
+- Polydor Records: 9 (0.71%)
+- Fueled by Ramen: 8 (0.63%)
+- Parlophone Records: 8 (0.63%)
+- Mercury Records: 7 (0.55%)
+- Geffen Records: 6 (0.47%)
+- Rhino Entertainment: 6 (0.47%)
+- Motown Records: 5 (0.39%)
+- Reprise Records: 5 (0.39%)
+- Elektra Records: 5 (0.39%)
+- Sony Music Entertainment: 5 (0.39%)
+- Alamo Records: 3 (0.24%)
+- Decca Records: 3 (0.24%)
+- Sony Classical: 2 (0.16%)
+- Sanctuary Records: 2 (0.16%)
+- Roadrunner Records: 2 (0.16%)
+- MMG: 2 (0.16%)
+- GOOD Music: 2 (0.16%)
+- Verve Records: 2 (0.16%)
+- Arista Records: 2 (0.16%)
+- Blue Note Records: 1 (0.08%)
+- Ultra Records: 1 (0.08%)
+- S-Curve Records: 1 (0.08%)
+- Infectious Music: 1 (0.08%)
+- Skint Records: 1 (0.08%)
+- Bad Boy Records: 1 (0.08%)
+- Roc Nation: 1 (0.08%)
+- Nonesuch Records: 1 (0.08%)
+- Highbridge the Label: 1 (0.08%)
+- Sire Records: 1 (0.08%)
+- Cash Money Records: 1 (0.08%)
+
+
+--- Homophily Analysis ---
+Homophily Ratio (original): 0.3534
+Average Blau's Heterogeneity Index: 0.2748
+
+Mixing Matrix:
+                          300 Entertainment  Alamo Records  Arista Records  ...  Ultra Records  Verve Records  Warner Records
+300 Entertainment                         1              0               0  ...              0              0               0
+Alamo Records                             0              0               0  ...              0              0               0
+Arista Records                            0              0               0  ...              0              0               0
+Atlantic Records                          2              0               0  ...              0              0               1
+BMG Rights Management                     3              1               0  ...              0              0               1
+Bad Boy Records                           0              0               0  ...              0              0               0
+Blue Note Records                         0              0               0  ...              0              0               0
+Capitol Records                           2              1               0  ...              0              0               2
+Cash Money Records                        0              0               0  ...              0              0               0
+Columbia Records                          2              2               0  ...              0              0               4
+Decca Records                             0              0               0  ...              0              0               0
+Def Jam Recordings                        3              2               0  ...              0              0               2
+Elektra Records                           0              0               0  ...              0              0               0
+Epic Records                              7              2               0  ...              0              0               1
+Fueled by Ramen                           0              0               0  ...              0              0               0
+GOOD Music                                0              0               0  ...              0              0               0
+Geffen Records                            0              1               0  ...              0              0               0
+Highbridge the Label                      1              1               0  ...              0              0               0
+Independent                               6              5               1  ...              1              0              13
+Infectious Music                          0              0               0  ...              0              0               0
+Interscope Records                        3              1               0  ...              0              0               2
+Island Records                            0              0               0  ...              0              0               0
+Legacy Recordings                         0              0               0  ...              0              0               0
+MMG                                       0              0               0  ...              0              0               0
+Mercury Records                           0              0               0  ...              0              0               0
+Motown Records                            2              0               0  ...              0              0               0
+Nonesuch Records                          0              0               0  ...              0              0               0
+Parlophone Records                        0              0               0  ...              0              0               0
+Polydor Records                           0              0               0  ...              0              0               0
+RCA Records                               5              0               0  ...              0              0               3
+Reprise Records                           0              0               0  ...              0              0               0
+Republic Records                          1              0               0  ...              0              0               0
+Rhino Entertainment                       0              0               0  ...              0              0               0
+Rise Records                              0              0               0  ...              0              0               0
+Roadrunner Records                        0              0               0  ...              0              0               0
+Roc Nation                                0              0               0  ...              0              0               0
+S-Curve Records                           0              0               0  ...              0              0               0
+Sanctuary Records                         0              0               0  ...              0              0               0
+Sire Records                              0              0               0  ...              0              0               0
+Skint Records                             0              0               0  ...              0              0               0
+Sony Classical                            0              0               0  ...              0              0              10
+Sony Music Entertainment                  0              0               0  ...              0              0               0
+Ultra Records                             0              0               0  ...              0              0               0
+Verve Records                             0              0               0  ...              0              0               0
+Warner Records                            0              0               0  ...              0              0              61
+
+[45 rows x 45 columns]
+
+E-I Index by Major_label:
+  Warner Records: -0.2200
+  Infectious Music: 0.0000
+  Rhino Entertainment: 0.0000
+  Verve Records: 0.0000
+  GOOD Music: 0.0000
+  Bad Boy Records: 0.0000
+  Blue Note Records: 0.0000
+  S-Curve Records: 0.0000
+  Decca Records: 0.0000
+  Independent: 0.2113
+  Sony Music Entertainment: 0.6000
+  Columbia Records: 0.7714
+  Interscope Records: 0.7849
+  MMG: 0.8182
+  Mercury Records: 0.8182
+  RCA Records: 0.8205
+  Parlophone Records: 0.8333
+  Island Records: 0.8462
+  Epic Records: 0.9012
+  Republic Records: 0.9024
+  Def Jam Recordings: 0.9062
+  Atlantic Records: 0.9250
+  BMG Rights Management: 0.9394
+  300 Entertainment: 0.9474
+  Capitol Records: 0.9524
+  Geffen Records: 1.0000
+  Legacy Recordings: 1.0000
+  Roadrunner Records: 1.0000
+  Sanctuary Records: 1.0000
+  Arista Records: 1.0000
+  Fueled by Ramen: 1.0000
+  Roc Nation: 1.0000
+  Highbridge the Label: 1.0000
+  Skint Records: 1.0000
+  Rise Records: 1.0000
+  Sire Records: 1.0000
+  Sony Classical: 1.0000
+  Ultra Records: 1.0000
+  Polydor Records: 1.0000
+  Nonesuch Records: 1.0000
+  Elektra Records: 1.0000
+  Reprise Records: 1.0000
+  Motown Records: 1.0000
+  Cash Money Records: 1.0000
+  Alamo Records: 1.0000
+
+Attribute Assortativity Coefficient: 0.2085
+
+--- Null Model Analysis ---
+Original homophily ratio: 0.3534
+Original assortativity coefficient: 0.2085
+  Running rewiring model iteration 10/100
+  Running rewiring model iteration 20/100
+  Running rewiring model iteration 30/100
+  Running rewiring model iteration 40/100
+  Running rewiring model iteration 50/100
+  Running rewiring model iteration 60/100
+  Running rewiring model iteration 70/100
+  Running rewiring model iteration 80/100
+  Running rewiring model iteration 90/100
+Rewiring Model - Avg homophily: 0.1788
+Rewiring Model - Avg assortativity: -0.0052
+  Running attribute shuffling iteration 10/100
+  Running attribute shuffling iteration 20/100
+  Running attribute shuffling iteration 30/100
+  Running attribute shuffling iteration 40/100
+  Running attribute shuffling iteration 50/100
+  Running attribute shuffling iteration 60/100
+  Running attribute shuffling iteration 70/100
+  Running attribute shuffling iteration 80/100
+  Running attribute shuffling iteration 90/100
+Attribute Shuffling - Avg homophily: 0.4374
+Attribute Shuffling - Avg assortativity: -0.0022
+
+Statistical significance (p-values):
+Rewiring Model: 0.000000
+Attribute Shuffling: 0.000000
+
+--- Community Detection ---
+Using largest connected component with 390 nodes
+Number of attribute-based communities: 33
+Number of Louvain-detected communities: 14
+Normalized Mutual Information (NMI): 0.1934
+Adjusted Rand Index (ARI): -0.0084
+Modularity of attribute-based partition: 0.0900
+Modularity of Louvain partition: 0.6353

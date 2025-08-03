@@ -1,0 +1,53 @@
+ARTIST COLLABORATION NETWORK STATISTICS
+=====================================
+
+Artist distribution by major label:
+Independent: 835 artists (65.7%) - 277 connected, 558 isolated
+Legacy Recordings: 12 artists (0.9%) - 6 connected, 6 isolated
+Fueled by Ramen: 8 artists (0.6%) - 2 connected, 6 isolated
+BMG Rights Management: 33 artists (2.6%) - 8 connected, 25 isolated
+Interscope Records: 40 artists (3.1%) - 33 connected, 7 isolated
+Atlantic Records: 43 artists (3.4%) - 20 connected, 23 isolated
+Epic Records: 13 artists (1.0%) - 10 connected, 3 isolated
+300 Entertainment: 9 artists (0.7%) - 7 connected, 2 isolated
+Warner Records: 41 artists (3.2%) - 26 connected, 15 isolated
+Geffen Records: 6 artists (0.5%) - 3 connected, 3 isolated
+Sony Classical: 2 artists (0.2%) - 2 connected, 0 isolated
+Capitol Records: 16 artists (1.3%) - 8 connected, 8 isolated
+Island Records: 13 artists (1.0%) - 7 connected, 6 isolated
+Rise Records: 9 artists (0.7%) - 2 connected, 7 isolated
+Rhino Entertainment: 6 artists (0.5%) - 0 connected, 6 isolated
+Parlophone Records: 8 artists (0.6%) - 5 connected, 3 isolated
+RCA Records: 34 artists (2.7%) - 24 connected, 10 isolated
+Def Jam Recordings: 12 artists (0.9%) - 8 connected, 4 isolated
+Columbia Records: 41 artists (3.2%) - 22 connected, 19 isolated
+Republic Records: 25 artists (2.0%) - 14 connected, 11 isolated
+Blue Note Records: 1 artists (0.1%) - 0 connected, 1 isolated
+Motown Records: 5 artists (0.4%) - 3 connected, 2 isolated
+Sanctuary Records: 2 artists (0.2%) - 1 connected, 1 isolated
+Reprise Records: 5 artists (0.4%) - 1 connected, 4 isolated
+Elektra Records: 5 artists (0.4%) - 1 connected, 4 isolated
+Roadrunner Records: 2 artists (0.2%) - 1 connected, 1 isolated
+Sony Music Entertainment: 5 artists (0.4%) - 4 connected, 1 isolated
+Ultra Records: 1 artists (0.1%) - 1 connected, 0 isolated
+S-Curve Records: 1 artists (0.1%) - 0 connected, 1 isolated
+Alamo Records: 3 artists (0.2%) - 3 connected, 0 isolated
+MMG: 2 artists (0.2%) - 2 connected, 0 isolated
+GOOD Music: 2 artists (0.2%) - 0 connected, 2 isolated
+Polydor Records: 9 artists (0.7%) - 2 connected, 7 isolated
+Mercury Records: 7 artists (0.6%) - 4 connected, 3 isolated
+Infectious Music: 1 artists (0.1%) - 0 connected, 1 isolated
+Verve Records: 2 artists (0.2%) - 0 connected, 2 isolated
+Decca Records: 3 artists (0.2%) - 0 connected, 3 isolated
+Skint Records: 1 artists (0.1%) - 1 connected, 0 isolated
+Bad Boy Records: 1 artists (0.1%) - 0 connected, 1 isolated
+Roc Nation: 1 artists (0.1%) - 1 connected, 0 isolated
+Arista Records: 2 artists (0.2%) - 1 connected, 1 isolated
+Nonesuch Records: 1 artists (0.1%) - 1 connected, 0 isolated
+Highbridge the Label: 1 artists (0.1%) - 1 connected, 0 isolated
+Sire Records: 1 artists (0.1%) - 1 connected, 0 isolated
+Cash Money Records: 1 artists (0.1%) - 1 connected, 0 isolated
+
+Network has 1271 artists total:
+- 514 connected artists with 815 direct collaborations
+- 757 isolated artists with no collaborations

@@ -1,0 +1,1544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-07-23">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="main_genre" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Ana Frango elétrico" label="Ana Frango elétrico">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="P!nk" label="P!nk">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Rebecca Black" label="Rebecca Black">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Niall Horan" label="Niall Horan">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="The Cardigans" label="The Cardigans">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="jimin" label="jimin">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Gwen Stefani" label="Gwen Stefani">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="artms" label="artms">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Japanese Breakfast" label="Japanese Breakfast">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Emilia" label="Emilia">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Fujii Kaze" label="Fujii Kaze">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Bibi" label="Bibi">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="ericdoa" label="ericdoa">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Bronski Beat" label="Bronski Beat">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jane Remover" label="Jane Remover">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lewis Capaldi" label="Lewis Capaldi">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Timothée Chalamet" label="Timothée Chalamet">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Justin Timberlake" label="Justin Timberlake">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Artemas" label="Artemas">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Olly Alexander (Years &amp; Years)" label="Olly Alexander (Years &amp; Years)">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="SurFaces" label="SurFaces">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Haddaway" label="Haddaway">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Hippo Campus" label="Hippo Campus">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lykke Li" label="Lykke Li">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Halsey" label="Halsey">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Nessa Barrett" label="Nessa Barrett">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="NCT 127" label="NCT 127">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="aespa" label="aespa">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Maisie Peters" label="Maisie Peters">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Gloria Groove" label="Gloria Groove">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="LE SSERAFIM" label="LE SSERAFIM">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="grentperez" label="grentperez">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="100 gecs" label="100 gecs">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="The Ronettes" label="The Ronettes">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="STAYC" label="STAYC">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="beabadoobee" label="beabadoobee">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Soft Cell" label="Soft Cell">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="P1Harmony" label="P1Harmony">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Kim Petras" label="Kim Petras">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Sarah Kinsley" label="Sarah Kinsley">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lola Young" label="Lola Young">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Billie Eilish" label="Billie Eilish">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Rosé" label="Rosé">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Liana Flores" label="Liana Flores">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Ava Max" label="Ava Max">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Max" label="Max">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Tove Lo" label="Tove Lo">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="half•alive" label="half•alive">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Kesha" label="Kesha">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jonas Brothers" label="Jonas Brothers">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Louis Tomlinson" label="Louis Tomlinson">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Dominic Fike" label="Dominic Fike">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Mareux" label="Mareux">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Saint Avangeline" label="Saint Avangeline">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Ricky Montgomery" label="Ricky Montgomery">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Elton John" label="Elton John">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lisa" label="Lisa">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Big Time Rush" label="Big Time Rush">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lyn Lapid" label="Lyn Lapid">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lukas Graham" label="Lukas Graham">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Cup of Joe" label="Cup of Joe">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="NCT DREAM" label="NCT DREAM">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="griff" label="griff">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Clairo" label="Clairo">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Raye" label="Raye">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Allie X" label="Allie X">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="ENHYPEN" label="ENHYPEN">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Connie Francis" label="Connie Francis">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="The Human League" label="The Human League">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Cults" label="Cults">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Cafuné" label="Cafuné">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="BJ Lips" label="BJ Lips">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Zayn" label="Zayn">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="HAIM" label="HAIM">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Tate McRae" label="Tate McRae">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Mika" label="Mika">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Rex Orange County" label="Rex Orange County">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="The Hellp" label="The Hellp">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="The Script" label="The Script">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Donna Summer" label="Donna Summer">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Hikaru Utada" label="Hikaru Utada">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Elita" label="Elita">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Conan Gray" label="Conan Gray">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Isabel LaRosa" label="Isabel LaRosa">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Chloe Moriondo" label="Chloe Moriondo">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Selena Gomez" label="Selena Gomez">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Dean Lewis" label="Dean Lewis">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Robbie Williams" label="Robbie Williams">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Ariana Grande" label="Ariana Grande">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Shawn Mendes" label="Shawn Mendes">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Troye Sivan" label="Troye Sivan">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Riovaz" label="Riovaz">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Meghan Trainor" label="Meghan Trainor">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lyn" label="Lyn">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Natalie Imbruglia" label="Natalie Imbruglia">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Fifty Fifty" label="Fifty Fifty">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Still Woozy" label="Still Woozy">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Sixpence None the Richer" label="Sixpence None the Richer">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Dutch Melrose" label="Dutch Melrose">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Sabrina Carpenter" label="Sabrina Carpenter">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="TV Girl" label="TV Girl">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="yoasobi" label="yoasobi">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Rachel Chinouriri" label="Rachel Chinouriri">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Luan Santana" label="Luan Santana">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Selena Gomez &amp; the Scene" label="Selena Gomez &amp; the Scene">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Mariah Carey" label="Mariah Carey">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Paris Paloma" label="Paris Paloma">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Julia Wolf" label="Julia Wolf">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="ABBA" label="ABBA">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Soccer Mommy" label="Soccer Mommy">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Sasha Alex Sloan" label="Sasha Alex Sloan">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Belle and Sebastian" label="Belle and Sebastian">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Chappell Roan" label="Chappell Roan">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jennie" label="Jennie">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="RuPaul" label="RuPaul">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Julia Michaels" label="Julia Michaels">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="FINNEAS" label="FINNEAS">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Troy" label="Troy">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Alex Warren" label="Alex Warren">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Camila Cabello" label="Camila Cabello">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Miley Cyrus" label="Miley Cyrus">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Chrystal" label="Chrystal">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Ado" label="Ado">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="L'Impératrice" label="L'Impératrice">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Enrique Iglesias" label="Enrique Iglesias">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Christina Perri" label="Christina Perri">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Kep1er" label="Kep1er">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Alphaville" label="Alphaville">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="X Ambassadors" label="X Ambassadors">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Benson Boone" label="Benson Boone">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Melanie Martinez" label="Melanie Martinez">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Videoclub" label="Videoclub">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Demi Lovato" label="Demi Lovato">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Elley Duhé" label="Elley Duhé">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Doja Cat" label="Doja Cat">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Yot Club" label="Yot Club">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Miki Matsubara" label="Miki Matsubara">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Olivia Newton-John" label="Olivia Newton-John">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Ashe" label="Ashe">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="FROMIS_9" label="FROMIS_9">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="RM" label="RM">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="G-Dragon" label="G-Dragon">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Carly Rae Jepsen" label="Carly Rae Jepsen">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="DECO*27" label="DECO*27">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Bleachers" label="Bleachers">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="The Marías" label="The Marías">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Whitney Houston" label="Whitney Houston">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Rick Astley" label="Rick Astley">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lucki" label="Lucki">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Daryl Hall &amp; John Oates" label="Daryl Hall &amp; John Oates">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Mon Laferte" label="Mon Laferte">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jordana" label="Jordana">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="VACATIONS" label="VACATIONS">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="(G)I-DLE" label="(G)I-DLE">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Carpenters" label="Carpenters">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jung Kook" label="Jung Kook">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Juanes" label="Juanes">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="James Arthur" label="James Arthur">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Odetari" label="Odetari">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Dayglow" label="Dayglow">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="ATEEZ" label="ATEEZ">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Céline Dion" label="Céline Dion">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Margo Guryan" label="Margo Guryan">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="2NE1" label="2NE1">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Cher" label="Cher">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="STRAY KIDS" label="STRAY KIDS">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="CHVRCHES" label="CHVRCHES">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Rachel Zegler" label="Rachel Zegler">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Declan Mckenna" label="Declan Mckenna">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Andy Grammer" label="Andy Grammer">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Tennis" label="Tennis">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Current Joys" label="Current Joys">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="NCT" label="NCT">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Loossemble" label="Loossemble">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="MAGDALENA BAY" label="MAGDALENA BAY">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Bebe Rexha" label="Bebe Rexha">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Tears for Fears" label="Tears for Fears">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="of Montreal" label="of Montreal">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Claire Rosinkranz" label="Claire Rosinkranz">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Tatsuya Kitani" label="Tatsuya Kitani">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Florence + the Machine" label="Florence + the Machine">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Julie" label="Julie">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Pabllo Vittar" label="Pabllo Vittar">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jennifer Lopez" label="Jennifer Lopez">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="SYML" label="SYML">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="A Flock of Seagulls" label="A Flock of Seagulls">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Matt Maltese" label="Matt Maltese">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Remi Wolf" label="Remi Wolf">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Suki Waterhouse" label="Suki Waterhouse">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="boynextdoor" label="boynextdoor">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="LOVING" label="LOVING">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="ROAR" label="ROAR">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="XG" label="XG">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Anne-Marie" label="Anne-Marie">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="5 Seconds of Summer" label="5 Seconds of Summer">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Benny Blanco" label="Benny Blanco">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Taeko Onuki" label="Taeko Onuki">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="slayyyter" label="slayyyter">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Nancy Sinatra" label="Nancy Sinatra">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Shakira" label="Shakira">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="The B-52's" label="The B-52's">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Dua Lipa" label="Dua Lipa">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Selena" label="Selena">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Aly &amp; AJ" label="Aly &amp; AJ">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lady Gaga" label="Lady Gaga">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Charli XCX" label="Charli XCX">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Janet Jackson" label="Janet Jackson">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Snow Strippers" label="Snow Strippers">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Anna of the North" label="Anna of the North">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Duran Duran" label="Duran Duran">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Men I Trust" label="Men I Trust">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Between Friends" label="Between Friends">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Madison Beer" label="Madison Beer">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Reneé Rapp" label="Reneé Rapp">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="WAYV" label="WAYV">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="siouxxie sixxsta" label="siouxxie sixxsta">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lauv" label="Lauv">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Quadeca" label="Quadeca">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Katy Perry" label="Katy Perry">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Sophie Ellis-Bextor" label="Sophie Ellis-Bextor">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Natalia Lafourcade" label="Natalia Lafourcade">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Alec Benjamin" label="Alec Benjamin">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="DAY6" label="DAY6">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Seventeen" label="Seventeen">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Becky G" label="Becky G">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jawny" label="Jawny">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Hybs" label="Hybs">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Slow Pulp" label="Slow Pulp">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Heidi Montag" label="Heidi Montag">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="NMixx" label="NMixx">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Gracie Abrams" label="Gracie Abrams">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Rina Sawayama" label="Rina Sawayama">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Itzy" label="Itzy">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Rita Ora" label="Rita Ora">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Modern Talking" label="Modern Talking">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Pet Shop Boys" label="Pet Shop Boys">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Mother Mother" label="Mother Mother">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Vanessa Carlton" label="Vanessa Carlton">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Britney Manson" label="Britney Manson">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="TOMORROW X TOGETHER" label="TOMORROW X TOGETHER">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Alexandra Stan" label="Alexandra Stan">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="RIIZE" label="RIIZE">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Poppy" label="Poppy">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Frankie Cosmos" label="Frankie Cosmos">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Black Box Recorder" label="Black Box Recorder">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="BØRNS" label="BØRNS">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Carly Simon" label="Carly Simon">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Red Velvet" label="Red Velvet">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="KT Tunstall" label="KT Tunstall">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Nilüfer Yanya" label="Nilüfer Yanya">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="TWICE" label="TWICE">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Nena" label="Nena">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Dove Cameron" label="Dove Cameron">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Zara Larsson" label="Zara Larsson">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Kylie Minogue" label="Kylie Minogue">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="AJR" label="AJR">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="James Blunt" label="James Blunt">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Luis Fonsi" label="Luis Fonsi">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Girl In Red" label="Girl In Red">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Cyndi Lauper" label="Cyndi Lauper">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lany" label="Lany">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Vaundy" label="Vaundy">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="DNCE" label="DNCE">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jeremy Zucker" label="Jeremy Zucker">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lay Bankz" label="Lay Bankz">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Bonnie Tyler" label="Bonnie Tyler">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Alessia Cara" label="Alessia Cara">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Olivia Rodrigo" label="Olivia Rodrigo">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Mr.kitty" label="Mr.kitty">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="I DONT KNOW HOW BUT THEY FOUND ME" label="I DONT KNOW HOW BUT THEY FOUND ME">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jason Mraz" label="Jason Mraz">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="SHINee" label="SHINee">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Luísa Sonza" label="Luísa Sonza">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Maggie Rogers" label="Maggie Rogers">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Foster the People" label="Foster the People">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Ed Sheeran" label="Ed Sheeran">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="David Kushner" label="David Kushner">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Kenshi Yonezu" label="Kenshi Yonezu">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Kai" label="Kai">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Royel Otis" label="Royel Otis">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Jay Park" label="Jay Park">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Sydney Rose" label="Sydney Rose">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Kelly Clarkson" label="Kelly Clarkson">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Roxette" label="Roxette">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Ive" label="Ive">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Tina Turner" label="Tina Turner">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Exo" label="Exo">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lana Del Rey" label="Lana Del Rey">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Bb trickz" label="Bb trickz">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="boywithuke" label="boywithuke">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Caroline Polachek" label="Caroline Polachek">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="NewJeans" label="NewJeans">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="mxmtoon" label="mxmtoon">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Dead or Alive" label="Dead or Alive">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Nelly Furtado" label="Nelly Furtado">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Underscores" label="Underscores">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="St. Vincent" label="St. Vincent">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+      <node id="Lizzy McAlpine" label="Lizzy McAlpine">
+        <attvalues>
+          <attvalue for="0" value="pop" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Jane Remover" target="Underscores" id="0" />
+      <edge source="Artemas" target="Nessa Barrett" id="1" />
+      <edge source="Kim Petras" target="Katy Perry" id="2" />
+      <edge source="Billie Eilish" target="Charli XCX" id="3" />
+      <edge source="Liana Flores" target="Matt Maltese" id="4" />
+      <edge source="Tove Lo" target="Kylie Minogue" id="5" />
+      <edge source="Tove Lo" target="Nelly Furtado" id="6" />
+      <edge source="half•alive" target="Jordana" id="7" />
+      <edge source="Kesha" target="Charli XCX" id="8" />
+      <edge source="Dominic Fike" target="Jennie" id="9" />
+      <edge source="Elton John" target="Dua Lipa" id="10" />
+      <edge source="Lisa" target="Doja Cat" id="11" />
+      <edge source="Selena Gomez" target="The Marías" id="12" />
+      <edge source="Selena Gomez" target="Gracie Abrams" id="13" />
+      <edge source="Selena Gomez" target="Benny Blanco" id="14" />
+      <edge source="Dean Lewis" target="Sasha Alex Sloan" id="15" />
+      <edge source="Ariana Grande" target="Kelly Clarkson" id="16" />
+      <edge source="Ariana Grande" target="Charli XCX" id="17" />
+      <edge source="Troye Sivan" target="Charli XCX" id="18" />
+      <edge source="Sabrina Carpenter" target="Girl In Red" id="19" />
+      <edge source="TV Girl" target="Frankie Cosmos" id="20" />
+      <edge source="TV Girl" target="Jordana" id="21" />
+      <edge source="Selena Gomez &amp; the Scene" target="Gracie Abrams" id="22" />
+      <edge source="Selena Gomez &amp; the Scene" target="The Marías" id="23" />
+      <edge source="Jennie" target="Dua Lipa" id="24" />
+      <edge source="L'Impératrice" target="Maggie Rogers" id="25" />
+      <edge source="Demi Lovato" target="Luísa Sonza" id="26" />
+      <edge source="Carly Rae Jepsen" target="Bleachers" id="27" />
+      <edge source="Bleachers" target="Lana Del Rey" id="28" />
+      <edge source="The Marías" target="Benny Blanco" id="29" />
+      <edge source="The Marías" target="Selena" id="30" />
+      <edge source="Rachel Zegler" target="Olivia Rodrigo" id="31" />
+      <edge source="Bebe Rexha" target="Kylie Minogue" id="32" />
+      <edge source="SYML" target="Lana Del Rey" id="33" />
+      <edge source="Benny Blanco" target="Gracie Abrams" id="34" />
+      <edge source="Selena" target="Gracie Abrams" id="35" />
+      <edge source="Charli XCX" target="Bb trickz" id="36" />
+      <edge source="Charli XCX" target="Caroline Polachek" id="37" />
+      <edge source="Lauv" target="TWICE" id="38" />
+    </edges>
+  </graph>
+</gexf>

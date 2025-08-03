@@ -1,0 +1,4888 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="main_genre" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Bossman Dlow">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Dayglow">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Halestorm">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Flume">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Connie Francis">
+      <data key="d0">pop</data>
+    </node>
+    <node id="American Football">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Foreigner">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Ray Charles">
+      <data key="d0">other</data>
+    </node>
+    <node id="Jorja Smith">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Rick Ross">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Rush">
+      <data key="d0">rock</data>
+    </node>
+    <node id="VACATIONS">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Flying Lotus">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="SICKBOYRARI">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Weezer">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Dexys Midnight Runners">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Vince Staples">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Jungle">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Prince">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Little Simz">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Jawny">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Oklou">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Alcione">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Burna Boy">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="DAY6">
+      <data key="d0">pop</data>
+    </node>
+    <node id="pinkpantheress">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Sophie">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Natalie Imbruglia">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Kaleo">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Laufey">
+      <data key="d0">other</data>
+    </node>
+    <node id="Noah Kahan">
+      <data key="d0">other</data>
+    </node>
+    <node id="Home">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Kacey Musgraves">
+      <data key="d0">country</data>
+    </node>
+    <node id="Modern Talking">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Chappell Roan">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Superheaven">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Doobie Brothers">
+      <data key="d0">rock</data>
+    </node>
+    <node id="CupcakKe">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Green Day">
+      <data key="d0">punk</data>
+    </node>
+    <node id="NF">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Tyler, the Creator">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Saint Motel">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Kyan">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Blue Öyster Cult">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Fried By Fluoride">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Frank Zappa">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Flamingos">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Bronski Beat">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Twista">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Offset">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="MC KEVIN O CHRIS">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="ENHYPEN">
+      <data key="d0">pop</data>
+    </node>
+    <node id="my head is empty">
+      <data key="d0">other</data>
+    </node>
+    <node id="Kygo">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Kanye West">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Sheryl Crow">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Ariana Grande">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Djo">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Florence + the Machine">
+      <data key="d0">pop</data>
+    </node>
+    <node id="C418">
+      <data key="d0">other</data>
+    </node>
+    <node id="Oliver Tree">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Beach Fossils">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Sublime">
+      <data key="d0">reggae</data>
+    </node>
+    <node id="Timbaland">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Destroy Lonely">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="WAYV">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Destroy Boys">
+      <data key="d0">punk</data>
+    </node>
+    <node id="boywithuke">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Vanessa Carlton">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Nemzzz">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Mariah the Scientist">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="blink-182">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Kep1er">
+      <data key="d0">pop</data>
+    </node>
+    <node id="John Legend">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Sasha Alex Sloan">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Olivia Rodrigo">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Metro Boomin">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Los Hermanos">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Daughter">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Etta James">
+      <data key="d0">other</data>
+    </node>
+    <node id="NMixx">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Rina Sawayama">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Reneé Rapp">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Soulja Boy">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Blackbear">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Smash Mouth">
+      <data key="d0">rock</data>
+    </node>
+    <node id="bad gyal">
+      <data key="d0">reggae</data>
+    </node>
+    <node id="Toquinho">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Lisa">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Bad Omens">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Waterparks">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Elita">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Janet Jackson">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Myke Towers">
+      <data key="d0">latin</data>
+    </node>
+    <node id="deadmau5">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Os Paralamas Do Sucesso">
+      <data key="d0">rock</data>
+    </node>
+    <node id="NewJeans">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Gunna">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Black Box Recorder">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Swedish House Mafia">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Snow Strippers">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Santana">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Bakar">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Milky Chance">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Kaiser Chiefs">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Natalia Lafourcade">
+      <data key="d0">pop</data>
+    </node>
+    <node id="The Rolling Stones">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Jeremih">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Capital Cities">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Eslabon Armado">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="King Krule">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="cult member">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Tinashe">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="The Paper Kites">
+      <data key="d0">other</data>
+    </node>
+    <node id="Wolfgang Amadeus Mozart">
+      <data key="d0">classical</data>
+    </node>
+    <node id="GLARE">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Tee Grizzley">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Melanie Martinez">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Hozier">
+      <data key="d0">other</data>
+    </node>
+    <node id="Nena">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Cocteau Twins">
+      <data key="d0">punk</data>
+    </node>
+    <node id="James Arthur">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Boldy James">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Jeremy Zucker">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Dope Lemon">
+      <data key="d0">other</data>
+    </node>
+    <node id="Macklemore">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Knocked Loose">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Shania Twain">
+      <data key="d0">country</data>
+    </node>
+    <node id="Junior H">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Dolly Parton">
+      <data key="d0">country</data>
+    </node>
+    <node id="Richy Mitch &amp; The Coal Miners">
+      <data key="d0">other</data>
+    </node>
+    <node id="Pink Floyd">
+      <data key="d0">rock</data>
+    </node>
+    <node id="BØRNS">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Heidi Montag">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Cameron Winter">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Emile Mosseri">
+      <data key="d0">other</data>
+    </node>
+    <node id="Air">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Tom Petty">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Sam Barber">
+      <data key="d0">country</data>
+    </node>
+    <node id="Ashe">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Key Glock">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Lucky Daye">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Clairo">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Johannes Brahms">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Dua Lipa">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Juanes">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Alessia Cara">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Movements">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Staind">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Nardo Wick">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Misfits">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Charli XCX">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Bonobo">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Nirvana">
+      <data key="d0">rock</data>
+    </node>
+    <node id="wifiskeleton">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Nilüfer Yanya">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Zara Larsson">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Lush">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Steve Miller Band">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Labrinth">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Tana">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Black Sabbath">
+      <data key="d0">metal</data>
+    </node>
+    <node id="boynextdoor">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Robin Thicke">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Otis Redding">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Megadeth">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Finger Eleven">
+      <data key="d0">rock</data>
+    </node>
+    <node id="OneRepublic">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Benny the Butcher">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Rachel Chinouriri">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Chase Atlantic">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="RÜFÜS DU SOL">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Ed Sheeran">
+      <data key="d0">pop</data>
+    </node>
+    <node id="artms">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Insane Clown Posse">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="STRAY KIDS">
+      <data key="d0">pop</data>
+    </node>
+    <node id="nettspend">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Ginger Root">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Joe Hisaishi">
+      <data key="d0">other</data>
+    </node>
+    <node id="ASIAN KUNG-FU GENERATION">
+      <data key="d0">rock</data>
+    </node>
+    <node id="ShyGirl">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Oingo Boingo">
+      <data key="d0">rock</data>
+    </node>
+    <node id="T. Rex">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Max">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Armin van Buuren">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Mazzy Star">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Vanessa da Mata">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Pitty">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Keane">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Flo Milli">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="LIL UZI VERT">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="KYLE">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Peter McPoland">
+      <data key="d0">other</data>
+    </node>
+    <node id="Sting">
+      <data key="d0">rock</data>
+    </node>
+    <node id="half•alive">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Slow Pulp">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Papa Roach">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Joan Jett &amp; The Blackhearts">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lil B">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Juicy J">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Ebony">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Ava Max">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Pabllo Vittar">
+      <data key="d0">pop</data>
+    </node>
+    <node id="SZA">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Marilyn Manson">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Jack Harlow">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Keshi">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Zac Brown Band">
+      <data key="d0">country</data>
+    </node>
+    <node id="Daniel Caesar">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Bastille">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Stephen Sanchez">
+      <data key="d0">other</data>
+    </node>
+    <node id="Cage the Elephant">
+      <data key="d0">rock</data>
+    </node>
+    <node id="L'Impératrice">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Nina Simone">
+      <data key="d0">other</data>
+    </node>
+    <node id="Gorillaz">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Zach Bryan">
+      <data key="d0">country</data>
+    </node>
+    <node id="070 Shake">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Björk">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="¥$">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Him">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Roy Orbison">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Placebo">
+      <data key="d0">rock</data>
+    </node>
+    <node id="KANA-BOON">
+      <data key="d0">rock</data>
+    </node>
+    <node id="24kgoldn">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Tom Odell">
+      <data key="d0">other</data>
+    </node>
+    <node id="J Balvin">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Justice">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Death Cab for Cutie">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Indigo De Souza">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Kehlani">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="David Kushner">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Fifty Fifty">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Wheatus">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Selena Gomez">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Maluma">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Gims">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Soft Cell">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Wings">
+      <data key="d0">rock</data>
+    </node>
+    <node id="R.E.M.">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Wu-Tang Clan">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Alok">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Anderson .Paak">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="geordie greep">
+      <data key="d0">rock</data>
+    </node>
+    <node id="DaBaby">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Benson Boone">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Billie Eilish">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Player">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Madvillain">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Project Pat">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Coco &amp; Clair Clair">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="SCYTHERMANE">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Arizona Zervas">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="100 gecs">
+      <data key="d0">pop</data>
+    </node>
+    <node id="amaarae">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="New West">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Racionais Mc's">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Dio">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Dire Straits">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Vaundy">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Quadeca">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ethereal">
+      <data key="d0">metal</data>
+    </node>
+    <node id="lil skies">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Grover Washington, Jr.">
+      <data key="d0">other</data>
+    </node>
+    <node id="Judas Priest">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Wilco">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Interpol">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Lumineers">
+      <data key="d0">other</data>
+    </node>
+    <node id="Rex Orange County">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Saint Avangeline">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Motörhead">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Men I Trust">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Dean Blunt">
+      <data key="d0">reggae</data>
+    </node>
+    <node id="Kansas">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Kings of Leon">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Animal Collective">
+      <data key="d0">rock</data>
+    </node>
+    <node id="6arelyhuman">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Ella Mai">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Yung Lean">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Joy Again">
+      <data key="d0">rock</data>
+    </node>
+    <node id="jev.">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Sabrina Carpenter">
+      <data key="d0">pop</data>
+    </node>
+    <node id="RM">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Yellowcard">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Kittie">
+      <data key="d0">metal</data>
+    </node>
+    <node id="jaydes">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Nat King Cole">
+      <data key="d0">other</data>
+    </node>
+    <node id="Rich Gang">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="BigXthaPlug">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Royel Otis">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Eric Clapton">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Jhené Aiko">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Kevin Abstract">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="King Crimson">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Pyotr Ilyich Tchaikovsky">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Piero Piccioni">
+      <data key="d0">other</data>
+    </node>
+    <node id="NCT DREAM">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Karol G">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Luis Fonsi">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Steve Aoki">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Grupo Frontera">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Kordhell">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Rick James">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Bebe Rexha">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Fitz and the Tantrums">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Vegyn">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Sir Chloe">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Cypress Hill">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Yo La Tengo">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Action Bronson">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Måneskin">
+      <data key="d0">rock</data>
+    </node>
+    <node id="SHORELINE MAFIA">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Olly Alexander (Years &amp; Years)">
+      <data key="d0">pop</data>
+    </node>
+    <node id="i don't like mirrors">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Mannequin Pussy">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Faye Webster">
+      <data key="d0">other</data>
+    </node>
+    <node id="Marisa Monte">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Kelly Clarkson">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Seal">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Ashnikko">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Tatsuya Kitani">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Niall Horan">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Dutch Melrose">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Violent Femmes">
+      <data key="d0">rock</data>
+    </node>
+    <node id="UnoTheActivist">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Bon Iver">
+      <data key="d0">other</data>
+    </node>
+    <node id="Beach Bunny">
+      <data key="d0">rock</data>
+    </node>
+    <node id="sign crushes motorist">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Selena Gomez &amp; the Scene">
+      <data key="d0">pop</data>
+    </node>
+    <node id="I DONT KNOW HOW BUT THEY FOUND ME">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Hans Zimmer">
+      <data key="d0">other</data>
+    </node>
+    <node id="Marina Sena">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Cynthia Erivo">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="jimin">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Claude Debussy">
+      <data key="d0">classical</data>
+    </node>
+    <node id="The Ronettes">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Kim Petras">
+      <data key="d0">pop</data>
+    </node>
+    <node id="2hollis">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Nancy Sinatra">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Metallica">
+      <data key="d0">metal</data>
+    </node>
+    <node id="James Blake">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Rascal Flatts">
+      <data key="d0">country</data>
+    </node>
+    <node id="Olivia Newton-John">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Commodores">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Chance the Rapper">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Young Nudy">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Bryson Tiller">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="KaytrAminé">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="José González">
+      <data key="d0">other</data>
+    </node>
+    <node id="The Last Dinner Party">
+      <data key="d0">rock</data>
+    </node>
+    <node id="NLE Choppa">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Kendrick Lamar">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Take Care">
+      <data key="d0">other</data>
+    </node>
+    <node id="YG">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Dr. Dog">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Ashanti">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="ROAR">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Asking Alexandria">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Jay Park">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ella Fitzgerald">
+      <data key="d0">other</data>
+    </node>
+    <node id="Korn">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Ennio Morricone">
+      <data key="d0">other</data>
+    </node>
+    <node id="Elley Duhé">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Poppy">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ethel Cain">
+      <data key="d0">other</data>
+    </node>
+    <node id="Orion Sun">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Unknown Mortal Orchestra">
+      <data key="d0">rock</data>
+    </node>
+    <node id="of Montreal">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Chrystal">
+      <data key="d0">pop</data>
+    </node>
+    <node id="De La Soul">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Aphex Twin">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="MASS OF THE FERMENTING DREGS">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Julia Michaels">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Mac Miller">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Hippo Campus">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Cochise">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lou Reed">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Kneecap">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="LIL PEEP">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Mario">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="I Monster">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Future">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="John Denver">
+      <data key="d0">country</data>
+    </node>
+    <node id="Sawano Hiroyuki">
+      <data key="d0">other</data>
+    </node>
+    <node id="Underscores">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Barry Can't Swim">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Liana Flores">
+      <data key="d0">pop</data>
+    </node>
+    <node id="The Ink Spots">
+      <data key="d0">other</data>
+    </node>
+    <node id="duquesa">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Mamas &amp; the Papas">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Jefferson Airplane">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Basement Jaxx">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Roxette">
+      <data key="d0">pop</data>
+    </node>
+    <node id="The Kid Laroi">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Leonard Cohen">
+      <data key="d0">other</data>
+    </node>
+    <node id="Seventeen">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Taeko Onuki">
+      <data key="d0">pop</data>
+    </node>
+    <node id="John Williams">
+      <data key="d0">other</data>
+    </node>
+    <node id="SYML">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Sleep Token">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Simple Minds">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Beyoncé">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Dove Cameron">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Westside Gunn">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Christina Perri">
+      <data key="d0">pop</data>
+    </node>
+    <node id="DDG">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Seether">
+      <data key="d0">rock</data>
+    </node>
+    <node id="YoungBoy Never Broke Again">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Summrs">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Odetari">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Inhaler">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Jet">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Offspring">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Rich The Kid">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="M83">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Night Lovell">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Kai">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Tommy Richman">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="The 1975">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Gigi Perez">
+      <data key="d0">other</data>
+    </node>
+    <node id="DJ Cz">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="RuPaul">
+      <data key="d0">pop</data>
+    </node>
+    <node id="pumapjl">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="George Benson">
+      <data key="d0">other</data>
+    </node>
+    <node id="Frédéric Chopin">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Duke Ellington">
+      <data key="d0">other</data>
+    </node>
+    <node id="Cazuza">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Haley Heynderickx">
+      <data key="d0">other</data>
+    </node>
+    <node id="Still Woozy">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Duster">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Rich Amiri">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Edward Maya">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="P1Harmony">
+      <data key="d0">pop</data>
+    </node>
+    <node id="America">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lumi Athena">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Carly Rae Jepsen">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Trippie Redd">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Galantis">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Glee Cast">
+      <data key="d0">other</data>
+    </node>
+    <node id="Louis Tomlinson">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Dead Kennedys">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Pedro Sampaio">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Stone Temple Pilots">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Ozuna">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Deep Purple">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Xavier Wulf">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Skillet">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Young Miko">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Lyrical Lemonade">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Bruce Springsteen">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Franz Liszt">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Shakira">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Jack Johnson">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Willie Colón">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Glass Animals">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Snow Patrol">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Claire Rosinkranz">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Cleo Sol">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Cafuné">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Jacquees">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Muse">
+      <data key="d0">rock</data>
+    </node>
+    <node id="TV on the Radio">
+      <data key="d0">rock</data>
+    </node>
+    <node id="ICE SPICE">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Gilberto Gil">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Leslie Odom Jr.">
+      <data key="d0">other</data>
+    </node>
+    <node id="The Japanese House">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Tove Lo">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Beach Weather">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Talking Heads">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Anne-Marie">
+      <data key="d0">pop</data>
+    </node>
+    <node id="chris grey">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Eladio Carrion">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Chris Travis">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Chico Buarque">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Janelle Monáe">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Che">
+      <data key="d0">rock</data>
+    </node>
+    <node id="5 Seconds of Summer">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Madison Beer">
+      <data key="d0">pop</data>
+    </node>
+    <node id="King Von">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Alice Cooper">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Tainy">
+      <data key="d0">latin</data>
+    </node>
+    <node id="The Dare">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="The Hellp">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Parcels">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Tears for Fears">
+      <data key="d0">pop</data>
+    </node>
+    <node id="FLO">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="El Alfa">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Tom Rosenthal">
+      <data key="d0">other</data>
+    </node>
+    <node id="Juice WRLD">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Joey Valence &amp; Brae">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Mura Masa">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Shaboozey">
+      <data key="d0">country</data>
+    </node>
+    <node id="Latto">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Zayn">
+      <data key="d0">pop</data>
+    </node>
+    <node id="HanuMankind">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="DeVon Hendryx">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Lil Durk">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Daryl Hall &amp; John Oates">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Emilia">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Father John Misty">
+      <data key="d0">other</data>
+    </node>
+    <node id="Eem Triplin">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Chloe Moriondo">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Passenger">
+      <data key="d0">other</data>
+    </node>
+    <node id="Idina Menzel">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="SAINt JHN">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Alexandra Stan">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Deafheaven">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Rae Sremmurd">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="SHINee">
+      <data key="d0">pop</data>
+    </node>
+    <node id="SahBabii">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Leith Ross">
+      <data key="d0">other</data>
+    </node>
+    <node id="Ado">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Grouplove">
+      <data key="d0">rock</data>
+    </node>
+    <node id="DPR IAN">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Shiro Sagisu">
+      <data key="d0">other</data>
+    </node>
+    <node id="Machine Girl">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Mumford &amp; Sons">
+      <data key="d0">other</data>
+    </node>
+    <node id="Empire of the Sun">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="AFI">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Matheus &amp; Kauan">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="The Zombies">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lamp">
+      <data key="d0">other</data>
+    </node>
+    <node id="The Black Keys">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Oasis">
+      <data key="d0">rock</data>
+    </node>
+    <node id="BADBADNOTGOOD">
+      <data key="d0">other</data>
+    </node>
+    <node id="NCT">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Big Time Rush">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Lin-Manuel Miranda">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Post Malone">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Tracy Chapman">
+      <data key="d0">other</data>
+    </node>
+    <node id="Elis Regina">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="MGMT">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="bbno$">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Freddie Dredd">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Montell Fish">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Connor Price">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Mt. Joy">
+      <data key="d0">other</data>
+    </node>
+    <node id="XG">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Sexyy Red">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Alchemist">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="DECO*27">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Lukas Graham">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Common">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Daft Punk">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="3 Doors Down">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Ciara">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Kaash Paige">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Meek Mill">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Molchat Doma">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Earth, Wind &amp; Fire">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="FROMIS_9">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Nas">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Sleeping at Last">
+      <data key="d0">rock</data>
+    </node>
+    <node id="TWICE">
+      <data key="d0">pop</data>
+    </node>
+    <node id="ABBA">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Jimi Hendrix">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Cigarettes After Sex">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Icona Pop">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Denzel Curry">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Van Halen">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Al Green">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="The Beach Boys">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Architects">
+      <data key="d0">metal</data>
+    </node>
+    <node id="NAV">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Mitski">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Odesza">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Jonas Brothers">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Lupe Fiasco">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Powfu">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="John Lennon">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Glokk40Spaz">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Kxllswxtch">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Ive">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Lewis Capaldi">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ghost">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Artemas">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Everything But the Girl">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Halsey">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Lizzy McAlpine">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Del Water Gap">
+      <data key="d0">other</data>
+    </node>
+    <node id="K.Flay">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Elton John">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Taking Back Sunday">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Tory Lanez">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Doja Cat">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Glorilla">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Aminé">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Rod Wave">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Marías">
+      <data key="d0">pop</data>
+    </node>
+    <node id="French Montana">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Austin Farwell">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Trueno">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Cris Mj">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Luther Vandross">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Imagine Dragons">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lil Tecca">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Drums">
+      <data key="d0">rock</data>
+    </node>
+    <node id="6ix9ine">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Polo G">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="King Gizzard &amp; The Lizard Wizard">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Mr.kitty">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Yves">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Creedence Clearwater Revival">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Matuê">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Nick Cave &amp; The Bad Seeds">
+      <data key="d0">punk</data>
+    </node>
+    <node id="G-Eazy">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Mariah Carey">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ludovico Einaudi">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Carly Simon">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Bright Eyes">
+      <data key="d0">other</data>
+    </node>
+    <node id="Briston Maroney">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Fall Out Boy">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Mary J. Blige">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="nbsplv">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="PARTYNEXTDOOR">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Sam Smith">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="St. Vincent">
+      <data key="d0">pop</data>
+    </node>
+    <node id="fleshwater">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Cascada">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Bob Seger">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Norah Jones">
+      <data key="d0">other</data>
+    </node>
+    <node id="Pearl Jam">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Motionless in White">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Khalid">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Lyn Lapid">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Phantogram">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Bullet for My Valentine">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Carole King">
+      <data key="d0">other</data>
+    </node>
+    <node id="Allie X">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Car Seat Headrest">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Eagles">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Luke Bryan">
+      <data key="d0">country</data>
+    </node>
+    <node id="Don Toliver">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Antonio Vivaldi">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Mindless Self Indulgence">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Camila Cabello">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Crosby, Stills, Nash &amp; Young">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Farruko">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Chief Keef">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Alemán">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Weeknd">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Itzy">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Mother Mother">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Nicholas Britell">
+      <data key="d0">other</data>
+    </node>
+    <node id="Grupo Menos É Mais">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="The Human League">
+      <data key="d0">pop</data>
+    </node>
+    <node id="siouxxie sixxsta">
+      <data key="d0">pop</data>
+    </node>
+    <node id="The National">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Kinks">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Enrique Iglesias">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Black Country, New Road">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Logic">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Miley Cyrus">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Joni Mitchell">
+      <data key="d0">other</data>
+    </node>
+    <node id="The B-52's">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Boston">
+      <data key="d0">rock</data>
+    </node>
+    <node id="mxmtoon">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Turnover">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Soundgarden">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lany">
+      <data key="d0">pop</data>
+    </node>
+    <node id="The Rare Occasions">
+      <data key="d0">rock</data>
+    </node>
+    <node id="KT Tunstall">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Depeche Mode">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Big Sean">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Jon Pardi">
+      <data key="d0">country</data>
+    </node>
+    <node id="Creed">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Current Joys">
+      <data key="d0">pop</data>
+    </node>
+    <node id="FINNEAS">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Larry June">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Soccer Mommy">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Teddy Swims">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="NCT 127">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Diddy">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Mareux">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Nothing But Thieves">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Justin Timberlake">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ice Cube">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Max Richter">
+      <data key="d0">other</data>
+    </node>
+    <node id="Queens of the Stone Age">
+      <data key="d0">rock</data>
+    </node>
+    <node id="beabadoobee">
+      <data key="d0">pop</data>
+    </node>
+    <node id="CHVRCHES">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Leon Thomas">
+      <data key="d0">other</data>
+    </node>
+    <node id="Milton Nascimento">
+      <data key="d0">other</data>
+    </node>
+    <node id="The Temptations">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Coyote Theory">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Chance Peña">
+      <data key="d0">other</data>
+    </node>
+    <node id="Paul McCartney">
+      <data key="d0">rock</data>
+    </node>
+    <node id="BK">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="X Ambassadors">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Caravan Palace">
+      <data key="d0">other</data>
+    </node>
+    <node id="The Crane Wives">
+      <data key="d0">other</data>
+    </node>
+    <node id="Malcolm Todd">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Primus">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Ludwig Göransson">
+      <data key="d0">other</data>
+    </node>
+    <node id="YT">
+      <data key="d0">reggae</data>
+    </node>
+    <node id="Yot Club">
+      <data key="d0">pop</data>
+    </node>
+    <node id="DJONGA">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Agust D">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Perfume Genius">
+      <data key="d0">other</data>
+    </node>
+    <node id="Pitbull">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Olivia Dean">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Childish Gambino">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Mike">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Homixide Gang">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="DJ Shadow">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Honne">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Walk the Moon">
+      <data key="d0">rock</data>
+    </node>
+    <node id="TV Girl">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ellie Goulding">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Ramirez">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Gotts Street Park">
+      <data key="d0">other</data>
+    </node>
+    <node id="Doechii">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Valorant">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="David Guetta">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Röyksopp">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Linkin Park">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Gary Numan">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="OsamaSon">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Panchiko">
+      <data key="d0">rock</data>
+    </node>
+    <node id="ANAVITÓRIA">
+      <data key="d0">other</data>
+    </node>
+    <node id="Gesaffelstein">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Evanescence">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Cardigans">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Yeule">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Lucy Dacus">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Godsmack">
+      <data key="d0">metal</data>
+    </node>
+    <node id="HAIM">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Incubus">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Fatboy Slim">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Sydney Rose">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Twenty One Pilots">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Luísa Sonza">
+      <data key="d0">pop</data>
+    </node>
+    <node id="berlioz">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Penelope Scott">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Dream, Ivory">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Goo Goo Dolls">
+      <data key="d0">rock</data>
+    </node>
+    <node id="ATEEZ">
+      <data key="d0">pop</data>
+    </node>
+    <node id="John Coltrane">
+      <data key="d0">other</data>
+    </node>
+    <node id="Gucci Mane">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Lykke Li">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Chris Isaak">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Stereolab">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Neon Trees">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Cranberries">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Slum Village">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Metric">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Salvia Palth">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Brent Faiyaz">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Erik Satie">
+      <data key="d0">classical</data>
+    </node>
+    <node id="AJR">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Cher">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Miles Davis">
+      <data key="d0">other</data>
+    </node>
+    <node id="DG e Batidão Stronda">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Eminem">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Sarah Kinsley">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Demi Lovato">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Bibi">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Iggy Pop">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Tyler Childers">
+      <data key="d0">country</data>
+    </node>
+    <node id="Dreamer Isioma">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Lynyrd Skynyrd">
+      <data key="d0">rock</data>
+    </node>
+    <node id="ZZ Top">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Rauw Alejandro">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Role Model">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="6LACK">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Sam Cooke">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Bryan Adams">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Bob Dylan">
+      <data key="d0">other</data>
+    </node>
+    <node id="League of Legends">
+      <data key="d0">other</data>
+    </node>
+    <node id="Ana Frango elétrico">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Eyedress">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="James Bay">
+      <data key="d0">other</data>
+    </node>
+    <node id="Rita Lee">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Mk.gee">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Have a Nice Life">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Earl Sweatshirt">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Tennis">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Lost Frequencies">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Sufjan Stevens">
+      <data key="d0">other</data>
+    </node>
+    <node id="The Beatles">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Dmitri Shostakovich">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Robbie Williams">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Baco Exu do Blues">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Fuerza Regida">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Dominic Fike">
+      <data key="d0">pop</data>
+    </node>
+    <node id="311">
+      <data key="d0">rock</data>
+    </node>
+    <node id="LiNikEr">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Johnny Cash">
+      <data key="d0">country</data>
+    </node>
+    <node id="Paramore">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Michael Kiwanuka">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Arcane">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Britney Manson">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Kasabian">
+      <data key="d0">rock</data>
+    </node>
+    <node id="BABYMETAL">
+      <data key="d0">metal</data>
+    </node>
+    <node id="JPEGMAFIA">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Nickelback">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Chet Baker">
+      <data key="d0">other</data>
+    </node>
+    <node id="Anna of the North">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Mika">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Alicia Keys">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Will Wood">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Neck Deep">
+      <data key="d0">punk</data>
+    </node>
+    <node id="The Wombats">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Idles">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Pixies">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Ian">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Jordan Ward">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="J. Cole">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Neil Young">
+      <data key="d0">rock</data>
+    </node>
+    <node id="quannnic">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Jordan Adetunji">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Prince Royce">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Becky G">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Suki Waterhouse">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Zedd">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Paris Paloma">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Amyl and the Sniffers">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Lana Del Rey">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Hotel Ugly">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Catfish and The Bottlemen">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Mon Laferte">
+      <data key="d0">pop</data>
+    </node>
+    <node id="TK from Ling tosite sigure">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="The Strokes">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Thomas Rhett">
+      <data key="d0">country</data>
+    </node>
+    <node id="Van Morrison">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Portishead">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="2Pac">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Luke Combs">
+      <data key="d0">country</data>
+    </node>
+    <node id="Tina Turner">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Selena">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Hybs">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Stevie Nicks">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Chloe x Halle">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Chicago">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Tyla">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Kool &amp; The Gang">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Øneheart">
+      <data key="d0">other</data>
+    </node>
+    <node id="Lady Gaga">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Girl In Red">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Gregory Alan Isakov">
+      <data key="d0">other</data>
+    </node>
+    <node id="Maribou State">
+      <data key="d0">other</data>
+    </node>
+    <node id="The Doors">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Saba">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Colde">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Julia Wolf">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Miki Matsubara">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Margo Guryan">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Famous Dex">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Chase &amp; Status">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Eden">
+      <data key="d0">rock</data>
+    </node>
+    <node id="alt-J">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Yes">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Charlie Brown JR.">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Frank Sinatra">
+      <data key="d0">other</data>
+    </node>
+    <node id="Jung Kook">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Thee Sacred Souls">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Fetty Wap">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Script">
+      <data key="d0">pop</data>
+    </node>
+    <node id="SpiritBox">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Shawn Mendes">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Rainbow Kitten Surprise">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Alex Warren">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Don McLean">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Game">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="MJ Lenderman">
+      <data key="d0">rock</data>
+    </node>
+    <node id="vierre cloud">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Chris Brown">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Megan Thee Stallion">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Carrie Underwood">
+      <data key="d0">country</data>
+    </node>
+    <node id="Regina Spektor">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Kali Uchis">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Grupo Revelação">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Alice Phoebe Lou">
+      <data key="d0">other</data>
+    </node>
+    <node id="Royal Blood">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Thin Lizzy">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Rachel Zegler">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Mötley Crüe">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Lord Huron">
+      <data key="d0">other</data>
+    </node>
+    <node id="Franz Ferdinand">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Anamanaguchi">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Sabaton">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Kylie Minogue">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Bb trickz">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Willie Nelson">
+      <data key="d0">country</data>
+    </node>
+    <node id="Alan Walker">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Vampire Weekend">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Palace">
+      <data key="d0">other</data>
+    </node>
+    <node id="Baby smoove">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Hoobastank">
+      <data key="d0">rock</data>
+    </node>
+    <node id="iann dior">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Head and the Heart">
+      <data key="d0">other</data>
+    </node>
+    <node id="The Mountain Goats">
+      <data key="d0">other</data>
+    </node>
+    <node id="lil tjay">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Used">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Remi Wolf">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Sum 41">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Mac DeMarco">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Djavan">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Loossemble">
+      <data key="d0">pop</data>
+    </node>
+    <node id="yoasobi">
+      <data key="d0">pop</data>
+    </node>
+    <node id="A Day to Remember">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Stan Getz">
+      <data key="d0">other</data>
+    </node>
+    <node id="KMFDM">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Sharon Van Etten">
+      <data key="d0">other</data>
+    </node>
+    <node id="Duckwrth">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Kevin Gates">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="John Summit">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Conan Gray">
+      <data key="d0">pop</data>
+    </node>
+    <node id="griff">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Jamie xx">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Sia">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="No Doubt">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lil Darkie">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="G Herbo">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Diplo">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Drake">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Matchbox Twenty">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Mom Jeans.">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Declan Mckenna">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Marília Mendonça">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Slayer">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Hollywood Undead">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Foo Fighters">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Crumb">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Don Omar">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Seu Jorge">
+      <data key="d0">other</data>
+    </node>
+    <node id="Kodak Black">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Passion Pit">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Lyn">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Moby">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Mark Ronson">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Quavo">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Supergrass">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Henrique &amp; Juliano">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="omar apollo">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Flipturn">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Rob49">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="PEGGY GOU">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="DNCE">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Rick Astley">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Woodkid">
+      <data key="d0">other</data>
+    </node>
+    <node id="Hole">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Whirr">
+      <data key="d0">other</data>
+    </node>
+    <node id="Joan Baez">
+      <data key="d0">other</data>
+    </node>
+    <node id="Polyphia">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Blondie">
+      <data key="d0">rock</data>
+    </node>
+    <node id="BJ Lips">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Greta Van Fleet">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Victoria Monét">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="The walters">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Leon Bridges">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="David Bowie">
+      <data key="d0">rock</data>
+    </node>
+    <node id="TOMORROW X TOGETHER">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Yves Tumor">
+      <data key="d0">other</data>
+    </node>
+    <node id="Fog Lake">
+      <data key="d0">other</data>
+    </node>
+    <node id="SurFaces">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Enjambre">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lit">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Owl City">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="P!nk">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Taylor Swift">
+      <data key="d0">country</data>
+    </node>
+    <node id="Novo Amor">
+      <data key="d0">other</data>
+    </node>
+    <node id="fakemink">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Nicky Jam">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Lil Baby">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Peso Pluma">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Brandy">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="xaviersobased">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Sunny Day Real Estate">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Central Cee">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="ericdoa">
+      <data key="d0">pop</data>
+    </node>
+    <node id="B.o.B">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Jane Remover">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Killswitch Engage">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Michael Giacchino">
+      <data key="d0">other</data>
+    </node>
+    <node id="Louis Armstrong">
+      <data key="d0">other</data>
+    </node>
+    <node id="sewerslvt">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Fred again..">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Lil Yachty">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="$uicideboy$">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Cup of Joe">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ice Nine Kills">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Luan Santana">
+      <data key="d0">pop</data>
+    </node>
+    <node id="D. Savage">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Young Stoner Life">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="TLC">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Rocco">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="BABYMONSTER">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Bill Withers">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Chris Stapleton">
+      <data key="d0">country</data>
+    </node>
+    <node id="Red Velvet">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Sigur Rós">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Kid Cudi">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="ONE OK ROCK">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Vundabar">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Crowded House">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Police">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Blur">
+      <data key="d0">rock</data>
+    </node>
+    <node id="masego">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Troye Sivan">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Disturbed">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Danny Brown">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Fat Joe">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Tyga">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Bleachers">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Feid">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Exo">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Sonic Youth">
+      <data key="d0">punk</data>
+    </node>
+    <node id="$NOT">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="EKKSTACY">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Underworld">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Dimitri Vegas &amp; Like Mike">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Andy Grammer">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Plain White T's">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Pierce The Veil">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Black Eyed Peas">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Erasmo Carlos">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Marvin Gaye">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="John Travolta">
+      <data key="d0">other</data>
+    </node>
+    <node id="Eve">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Snoop Dogg">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Los Ángeles Azules">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Camille Saint-Saëns">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Jalen Ngonda">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Natanael Cano">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Escape the Fate">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Jay Sean">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Gilsons">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Autumn!">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="ScHoolboy Q">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Corinne Bailey Rae">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Maisie Peters">
+      <data key="d0">pop</data>
+    </node>
+    <node id="SEGA Sound Team">
+      <data key="d0">other</data>
+    </node>
+    <node id="Frankie Cosmos">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Mastodon">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Pi’erre Bourne">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Dr. Dre">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Akon">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Echo &amp; the Bunnymen">
+      <data key="d0">punk</data>
+    </node>
+    <node id="James Blunt">
+      <data key="d0">pop</data>
+    </node>
+    <node id="RADWIMPS">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Rick Springfield">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Travis Scott">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Illenium">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Bladee">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Cartola">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="Pharrell Williams">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Dreamville">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Thirty Seconds to Mars">
+      <data key="d0">rock</data>
+    </node>
+    <node id="U2">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Julie">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Portugal. The Man">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Puddle of Mudd">
+      <data key="d0">rock</data>
+    </node>
+    <node id="aespa">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Tate McRae">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Mora">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Cults">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Bonnie Tyler">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Banks">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Dean Martin">
+      <data key="d0">other</data>
+    </node>
+    <node id="Grateful Dead">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Flawed Mangoes">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Lancey Foux">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Calvin Harris">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="G-Dragon">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Jin">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Chainsmokers">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Riovaz">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Stereophonics">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Front Bottoms">
+      <data key="d0">other</data>
+    </node>
+    <node id="Rebecca Black">
+      <data key="d0">pop</data>
+    </node>
+    <node id="MGK">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Russ">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="New Order">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Manchester Orchestra">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Wunderhorse">
+      <data key="d0">rock</data>
+    </node>
+    <node id="AdriAnne Lenker">
+      <data key="d0">other</data>
+    </node>
+    <node id="Alex G">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Toro y Moi">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="akiaura">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Pat Benatar">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Paul Simon">
+      <data key="d0">other</data>
+    </node>
+    <node id="Usher">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Fimiguerrero">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="A. G. Cook">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Rels B">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="YNW Melly">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Third Eye Blind">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Meryl Streep">
+      <data key="d0">other</data>
+    </node>
+    <node id="A BOOGIE WIT DA HOODIE">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Lenny Kravitz">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Cássia Eller">
+      <data key="d0">rock</data>
+    </node>
+    <node id="LE SSERAFIM">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Alan Vuong">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Meduza">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Chuck Berry">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Pet Shop Boys">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Novulent">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Who">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Animals">
+      <data key="d0">rock</data>
+    </node>
+    <node id="LOVING">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Wiz Khalifa">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Johann Sebastian Bach">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Lil Nas X">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Fleetwood Mac">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Dizzee Rascal">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Ichiko Aoba">
+      <data key="d0">other</data>
+    </node>
+    <node id="Gigi D'Agostino">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Bloc Party">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Kesha">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Jorge Rivera-Herrans">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Nicki Minaj">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Clara La San">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="21 Savage">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="King Gnu">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Young the Giant">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Adventure Time">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Whitney Houston">
+      <data key="d0">pop</data>
+    </node>
+    <node id="MF DOOM">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Rosé">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ravyn Lenae">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Hikaru Utada">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Kenny Loggins">
+      <data key="d0">rock</data>
+    </node>
+    <node id="All Time Low">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Train">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Videoclub">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Fontaines D.C.">
+      <data key="d0">punk</data>
+    </node>
+    <node id="The White Stripes">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Aly &amp; AJ">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Shaggy">
+      <data key="d0">reggae</data>
+    </node>
+    <node id="Nelly Furtado">
+      <data key="d0">pop</data>
+    </node>
+    <node id="4batz">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Kenshi Yonezu">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Veigh">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Meghan Trainor">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Alphaville">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Arcángel">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Pinegrove">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Belle and Sebastian">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Foster the People">
+      <data key="d0">pop</data>
+    </node>
+    <node id="STRFKR">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Estelle">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Fleet Foxes">
+      <data key="d0">other</data>
+    </node>
+    <node id="Troy">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Labi Siffre">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Manu Chao">
+      <data key="d0">reggae</data>
+    </node>
+    <node id="grentperez">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Bring Me the Horizon">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Bush">
+      <data key="d0">rock</data>
+    </node>
+    <node id="2 Chainz">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Thousand Foot Krutch">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Mike Posner">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Counting Crows">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Billy Joel">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Filipe Ret">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="RIIZE">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Ca7riel &amp; Paco Amoroso">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Kikuo">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="SLEEPY HALLOW">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Eartheater">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Will Smith">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="MAGDALENA BAY">
+      <data key="d0">pop</data>
+    </node>
+    <node id="bôa">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Modest Mouse">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Sixpence None the Richer">
+      <data key="d0">pop</data>
+    </node>
+    <node id="The Beaches">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Hiatus Kaiyote">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Nessa Barrett">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Benny Blanco">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Joost">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="(G)I-DLE">
+      <data key="d0">pop</data>
+    </node>
+    <node id="The Rah Band">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Jason Derulo">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="STAYC">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Sophie Ellis-Bextor">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Sam Fender">
+      <data key="d0">rock</data>
+    </node>
+    <node id="SKI MASK THE SLUMP GOD">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Thom Yorke">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="The Cars">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Seafret">
+      <data key="d0">other</data>
+    </node>
+    <node id="Silverstein">
+      <data key="d0">punk</data>
+    </node>
+    <node id="d4vd">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Rita Ora">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Lay Bankz">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Jessie Ware">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Dead or Alive">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Elvis Presley">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Freddie Gibbs">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="FKA twigs">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Falling in Reverse">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Rema">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Neton Vega">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Sohodolls">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Gloria Groove">
+      <data key="d0">pop</data>
+    </node>
+    <node id="American Authors">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Jennie">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Peach Pit">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Timothée Chalamet">
+      <data key="d0">pop</data>
+    </node>
+    <node id="MCCAFFERTY">
+      <data key="d0">punk</data>
+    </node>
+    <node id="George Harrison">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Smashing Pumpkins">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lucki">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Kaytranada">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Fujii Kaze">
+      <data key="d0">pop</data>
+    </node>
+    <node id="yeat">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="2NE1">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Dean Lewis">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Jordana">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Babytron">
+      <data key="d0">unknown</data>
+    </node>
+    <node id="The Verve">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Five Finger Death Punch">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Vance Joy">
+      <data key="d0">other</data>
+    </node>
+    <node id="Gwen Stefani">
+      <data key="d0">pop</data>
+    </node>
+    <node id="The Pretty Reckless">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Tiësto">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="A Flock of Seagulls">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Playboi Carti">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Céline Dion">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Them &amp; I">
+      <data key="d0">other</data>
+    </node>
+    <node id="Aretha Franklin">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Bowling for Soup">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Kenya Grace">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="wave to earth">
+      <data key="d0">rock</data>
+    </node>
+    <node id="DMX">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="FBC">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Gracie Abrams">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Muni Long">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Between Friends">
+      <data key="d0">pop</data>
+    </node>
+    <node id="T-Pain">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Kiss">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Major Lazer">
+      <data key="d0">reggae</data>
+    </node>
+    <node id="Khruangbin">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Martin Solveig">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="MoneyBagg Yo">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Morgan Wallen">
+      <data key="d0">country</data>
+    </node>
+    <node id="Birdy">
+      <data key="d0">other</data>
+    </node>
+    <node id="Tom Petty and The Heartbreakers">
+      <data key="d0">rock</data>
+    </node>
+    <node id="slayyyter">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Slaughter Beach, Dog">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Bones">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Yung Gravy">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Willow">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Bob Sinclar">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Creepy Nuts">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="SoFaygo">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Smino">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Ludwig van Beethoven">
+      <data key="d0">classical</data>
+    </node>
+    <node id="Bon Jovi">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Peter Gabriel">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Alec Benjamin">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Young Thug">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Jeff Buckley">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Cordae">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Normani">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="PJ Harvey">
+      <data key="d0">rock</data>
+    </node>
+    <node id="FloyyMenor">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Steely Dan">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Isabel LaRosa">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Raye">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Danny Ocean">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Faith No More">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Billy Idol">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Ricky Montgomery">
+      <data key="d0">pop</data>
+    </node>
+    <node id="I Prevail">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Robin Schulz">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Simple Plan">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Angus &amp; Julia Stone">
+      <data key="d0">other</data>
+    </node>
+    <node id="Haddaway">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Slowdive">
+      <data key="d0">other</data>
+    </node>
+    <node id="Broadcast">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Yusuf / Cat Stevens">
+      <data key="d0">other</data>
+    </node>
+    <node id="IDK">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Busta Rhymes">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Disclosure">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Def Leppard">
+      <data key="d0">rock</data>
+    </node>
+    <node id="The Chemical Brothers">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Cyndi Lauper">
+      <data key="d0">pop</data>
+    </node>
+    <node id="LAZER DIM 700">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Dhruv">
+      <data key="d0">other</data>
+    </node>
+    <node id="Antônio Carlos Jobim">
+      <data key="d0">other</data>
+    </node>
+    <node id="Rod Stewart">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Mustard">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Ken Carson">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Donna Summer">
+      <data key="d0">pop</data>
+    </node>
+    <node id="INXS">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Viagra Boys">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Skrillex">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="TEms">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Bad Bunny">
+      <data key="d0">latin</data>
+    </node>
+    <node id="Katy Perry">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Japanese Breakfast">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Coldplay">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Ty Dolla $ign">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="The Foundations">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Journey">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Carpenters">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Avenged Sevenfold">
+      <data key="d0">metal</data>
+    </node>
+    <node id="Arca">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Billie Holiday">
+      <data key="d0">other</data>
+    </node>
+    <node id="Porter Robinson">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Lauv">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Brian Eno">
+      <data key="d0">other</data>
+    </node>
+    <node id="James Brown">
+      <data key="d0">r&amp;b</data>
+    </node>
+    <node id="Wallows">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Lil Wayne">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Matt Maltese">
+      <data key="d0">pop</data>
+    </node>
+    <node id="A$AP Ferg">
+      <data key="d0">hip hop</data>
+    </node>
+    <node id="Glen Campbell">
+      <data key="d0">country</data>
+    </node>
+    <node id="The Cure">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Akira Yamaoka">
+      <data key="d0">other</data>
+    </node>
+    <node id="Sleeping with Sirens">
+      <data key="d0">punk</data>
+    </node>
+    <node id="Marshmello">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="PVRIS">
+      <data key="d0">rock</data>
+    </node>
+    <node id="Caroline Polachek">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Duran Duran">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Aurora">
+      <data key="d0">electronic</data>
+    </node>
+    <node id="Jason Mraz">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Jennifer Lopez">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Maggie Rogers">
+      <data key="d0">pop</data>
+    </node>
+    <node id="Lola Young">
+      <data key="d0">pop</data>
+    </node>
+    <edge source="Bossman Dlow" target="French Montana" />
+    <edge source="Bossman Dlow" target="Lil Baby" />
+    <edge source="American Football" target="Ethel Cain" />
+    <edge source="American Football" target="Novo Amor" />
+    <edge source="American Football" target="Manchester Orchestra" />
+    <edge source="Jorja Smith" target="Childish Gambino" />
+    <edge source="Rick Ross" target="Lil Wayne" />
+    <edge source="Rick Ross" target="Daniel Caesar" />
+    <edge source="Rick Ross" target="French Montana" />
+    <edge source="Rick Ross" target="Meek Mill" />
+    <edge source="Rick Ross" target="Jeremih" />
+    <edge source="Rick Ross" target="Future" />
+    <edge source="Rick Ross" target="El Alfa" />
+    <edge source="Vince Staples" target="JPEGMAFIA" />
+    <edge source="Vince Staples" target="Earl Sweatshirt" />
+    <edge source="Vince Staples" target="Kehlani" />
+    <edge source="Vince Staples" target="Mustard" />
+    <edge source="Little Simz" target="Coldplay" />
+    <edge source="Little Simz" target="RM" />
+    <edge source="Oklou" target="Bladee" />
+    <edge source="Alcione" target="Gloria Groove" />
+    <edge source="Burna Boy" target="Coldplay" />
+    <edge source="Burna Boy" target="21 Savage" />
+    <edge source="Burna Boy" target="Busta Rhymes" />
+    <edge source="Burna Boy" target="J. Cole" />
+    <edge source="Burna Boy" target="Diddy" />
+    <edge source="pinkpantheress" target="Rema" />
+    <edge source="pinkpantheress" target="Central Cee" />
+    <edge source="Sophie" target="Kim Petras" />
+    <edge source="Laufey" target="Stephen Sanchez" />
+    <edge source="Noah Kahan" target="Gracie Abrams" />
+    <edge source="Noah Kahan" target="James Bay" />
+    <edge source="Kacey Musgraves" target="Zach Bryan" />
+    <edge source="Kacey Musgraves" target="Rainbow Kitten Surprise" />
+    <edge source="Kacey Musgraves" target="Leon Bridges" />
+    <edge source="NF" target="Julia Michaels" />
+    <edge source="NF" target="Cordae" />
+    <edge source="Tyler, the Creator" target="Sexyy Red" />
+    <edge source="Tyler, the Creator" target="ScHoolboy Q" />
+    <edge source="Tyler, the Creator" target="Lola Young" />
+    <edge source="Tyler, the Creator" target="Lil Wayne" />
+    <edge source="Tyler, the Creator" target="Doechii" />
+    <edge source="Tyler, the Creator" target="Daniel Caesar" />
+    <edge source="Bronski Beat" target="Perfume Genius" />
+    <edge source="Twista" target="Usher" />
+    <edge source="Twista" target="Jeremih" />
+    <edge source="Twista" target="Chance the Rapper" />
+    <edge source="Twista" target="Akon" />
+    <edge source="Twista" target="Gucci Mane" />
+    <edge source="Offset" target="Young Nudy" />
+    <edge source="Offset" target="Latto" />
+    <edge source="Offset" target="Future" />
+    <edge source="Offset" target="Travis Scott" />
+    <edge source="Offset" target="Don Toliver" />
+    <edge source="Offset" target="Juice WRLD" />
+    <edge source="Offset" target="Gunna" />
+    <edge source="Offset" target="Polo G" />
+    <edge source="Offset" target="Young Stoner Life" />
+    <edge source="Offset" target="DDG" />
+    <edge source="Kygo" target="Jonas Brothers" />
+    <edge source="Kygo" target="Tiësto" />
+    <edge source="Kanye West" target="¥$" />
+    <edge source="Kanye West" target="Ty Dolla $ign" />
+    <edge source="Kanye West" target="Usher" />
+    <edge source="Kanye West" target="French Montana" />
+    <edge source="Kanye West" target="John Legend" />
+    <edge source="Kanye West" target="Cordae" />
+    <edge source="Kanye West" target="4batz" />
+    <edge source="Sheryl Crow" target="The Rolling Stones" />
+    <edge source="Sheryl Crow" target="James Bay" />
+    <edge source="Ariana Grande" target="Kelly Clarkson" />
+    <edge source="Ariana Grande" target="Charli XCX" />
+    <edge source="Ariana Grande" target="Nicki Minaj" />
+    <edge source="Ariana Grande" target="Cynthia Erivo" />
+    <edge source="Oliver Tree" target="Robin Schulz" />
+    <edge source="Destroy Lonely" target="Ken Carson" />
+    <edge source="Destroy Boys" target="Mannequin Pussy" />
+    <edge source="Nemzzz" target="Central Cee" />
+    <edge source="Mariah the Scientist" target="Trippie Redd" />
+    <edge source="Mariah the Scientist" target="A BOOGIE WIT DA HOODIE" />
+    <edge source="Mariah the Scientist" target="21 Savage" />
+    <edge source="Mariah the Scientist" target="Latto" />
+    <edge source="Mariah the Scientist" target="Tee Grizzley" />
+    <edge source="Mariah the Scientist" target="Young Thug" />
+    <edge source="John Legend" target="Sam Smith" />
+    <edge source="John Legend" target="Meghan Trainor" />
+    <edge source="John Legend" target="Lil Wayne" />
+    <edge source="John Legend" target="Snoop Dogg" />
+    <edge source="John Legend" target="Diddy" />
+    <edge source="Sasha Alex Sloan" target="Arcane" />
+    <edge source="Sasha Alex Sloan" target="League of Legends" />
+    <edge source="Sasha Alex Sloan" target="Alan Walker" />
+    <edge source="Sasha Alex Sloan" target="Dean Lewis" />
+    <edge source="Olivia Rodrigo" target="Rachel Zegler" />
+    <edge source="Metro Boomin" target="NAV" />
+    <edge source="Metro Boomin" target="Don Toliver" />
+    <edge source="Metro Boomin" target="Future" />
+    <edge source="Metro Boomin" target="Ty Dolla $ign" />
+    <edge source="Metro Boomin" target="Lil Baby" />
+    <edge source="Metro Boomin" target="J. Cole" />
+    <edge source="Metro Boomin" target="The Weeknd" />
+    <edge source="Metro Boomin" target="21 Savage" />
+    <edge source="Metro Boomin" target="Young Thug" />
+    <edge source="Metro Boomin" target="Diddy" />
+    <edge source="Los Hermanos" target="DJONGA" />
+    <edge source="Reneé Rapp" target="Megan Thee Stallion" />
+    <edge source="bad gyal" target="Myke Towers" />
+    <edge source="bad gyal" target="Young Miko" />
+    <edge source="Lisa" target="Megan Thee Stallion" />
+    <edge source="Lisa" target="Future" />
+    <edge source="Lisa" target="Tyla" />
+    <edge source="Lisa" target="Doja Cat" />
+    <edge source="Bad Omens" target="Poppy" />
+    <edge source="Myke Towers" target="Eladio Carrion" />
+    <edge source="Os Paralamas Do Sucesso" target="Marisa Monte" />
+    <edge source="Gunna" target="Tyla" />
+    <edge source="Gunna" target="Wiz Khalifa" />
+    <edge source="Gunna" target="Flo Milli" />
+    <edge source="Gunna" target="Big Sean" />
+    <edge source="Gunna" target="Leon Bridges" />
+    <edge source="Gunna" target="Normani" />
+    <edge source="Gunna" target="ICE SPICE" />
+    <edge source="Swedish House Mafia" target="070 Shake" />
+    <edge source="Swedish House Mafia" target="Fred again.." />
+    <edge source="Swedish House Mafia" target="The Weeknd" />
+    <edge source="Swedish House Mafia" target="Future" />
+    <edge source="Santana" target="Miles Davis" />
+    <edge source="Santana" target="Los Ángeles Azules" />
+    <edge source="Natalia Lafourcade" target="Portugal. The Man" />
+    <edge source="Jeremih" target="Nicki Minaj" />
+    <edge source="Jeremih" target="French Montana" />
+    <edge source="Jeremih" target="Future" />
+    <edge source="Jeremih" target="Ty Dolla $ign" />
+    <edge source="Jeremih" target="Jhené Aiko" />
+    <edge source="Jeremih" target="Big Sean" />
+    <edge source="Jeremih" target="YG" />
+    <edge source="Jeremih" target="J. Cole" />
+    <edge source="Jeremih" target="Juicy J" />
+    <edge source="Jeremih" target="Meek Mill" />
+    <edge source="Jeremih" target="Diddy" />
+    <edge source="Eslabon Armado" target="Peso Pluma" />
+    <edge source="Tinashe" target="Charli XCX" />
+    <edge source="Wolfgang Amadeus Mozart" target="Frédéric Chopin" />
+    <edge source="Wolfgang Amadeus Mozart" target="Pyotr Ilyich Tchaikovsky" />
+    <edge source="Wolfgang Amadeus Mozart" target="Ludwig van Beethoven" />
+    <edge source="Wolfgang Amadeus Mozart" target="Erik Satie" />
+    <edge source="Wolfgang Amadeus Mozart" target="John Williams" />
+    <edge source="Wolfgang Amadeus Mozart" target="Camille Saint-Saëns" />
+    <edge source="Wolfgang Amadeus Mozart" target="Antonio Vivaldi" />
+    <edge source="Wolfgang Amadeus Mozart" target="Franz Liszt" />
+    <edge source="Wolfgang Amadeus Mozart" target="Dmitri Shostakovich" />
+    <edge source="Wolfgang Amadeus Mozart" target="Ennio Morricone" />
+    <edge source="Wolfgang Amadeus Mozart" target="Johannes Brahms" />
+    <edge source="Tee Grizzley" target="King Von" />
+    <edge source="Tee Grizzley" target="Chris Brown" />
+    <edge source="Tee Grizzley" target="G Herbo" />
+    <edge source="Tee Grizzley" target="J. Cole" />
+    <edge source="Tee Grizzley" target="Future" />
+    <edge source="Tee Grizzley" target="YG" />
+    <edge source="Hozier" target="Lucy Dacus" />
+    <edge source="Hozier" target="Meduza" />
+    <edge source="James Arthur" target="Lost Frequencies" />
+    <edge source="Boldy James" target="Benny the Butcher" />
+    <edge source="Macklemore" target="NLE Choppa" />
+    <edge source="Macklemore" target="Phantogram" />
+    <edge source="Knocked Loose" target="Motionless in White" />
+    <edge source="Knocked Loose" target="Poppy" />
+    <edge source="Shania Twain" target="Yung Gravy" />
+    <edge source="Shania Twain" target="Anne-Marie" />
+    <edge source="Junior H" target="Peso Pluma" />
+    <edge source="Junior H" target="Rels B" />
+    <edge source="Dolly Parton" target="Sabrina Carpenter" />
+    <edge source="Dolly Parton" target="Beyoncé" />
+    <edge source="Dolly Parton" target="Post Malone" />
+    <edge source="Dolly Parton" target="Pitbull" />
+    <edge source="Dolly Parton" target="Glen Campbell" />
+    <edge source="Dolly Parton" target="Bebe Rexha" />
+    <edge source="Heidi Montag" target="Pitbull" />
+    <edge source="Air" target="Vegyn" />
+    <edge source="Tom Petty" target="Snoop Dogg" />
+    <edge source="Tom Petty" target="Dr. Dre" />
+    <edge source="Tom Petty" target="Stevie Nicks" />
+    <edge source="Key Glock" target="Gucci Mane" />
+    <edge source="Lucky Daye" target="Kehlani" />
+    <edge source="Lucky Daye" target="Ella Mai" />
+    <edge source="Lucky Daye" target="Teddy Swims" />
+    <edge source="Johannes Brahms" target="Frédéric Chopin" />
+    <edge source="Johannes Brahms" target="Pyotr Ilyich Tchaikovsky" />
+    <edge source="Johannes Brahms" target="Ludwig van Beethoven" />
+    <edge source="Johannes Brahms" target="Erik Satie" />
+    <edge source="Johannes Brahms" target="John Williams" />
+    <edge source="Johannes Brahms" target="Camille Saint-Saëns" />
+    <edge source="Johannes Brahms" target="Antonio Vivaldi" />
+    <edge source="Johannes Brahms" target="Franz Liszt" />
+    <edge source="Johannes Brahms" target="Dmitri Shostakovich" />
+    <edge source="Johannes Brahms" target="Ennio Morricone" />
+    <edge source="Johannes Brahms" target="Johann Sebastian Bach" />
+    <edge source="Dua Lipa" target="Calvin Harris" />
+    <edge source="Dua Lipa" target="Elton John" />
+    <edge source="Dua Lipa" target="Jennie" />
+    <edge source="Nardo Wick" target="Gucci Mane" />
+    <edge source="Nardo Wick" target="21 Savage" />
+    <edge source="Nardo Wick" target="Future" />
+    <edge source="Nardo Wick" target="Lil Baby" />
+    <edge source="Nardo Wick" target="Sexyy Red" />
+    <edge source="Charli XCX" target="Kesha" />
+    <edge source="Charli XCX" target="The Japanese House" />
+    <edge source="Charli XCX" target="Bb trickz" />
+    <edge source="Charli XCX" target="Billie Eilish" />
+    <edge source="Charli XCX" target="Troye Sivan" />
+    <edge source="Charli XCX" target="The 1975" />
+    <edge source="Charli XCX" target="Yung Lean" />
+    <edge source="Charli XCX" target="Caroline Polachek" />
+    <edge source="Charli XCX" target="Bon Iver" />
+    <edge source="Charli XCX" target="Bladee" />
+    <edge source="Charli XCX" target="A. G. Cook" />
+    <edge source="Zara Larsson" target="David Guetta" />
+    <edge source="Labrinth" target="Sia" />
+    <edge source="Labrinth" target="Lost Frequencies" />
+    <edge source="Labrinth" target="Lil Wayne" />
+    <edge source="Labrinth" target="Diplo" />
+    <edge source="Finger Eleven" target="3 Doors Down" />
+    <edge source="Finger Eleven" target="Creed" />
+    <edge source="OneRepublic" target="David Guetta" />
+    <edge source="RÜFÜS DU SOL" target="Odesza" />
+    <edge source="Ed Sheeran" target="Khalid" />
+    <edge source="Ed Sheeran" target="Passenger" />
+    <edge source="Flo Milli" target="SZA" />
+    <edge source="Flo Milli" target="Childish Gambino" />
+    <edge source="Flo Milli" target="Tate McRae" />
+    <edge source="Flo Milli" target="Megan Thee Stallion" />
+    <edge source="Flo Milli" target="Latto" />
+    <edge source="Flo Milli" target="Tyga" />
+    <edge source="LIL UZI VERT" target="Big Time Rush" />
+    <edge source="Sting" target="P!nk" />
+    <edge source="Sting" target="Snoop Dogg" />
+    <edge source="Sting" target="Dr. Dre" />
+    <edge source="Sting" target="Glen Campbell" />
+    <edge source="half•alive" target="Jordana" />
+    <edge source="Papa Roach" target="Hollywood Undead" />
+    <edge source="Lil B" target="Young Thug" />
+    <edge source="Lil B" target="21 Savage" />
+    <edge source="Lil B" target="Future" />
+    <edge source="Lil B" target="Rod Wave" />
+    <edge source="Lil B" target="Travis Scott" />
+    <edge source="Lil B" target="Lyrical Lemonade" />
+    <edge source="Juicy J" target="Denzel Curry" />
+    <edge source="Juicy J" target="Wiz Khalifa" />
+    <edge source="Juicy J" target="The Black Keys" />
+    <edge source="Juicy J" target="Xavier Wulf" />
+    <edge source="Juicy J" target="Yung Gravy" />
+    <edge source="Juicy J" target="Cordae" />
+    <edge source="Juicy J" target="Lyrical Lemonade" />
+    <edge source="Juicy J" target="2 Chainz" />
+    <edge source="Juicy J" target="Project Pat" />
+    <edge source="Juicy J" target="Lil Wayne" />
+    <edge source="Ava Max" target="Tiësto" />
+    <edge source="Pabllo Vittar" target="LiNikEr" />
+    <edge source="SZA" target="Kendrick Lamar" />
+    <edge source="SZA" target="Don Toliver" />
+    <edge source="SZA" target="Travis Scott" />
+    <edge source="SZA" target="Mac Miller" />
+    <edge source="Jack Harlow" target="Jung Kook" />
+    <edge source="Jack Harlow" target="Lyrical Lemonade" />
+    <edge source="Daniel Caesar" target="BADBADNOTGOOD" />
+    <edge source="Daniel Caesar" target="Ty Dolla $ign" />
+    <edge source="Bastille" target="Lost Frequencies" />
+    <edge source="Stephen Sanchez" target="The Beach Boys" />
+    <edge source="L'Impératrice" target="Maggie Rogers" />
+    <edge source="Gorillaz" target="Bad Bunny" />
+    <edge source="Gorillaz" target="Stevie Nicks" />
+    <edge source="Gorillaz" target="De La Soul" />
+    <edge source="Zach Bryan" target="Maggie Rogers" />
+    <edge source="¥$" target="Ty Dolla $ign" />
+    <edge source="¥$" target="Lany" />
+    <edge source="J Balvin" target="Feid" />
+    <edge source="J Balvin" target="Selena Gomez &amp; the Scene" />
+    <edge source="J Balvin" target="Selena Gomez" />
+    <edge source="J Balvin" target="Benny Blanco" />
+    <edge source="J Balvin" target="FloyyMenor" />
+    <edge source="J Balvin" target="Maluma" />
+    <edge source="J Balvin" target="Pedro Sampaio" />
+    <edge source="J Balvin" target="Selena" />
+    <edge source="Justice" target="The Weeknd" />
+    <edge source="Justice" target="Fatboy Slim" />
+    <edge source="Justice" target="Them &amp; I" />
+    <edge source="Kehlani" target="FLO" />
+    <edge source="Kehlani" target="Dreamville" />
+    <edge source="Kehlani" target="Jordan Adetunji" />
+    <edge source="Kehlani" target="Diddy" />
+    <edge source="Selena Gomez" target="The Marías" />
+    <edge source="Selena Gomez" target="Tainy" />
+    <edge source="Selena Gomez" target="Gracie Abrams" />
+    <edge source="Selena Gomez" target="Benny Blanco" />
+    <edge source="Maluma" target="The Chainsmokers" />
+    <edge source="Maluma" target="Don Omar" />
+    <edge source="Maluma" target="Grupo Frontera" />
+    <edge source="Wings" target="Paul McCartney" />
+    <edge source="Alok" target="The Chainsmokers" />
+    <edge source="Alok" target="Ellie Goulding" />
+    <edge source="Anderson .Paak" target="Fred again.." />
+    <edge source="Anderson .Paak" target="Snoop Dogg" />
+    <edge source="Anderson .Paak" target="Earl Sweatshirt" />
+    <edge source="Anderson .Paak" target="Cordae" />
+    <edge source="Anderson .Paak" target="G-Dragon" />
+    <edge source="DaBaby" target="Trippie Redd" />
+    <edge source="DaBaby" target="Gucci Mane" />
+    <edge source="DaBaby" target="ICE SPICE" />
+    <edge source="DaBaby" target="DDG" />
+    <edge source="DaBaby" target="Busta Rhymes" />
+    <edge source="DaBaby" target="Rob49" />
+    <edge source="Madvillain" target="MF DOOM" />
+    <edge source="Project Pat" target="Denzel Curry" />
+    <edge source="Project Pat" target="Xavier Wulf" />
+    <edge source="amaarae" target="6LACK" />
+    <edge source="Quadeca" target="Kevin Abstract" />
+    <edge source="The Lumineers" target="P!nk" />
+    <edge source="The Lumineers" target="James Bay" />
+    <edge source="Rex Orange County" target="James Blake" />
+    <edge source="6arelyhuman" target="Odetari" />
+    <edge source="Ella Mai" target="Mustard" />
+    <edge source="Ella Mai" target="Latto" />
+    <edge source="Yung Lean" target="Bladee" />
+    <edge source="Yung Lean" target="Travis Scott" />
+    <edge source="Sabrina Carpenter" target="Girl In Red" />
+    <edge source="RM" target="Megan Thee Stallion" />
+    <edge source="RM" target="Colde" />
+    <edge source="BigXthaPlug" target="Shaboozey" />
+    <edge source="Eric Clapton" target="Van Morrison" />
+    <edge source="Eric Clapton" target="Glen Campbell" />
+    <edge source="Jhené Aiko" target="Snoop Dogg" />
+    <edge source="Jhené Aiko" target="Dr. Dre" />
+    <edge source="Jhené Aiko" target="Kendrick Lamar" />
+    <edge source="Jhené Aiko" target="Big Sean" />
+    <edge source="Jhené Aiko" target="Playboi Carti" />
+    <edge source="Jhené Aiko" target="Lil Durk" />
+    <edge source="Kevin Abstract" target="MJ Lenderman" />
+    <edge source="Pyotr Ilyich Tchaikovsky" target="Camille Saint-Saëns" />
+    <edge source="Pyotr Ilyich Tchaikovsky" target="Erik Satie" />
+    <edge source="Pyotr Ilyich Tchaikovsky" target="Claude Debussy" />
+    <edge source="Pyotr Ilyich Tchaikovsky" target="Ludwig van Beethoven" />
+    <edge source="Pyotr Ilyich Tchaikovsky" target="John Williams" />
+    <edge source="Pyotr Ilyich Tchaikovsky" target="Antonio Vivaldi" />
+    <edge source="Pyotr Ilyich Tchaikovsky" target="Franz Liszt" />
+    <edge source="Pyotr Ilyich Tchaikovsky" target="Dmitri Shostakovich" />
+    <edge source="Pyotr Ilyich Tchaikovsky" target="Ennio Morricone" />
+    <edge source="Karol G" target="Peso Pluma" />
+    <edge source="Karol G" target="Cris Mj" />
+    <edge source="Karol G" target="Young Miko" />
+    <edge source="Karol G" target="Kali Uchis" />
+    <edge source="Karol G" target="Tiësto" />
+    <edge source="Steve Aoki" target="Kid Cudi" />
+    <edge source="Steve Aoki" target="Alan Walker" />
+    <edge source="Steve Aoki" target="David Guetta" />
+    <edge source="Grupo Frontera" target="Shakira" />
+    <edge source="Kordhell" target="Arcane" />
+    <edge source="Kordhell" target="League of Legends" />
+    <edge source="Kordhell" target="Valorant" />
+    <edge source="Bebe Rexha" target="Kylie Minogue" />
+    <edge source="Bebe Rexha" target="Snoop Dogg" />
+    <edge source="Bebe Rexha" target="David Guetta" />
+    <edge source="Action Bronson" target="Chance the Rapper" />
+    <edge source="Action Bronson" target="Larry June" />
+    <edge source="Faye Webster" target="Lil Yachty" />
+    <edge source="Kelly Clarkson" target="Chris Stapleton" />
+    <edge source="Ashnikko" target="Arcane" />
+    <edge source="Ashnikko" target="Ethel Cain" />
+    <edge source="Ashnikko" target="League of Legends" />
+    <edge source="Ashnikko" target="Valorant" />
+    <edge source="Selena Gomez &amp; the Scene" target="Tainy" />
+    <edge source="Selena Gomez &amp; the Scene" target="Gracie Abrams" />
+    <edge source="Selena Gomez &amp; the Scene" target="The Marías" />
+    <edge source="Hans Zimmer" target="Lin-Manuel Miranda" />
+    <edge source="Marina Sena" target="Luísa Sonza" />
+    <edge source="Marina Sena" target="Pedro Sampaio" />
+    <edge source="Marina Sena" target="Erasmo Carlos" />
+    <edge source="Cynthia Erivo" target="Idina Menzel" />
+    <edge source="Cynthia Erivo" target="FLO" />
+    <edge source="Claude Debussy" target="Frédéric Chopin" />
+    <edge source="Claude Debussy" target="Ludwig van Beethoven" />
+    <edge source="Claude Debussy" target="Erik Satie" />
+    <edge source="Claude Debussy" target="John Williams" />
+    <edge source="Claude Debussy" target="Camille Saint-Saëns" />
+    <edge source="Claude Debussy" target="Antonio Vivaldi" />
+    <edge source="Claude Debussy" target="Franz Liszt" />
+    <edge source="Claude Debussy" target="Dmitri Shostakovich" />
+    <edge source="Claude Debussy" target="Ennio Morricone" />
+    <edge source="Kim Petras" target="Katy Perry" />
+    <edge source="James Blake" target="Travis Scott" />
+    <edge source="James Blake" target="Lil Yachty" />
+    <edge source="James Blake" target="Normani" />
+    <edge source="Olivia Newton-John" target="John Travolta" />
+    <edge source="Chance the Rapper" target="Trippie Redd" />
+    <edge source="Chance the Rapper" target="Childish Gambino" />
+    <edge source="Chance the Rapper" target="Saba" />
+    <edge source="Young Nudy" target="Latto" />
+    <edge source="Bryson Tiller" target="Victoria Monét" />
+    <edge source="Bryson Tiller" target="Clara La San" />
+    <edge source="Bryson Tiller" target="Big Sean" />
+    <edge source="Bryson Tiller" target="Chris Brown" />
+    <edge source="Bryson Tiller" target="French Montana" />
+    <edge source="Bryson Tiller" target="Jordan Adetunji" />
+    <edge source="Bryson Tiller" target="Diddy" />
+    <edge source="KaytrAminé" target="Aminé" />
+    <edge source="NLE Choppa" target="T-Pain" />
+    <edge source="NLE Choppa" target="ICE SPICE" />
+    <edge source="NLE Choppa" target="lil tjay" />
+    <edge source="NLE Choppa" target="DDG" />
+    <edge source="Kendrick Lamar" target="Pharrell Williams" />
+    <edge source="Kendrick Lamar" target="Playboi Carti" />
+    <edge source="YG" target="Ty Dolla $ign" />
+    <edge source="YG" target="Larry June" />
+    <edge source="YG" target="G Herbo" />
+    <edge source="YG" target="Mustard" />
+    <edge source="YG" target="Lil Yachty" />
+    <edge source="YG" target="Jay Park" />
+    <edge source="Ella Fitzgerald" target="Louis Armstrong" />
+    <edge source="Ella Fitzgerald" target="The Ink Spots" />
+    <edge source="Ennio Morricone" target="John Williams" />
+    <edge source="Ennio Morricone" target="Antonio Vivaldi" />
+    <edge source="Ennio Morricone" target="Johann Sebastian Bach" />
+    <edge source="Ennio Morricone" target="Camille Saint-Saëns" />
+    <edge source="Elley Duhé" target="Meduza" />
+    <edge source="Unknown Mortal Orchestra" target="Portugal. The Man" />
+    <edge source="De La Soul" target="MF DOOM" />
+    <edge source="De La Soul" target="Common" />
+    <edge source="Julia Michaels" target="Alan Walker" />
+    <edge source="Cochise" target="Aminé" />
+    <edge source="Cochise" target="$NOT" />
+    <edge source="Cochise" target="Lyrical Lemonade" />
+    <edge source="Mario" target="Chris Brown" />
+    <edge source="Future" target="Lil Baby" />
+    <edge source="Future" target="Lucki" />
+    <edge source="Future" target="Rae Sremmurd" />
+    <edge source="Future" target="A$AP Ferg" />
+    <edge source="Future" target="A BOOGIE WIT DA HOODIE" />
+    <edge source="Future" target="Quavo" />
+    <edge source="Future" target="The Weeknd" />
+    <edge source="Future" target="Travis Scott" />
+    <edge source="Future" target="Playboi Carti" />
+    <edge source="Future" target="Don Toliver" />
+    <edge source="Future" target="The Kid Laroi" />
+    <edge source="Future" target="Chris Brown" />
+    <edge source="Future" target="SKI MASK THE SLUMP GOD" />
+    <edge source="Future" target="Polo G" />
+    <edge source="Future" target="Meek Mill" />
+    <edge source="Future" target="Lil Durk" />
+    <edge source="Future" target="Mustard" />
+    <edge source="Future" target="Them &amp; I" />
+    <edge source="Underscores" target="Jane Remover" />
+    <edge source="Barry Can't Swim" target="Disclosure" />
+    <edge source="Liana Flores" target="Matt Maltese" />
+    <edge source="duquesa" target="Baco Exu do Blues" />
+    <edge source="The Kid Laroi" target="d4vd" />
+    <edge source="The Kid Laroi" target="Central Cee" />
+    <edge source="The Kid Laroi" target="Lil Yachty" />
+    <edge source="The Kid Laroi" target="YoungBoy Never Broke Again" />
+    <edge source="The Kid Laroi" target="Jung Kook" />
+    <edge source="Taeko Onuki" target="Ichiko Aoba" />
+    <edge source="John Williams" target="Johann Sebastian Bach" />
+    <edge source="John Williams" target="Antonio Vivaldi" />
+    <edge source="John Williams" target="Camille Saint-Saëns" />
+    <edge source="SYML" target="Lana Del Rey" />
+    <edge source="Beyoncé" target="Travis Scott" />
+    <edge source="Beyoncé" target="Miley Cyrus" />
+    <edge source="Beyoncé" target="Shaboozey" />
+    <edge source="Beyoncé" target="Willie Nelson" />
+    <edge source="Beyoncé" target="Post Malone" />
+    <edge source="Beyoncé" target="Nicki Minaj" />
+    <edge source="Westside Gunn" target="Travis Scott" />
+    <edge source="Westside Gunn" target="French Montana" />
+    <edge source="DDG" target="The Game" />
+    <edge source="DDG" target="Ty Dolla $ign" />
+    <edge source="DDG" target="Rob49" />
+    <edge source="DDG" target="Rich The Kid" />
+    <edge source="DDG" target="Wiz Khalifa" />
+    <edge source="YoungBoy Never Broke Again" target="Trippie Redd" />
+    <edge source="YoungBoy Never Broke Again" target="Jason Derulo" />
+    <edge source="Summrs" target="yeat" />
+    <edge source="Odetari" target="Valorant" />
+    <edge source="Rich The Kid" target="Peso Pluma" />
+    <edge source="Rich The Kid" target="lil tjay" />
+    <edge source="Rich The Kid" target="Famous Dex" />
+    <edge source="Rich The Kid" target="Trippie Redd" />
+    <edge source="Rich The Kid" target="Kodak Black" />
+    <edge source="Night Lovell" target="Freddie Dredd" />
+    <edge source="Tommy Richman" target="Brent Faiyaz" />
+    <edge source="Frédéric Chopin" target="Camille Saint-Saëns" />
+    <edge source="Frédéric Chopin" target="Johann Sebastian Bach" />
+    <edge source="Frédéric Chopin" target="Dmitri Shostakovich" />
+    <edge source="Frédéric Chopin" target="Antonio Vivaldi" />
+    <edge source="Frédéric Chopin" target="Franz Liszt" />
+    <edge source="Frédéric Chopin" target="Erik Satie" />
+    <edge source="Frédéric Chopin" target="Ludwig van Beethoven" />
+    <edge source="Duke Ellington" target="John Coltrane" />
+    <edge source="Rich Amiri" target="OsamaSon" />
+    <edge source="Carly Rae Jepsen" target="Bleachers" />
+    <edge source="Trippie Redd" target="SahBabii" />
+    <edge source="Trippie Redd" target="G Herbo" />
+    <edge source="Trippie Redd" target="Lil Tecca" />
+    <edge source="Trippie Redd" target="Lil Durk" />
+    <edge source="Trippie Redd" target="YNW Melly" />
+    <edge source="Trippie Redd" target="Tory Lanez" />
+    <edge source="Trippie Redd" target="Young Thug" />
+    <edge source="Trippie Redd" target="Pi’erre Bourne" />
+    <edge source="Trippie Redd" target="Russ" />
+    <edge source="Trippie Redd" target="Juice WRLD" />
+    <edge source="Trippie Redd" target="Lil Yachty" />
+    <edge source="Trippie Redd" target="MGK" />
+    <edge source="Trippie Redd" target="Young Stoner Life" />
+    <edge source="Trippie Redd" target="EKKSTACY" />
+    <edge source="Trippie Redd" target="Rob49" />
+    <edge source="Trippie Redd" target="Famous Dex" />
+    <edge source="Galantis" target="Icona Pop" />
+    <edge source="Galantis" target="5 Seconds of Summer" />
+    <edge source="Galantis" target="Neon Trees" />
+    <edge source="Galantis" target="David Guetta" />
+    <edge source="Pedro Sampaio" target="Luísa Sonza" />
+    <edge source="Ozuna" target="Shakira" />
+    <edge source="Ozuna" target="David Guetta" />
+    <edge source="Young Miko" target="Marshmello" />
+    <edge source="Young Miko" target="Arcane" />
+    <edge source="Young Miko" target="Central Cee" />
+    <edge source="Young Miko" target="League of Legends" />
+    <edge source="Young Miko" target="Eladio Carrion" />
+    <edge source="Young Miko" target="Feid" />
+    <edge source="Lyrical Lemonade" target="Kid Cudi" />
+    <edge source="Lyrical Lemonade" target="Cordae" />
+    <edge source="Lyrical Lemonade" target="Lil Yachty" />
+    <edge source="Lyrical Lemonade" target="SahBabii" />
+    <edge source="Lyrical Lemonade" target="$NOT" />
+    <edge source="Lyrical Lemonade" target="Denzel Curry" />
+    <edge source="Lyrical Lemonade" target="Eminem" />
+    <edge source="Lyrical Lemonade" target="Lil Tecca" />
+    <edge source="Lyrical Lemonade" target="Latto" />
+    <edge source="Lyrical Lemonade" target="Lil Durk" />
+    <edge source="Lyrical Lemonade" target="Juice WRLD" />
+    <edge source="Lyrical Lemonade" target="Chief Keef" />
+    <edge source="Lyrical Lemonade" target="G Herbo" />
+    <edge source="Lyrical Lemonade" target="Aminé" />
+    <edge source="Franz Liszt" target="Antonio Vivaldi" />
+    <edge source="Franz Liszt" target="Dmitri Shostakovich" />
+    <edge source="Franz Liszt" target="Erik Satie" />
+    <edge source="Franz Liszt" target="Johann Sebastian Bach" />
+    <edge source="Franz Liszt" target="Camille Saint-Saëns" />
+    <edge source="Shakira" target="Rauw Alejandro" />
+    <edge source="Shakira" target="Tiësto" />
+    <edge source="Shakira" target="Fuerza Regida" />
+    <edge source="Jacquees" target="Diddy" />
+    <edge source="Muse" target="Zedd" />
+    <edge source="ICE SPICE" target="Central Cee" />
+    <edge source="ICE SPICE" target="Travis Scott" />
+    <edge source="ICE SPICE" target="Bb trickz" />
+    <edge source="The Japanese House" target="Fred again.." />
+    <edge source="Tove Lo" target="Kylie Minogue" />
+    <edge source="Tove Lo" target="Nelly Furtado" />
+    <edge source="Beach Weather" target="The Beaches" />
+    <edge source="Anne-Marie" target="David Guetta" />
+    <edge source="Anne-Marie" target="Khalid" />
+    <edge source="Eladio Carrion" target="Big Sean" />
+    <edge source="Eladio Carrion" target="Peso Pluma" />
+    <edge source="Eladio Carrion" target="Cris Mj" />
+    <edge source="Eladio Carrion" target="Mora" />
+    <edge source="Chico Buarque" target="Antônio Carlos Jobim" />
+    <edge source="Janelle Monáe" target="Doechii" />
+    <edge source="King Von" target="Polo G" />
+    <edge source="King Von" target="G Herbo" />
+    <edge source="King Von" target="Lil Durk" />
+    <edge source="Alice Cooper" target="The Black Keys" />
+    <edge source="Tainy" target="Benny Blanco" />
+    <edge source="Tainy" target="Selena" />
+    <edge source="El Alfa" target="Kali Uchis" />
+    <edge source="El Alfa" target="Enrique Iglesias" />
+    <edge source="El Alfa" target="A$AP Ferg" />
+    <edge source="El Alfa" target="Peso Pluma" />
+    <edge source="El Alfa" target="Prince Royce" />
+    <edge source="Juice WRLD" target="Nicki Minaj" />
+    <edge source="Juice WRLD" target="Eminem" />
+    <edge source="Juice WRLD" target="Fall Out Boy" />
+    <edge source="Juice WRLD" target="SKI MASK THE SLUMP GOD" />
+    <edge source="Joey Valence &amp; Brae" target="Danny Brown" />
+    <edge source="Latto" target="Jung Kook" />
+    <edge source="Latto" target="Glorilla" />
+    <edge source="Latto" target="Ciara" />
+    <edge source="Latto" target="Playboi Carti" />
+    <edge source="Latto" target="Megan Thee Stallion" />
+    <edge source="Lil Durk" target="A BOOGIE WIT DA HOODIE" />
+    <edge source="Lil Durk" target="Central Cee" />
+    <edge source="Lil Durk" target="21 Savage" />
+    <edge source="Lil Durk" target="yeat" />
+    <edge source="Lil Durk" target="French Montana" />
+    <edge source="Lil Durk" target="Polo G" />
+    <edge source="Lil Durk" target="Lil Baby" />
+    <edge source="Lil Durk" target="Mustard" />
+    <edge source="Lil Durk" target="MoneyBagg Yo" />
+    <edge source="Lil Durk" target="Rob49" />
+    <edge source="Father John Misty" target="Lana Del Rey" />
+    <edge source="Eem Triplin" target="Camila Cabello" />
+    <edge source="Eem Triplin" target="Ty Dolla $ign" />
+    <edge source="SAINt JHN" target="French Montana" />
+    <edge source="Alexandra Stan" target="IDK" />
+    <edge source="Rae Sremmurd" target="Young Thug" />
+    <edge source="Lin-Manuel Miranda" target="Nicholas Britell" />
+    <edge source="Post Malone" target="Taylor Swift" />
+    <edge source="Post Malone" target="Luke Combs" />
+    <edge source="Post Malone" target="Chris Stapleton" />
+    <edge source="Post Malone" target="Morgan Wallen" />
+    <edge source="bbno$" target="Yung Gravy" />
+    <edge source="bbno$" target="Freddie Dredd" />
+    <edge source="bbno$" target="Valorant" />
+    <edge source="XG" target="Valorant" />
+    <edge source="Sexyy Red" target="Glorilla" />
+    <edge source="Sexyy Red" target="Chief Keef" />
+    <edge source="Sexyy Red" target="Lil Baby" />
+    <edge source="Sexyy Red" target="Drake" />
+    <edge source="The Alchemist" target="Earl Sweatshirt" />
+    <edge source="The Alchemist" target="Big Sean" />
+    <edge source="The Alchemist" target="2 Chainz" />
+    <edge source="The Alchemist" target="Larry June" />
+    <edge source="Lukas Graham" target="G-Eazy" />
+    <edge source="Lukas Graham" target="Khalid" />
+    <edge source="Daft Punk" target="Pharrell Williams" />
+    <edge source="3 Doors Down" target="Creed" />
+    <edge source="Meek Mill" target="Nicki Minaj" />
+    <edge source="Meek Mill" target="French Montana" />
+    <edge source="Nas" target="Lil Wayne" />
+    <edge source="TWICE" target="Lauv" />
+    <edge source="TWICE" target="Megan Thee Stallion" />
+    <edge source="Denzel Curry" target="Ty Dolla $ign" />
+    <edge source="Denzel Curry" target="LAZER DIM 700" />
+    <edge source="Denzel Curry" target="A$AP Ferg" />
+    <edge source="Denzel Curry" target="2 Chainz" />
+    <edge source="Denzel Curry" target="JPEGMAFIA" />
+    <edge source="NAV" target="Playboi Carti" />
+    <edge source="NAV" target="Don Toliver" />
+    <edge source="NAV" target="Young Stoner Life" />
+    <edge source="Artemas" target="Nessa Barrett" />
+    <edge source="Lizzy McAlpine" target="Role Model" />
+    <edge source="K.Flay" target="Pierce The Veil" />
+    <edge source="Elton John" target="Glen Campbell" />
+    <edge source="Doja Cat" target="21 Savage" />
+    <edge source="Glorilla" target="T-Pain" />
+    <edge source="Glorilla" target="Muni Long" />
+    <edge source="Glorilla" target="Megan Thee Stallion" />
+    <edge source="Rod Wave" target="Lil Baby" />
+    <edge source="Rod Wave" target="Lil Yachty" />
+    <edge source="The Marías" target="Eyedress" />
+    <edge source="The Marías" target="Benny Blanco" />
+    <edge source="The Marías" target="Selena" />
+    <edge source="French Montana" target="G-Eazy" />
+    <edge source="French Montana" target="Jason Derulo" />
+    <edge source="French Montana" target="Lil Wayne" />
+    <edge source="French Montana" target="Lil Baby" />
+    <edge source="French Montana" target="The Game" />
+    <edge source="French Montana" target="Diddy" />
+    <edge source="Cris Mj" target="FloyyMenor" />
+    <edge source="Imagine Dragons" target="Arcane" />
+    <edge source="Imagine Dragons" target="League of Legends" />
+    <edge source="Lil Tecca" target="Don Toliver" />
+    <edge source="6ix9ine" target="Kodak Black" />
+    <edge source="Polo G" target="G Herbo" />
+    <edge source="Polo G" target="lil tjay" />
+    <edge source="Matuê" target="Veigh" />
+    <edge source="G-Eazy" target="Leon Bridges" />
+    <edge source="G-Eazy" target="Lancey Foux" />
+    <edge source="Mary J. Blige" target="Sam Smith" />
+    <edge source="Mary J. Blige" target="A$AP Ferg" />
+    <edge source="Mary J. Blige" target="Fat Joe" />
+    <edge source="Mary J. Blige" target="Diddy" />
+    <edge source="PARTYNEXTDOOR" target="Drake" />
+    <edge source="PARTYNEXTDOOR" target="Calvin Harris" />
+    <edge source="PARTYNEXTDOOR" target="Diddy" />
+    <edge source="Sam Smith" target="Alicia Keys" />
+    <edge source="Sam Smith" target="Disclosure" />
+    <edge source="Sam Smith" target="Hikaru Utada" />
+    <edge source="Sam Smith" target="Calvin Harris" />
+    <edge source="St. Vincent" target="Willow" />
+    <edge source="Khalid" target="Normani" />
+    <edge source="Khalid" target="Alec Benjamin" />
+    <edge source="Carole King" target="Glen Campbell" />
+    <edge source="Don Toliver" target="Wiz Khalifa" />
+    <edge source="Don Toliver" target="Kodak Black" />
+    <edge source="Don Toliver" target="Travis Scott" />
+    <edge source="Don Toliver" target="yeat" />
+    <edge source="Don Toliver" target="6LACK" />
+    <edge source="Antonio Vivaldi" target="Camille Saint-Saëns" />
+    <edge source="Antonio Vivaldi" target="Dmitri Shostakovich" />
+    <edge source="Antonio Vivaldi" target="Erik Satie" />
+    <edge source="Antonio Vivaldi" target="Johann Sebastian Bach" />
+    <edge source="Camila Cabello" target="Lil Nas X" />
+    <edge source="Camila Cabello" target="Playboi Carti" />
+    <edge source="Camila Cabello" target="Drake" />
+    <edge source="Farruko" target="Marshmello" />
+    <edge source="Chief Keef" target="Ian" />
+    <edge source="Chief Keef" target="Quavo" />
+    <edge source="Chief Keef" target="G Herbo" />
+    <edge source="Alemán" target="Neton Vega" />
+    <edge source="The Weeknd" target="Playboi Carti" />
+    <edge source="The Weeknd" target="Travis Scott" />
+    <edge source="The Weeknd" target="Lana Del Rey" />
+    <edge source="The Weeknd" target="Diddy" />
+    <edge source="Grupo Menos É Mais" target="Gloria Groove" />
+    <edge source="Miley Cyrus" target="Sia" />
+    <edge source="Lany" target="Ty Dolla $ign" />
+    <edge source="Big Sean" target="Ellie Goulding" />
+    <edge source="Big Sean" target="Kodak Black" />
+    <edge source="Big Sean" target="Larry June" />
+    <edge source="Big Sean" target="Eminem" />
+    <edge source="Big Sean" target="Young Stoner Life" />
+    <edge source="Big Sean" target="Dreamville" />
+    <edge source="Big Sean" target="Tyga" />
+    <edge source="Big Sean" target="Will Smith" />
+    <edge source="Larry June" target="Wiz Khalifa" />
+    <edge source="Larry June" target="2 Chainz" />
+    <edge source="Larry June" target="Slum Village" />
+    <edge source="Teddy Swims" target="Muni Long" />
+    <edge source="Teddy Swims" target="Illenium" />
+    <edge source="Teddy Swims" target="Thomas Rhett" />
+    <edge source="Diddy" target="21 Savage" />
+    <edge source="Diddy" target="Busta Rhymes" />
+    <edge source="Diddy" target="Ty Dolla $ign" />
+    <edge source="Justin Timberlake" target="Pharrell Williams" />
+    <edge source="Ice Cube" target="Snoop Dogg" />
+    <edge source="Ice Cube" target="Busta Rhymes" />
+    <edge source="Leon Thomas" target="Ty Dolla $ign" />
+    <edge source="Leon Thomas" target="Freddie Gibbs" />
+    <edge source="Milton Nascimento" target="DJONGA" />
+    <edge source="Milton Nascimento" target="Paul Simon" />
+    <edge source="X Ambassadors" target="Lost Frequencies" />
+    <edge source="Ludwig Göransson" target="Childish Gambino" />
+    <edge source="YT" target="Lancey Foux" />
+    <edge source="YT" target="Fimiguerrero" />
+    <edge source="Childish Gambino" target="Khruangbin" />
+    <edge source="Childish Gambino" target="Jennie" />
+    <edge source="Childish Gambino" target="Ravyn Lenae" />
+    <edge source="Homixide Gang" target="Lil Yachty" />
+    <edge source="TV Girl" target="Frankie Cosmos" />
+    <edge source="TV Girl" target="Jordana" />
+    <edge source="Ellie Goulding" target="Calvin Harris" />
+    <edge source="Doechii" target="Katy Perry" />
+    <edge source="Doechii" target="Jennie" />
+    <edge source="Valorant" target="Lay Bankz" />
+    <edge source="Valorant" target="ericdoa" />
+    <edge source="David Guetta" target="Jason Derulo" />
+    <edge source="David Guetta" target="Nicki Minaj" />
+    <edge source="David Guetta" target="Dimitri Vegas &amp; Like Mike" />
+    <edge source="David Guetta" target="Akon" />
+    <edge source="David Guetta" target="Robin Schulz" />
+    <edge source="ANAVITÓRIA" target="LiNikEr" />
+    <edge source="Gesaffelstein" target="Lady Gaga" />
+    <edge source="Fatboy Slim" target="Rita Ora" />
+    <edge source="Twenty One Pilots" target="Arcane" />
+    <edge source="Twenty One Pilots" target="League of Legends" />
+    <edge source="Luísa Sonza" target="Marshmello" />
+    <edge source="Luísa Sonza" target="Baco Exu do Blues" />
+    <edge source="Luísa Sonza" target="Demi Lovato" />
+    <edge source="Gucci Mane" target="Megan Thee Stallion" />
+    <edge source="Gucci Mane" target="J. Cole" />
+    <edge source="Gucci Mane" target="Lil Baby" />
+    <edge source="Gucci Mane" target="Kodak Black" />
+    <edge source="Gucci Mane" target="21 Savage" />
+    <edge source="Gucci Mane" target="Jason Derulo" />
+    <edge source="Slum Village" target="Cordae" />
+    <edge source="Metric" target="Anamanaguchi" />
+    <edge source="Brent Faiyaz" target="21 Savage" />
+    <edge source="Erik Satie" target="Ludwig van Beethoven" />
+    <edge source="Erik Satie" target="Camille Saint-Saëns" />
+    <edge source="Erik Satie" target="Dmitri Shostakovich" />
+    <edge source="Cher" target="Tyga" />
+    <edge source="Eminem" target="Snoop Dogg" />
+    <edge source="Eminem" target="Dr. Dre" />
+    <edge source="Eminem" target="2 Chainz" />
+    <edge source="Rauw Alejandro" target="Pharrell Williams" />
+    <edge source="Rauw Alejandro" target="Feid" />
+    <edge source="Rauw Alejandro" target="Bad Bunny" />
+    <edge source="Rauw Alejandro" target="Kali Uchis" />
+    <edge source="6LACK" target="Jordan Ward" />
+    <edge source="League of Legends" target="Arcane" />
+    <edge source="League of Legends" target="d4vd" />
+    <edge source="League of Legends" target="Woodkid" />
+    <edge source="League of Legends" target="Coldplay" />
+    <edge source="Eyedress" target="Mac DeMarco" />
+    <edge source="Lost Frequencies" target="Sia" />
+    <edge source="Lost Frequencies" target="Diplo" />
+    <edge source="Dmitri Shostakovich" target="Camille Saint-Saëns" />
+    <edge source="Dmitri Shostakovich" target="Johann Sebastian Bach" />
+    <edge source="Fuerza Regida" target="Marshmello" />
+    <edge source="Dominic Fike" target="Jennie" />
+    <edge source="Paramore" target="Remi Wolf" />
+    <edge source="Arcane" target="Woodkid" />
+    <edge source="Arcane" target="Coldplay" />
+    <edge source="Arcane" target="d4vd" />
+    <edge source="Chet Baker" target="Stan Getz" />
+    <edge source="Chet Baker" target="Matt Maltese" />
+    <edge source="Alicia Keys" target="Usher" />
+    <edge source="Ian" target="Lil Yachty" />
+    <edge source="Jordan Ward" target="Cordae" />
+    <edge source="J. Cole" target="Dreamville" />
+    <edge source="J. Cole" target="TEms" />
+    <edge source="Jordan Adetunji" target="Lil Baby" />
+    <edge source="Prince Royce" target="Nicky Jam" />
+    <edge source="Becky G" target="Tyla" />
+    <edge source="Zedd" target="Remi Wolf" />
+    <edge source="Zedd" target="Jeff Buckley" />
+    <edge source="Lana Del Rey" target="Bleachers" />
+    <edge source="Lana Del Rey" target="Them &amp; I" />
+    <edge source="The Strokes" target="Regina Spektor" />
+    <edge source="Selena" target="Gracie Abrams" />
+    <edge source="Tyla" target="Travis Scott" />
+    <edge source="Famous Dex" target="Kodak Black" />
+    <edge source="Jung Kook" target="Major Lazer" />
+    <edge source="Chris Brown" target="Nicki Minaj" />
+    <edge source="Chris Brown" target="Lil Wayne" />
+    <edge source="Chris Brown" target="MoneyBagg Yo" />
+    <edge source="Chris Brown" target="Busta Rhymes" />
+    <edge source="Megan Thee Stallion" target="Victoria Monét" />
+    <edge source="Kali Uchis" target="Peso Pluma" />
+    <edge source="Kali Uchis" target="d4vd" />
+    <edge source="Kali Uchis" target="Jennie" />
+    <edge source="Kylie Minogue" target="Sia" />
+    <edge source="Kylie Minogue" target="Diplo" />
+    <edge source="Willie Nelson" target="Manu Chao" />
+    <edge source="lil tjay" target="G Herbo" />
+    <edge source="Djavan" target="Cássia Eller" />
+    <edge source="Duckwrth" target="IDK" />
+    <edge source="Sia" target="Lil Wayne" />
+    <edge source="Sia" target="Diplo" />
+    <edge source="No Doubt" target="Pharrell Williams" />
+    <edge source="G Herbo" target="Rob49" />
+    <edge source="Diplo" target="Lil Wayne" />
+    <edge source="Drake" target="Travis Scott" />
+    <edge source="Drake" target="Nicki Minaj" />
+    <edge source="Kodak Black" target="Rob49" />
+    <edge source="Kodak Black" target="Lil Yachty" />
+    <edge source="Kodak Black" target="yeat" />
+    <edge source="Kodak Black" target="Mustard" />
+    <edge source="Kodak Black" target="Busta Rhymes" />
+    <edge source="Quavo" target="Jason Derulo" />
+    <edge source="Quavo" target="Young Thug" />
+    <edge source="Quavo" target="Mustard" />
+    <edge source="Quavo" target="Peso Pluma" />
+    <edge source="Quavo" target="Busta Rhymes" />
+    <edge source="Rob49" target="Travis Scott" />
+    <edge source="Rob49" target="Mustard" />
+    <edge source="Rob49" target="MoneyBagg Yo" />
+    <edge source="PEGGY GOU" target="Lenny Kravitz" />
+    <edge source="DNCE" target="Nicki Minaj" />
+    <edge source="P!nk" target="Chris Stapleton" />
+    <edge source="P!nk" target="Marshmello" />
+    <edge source="Taylor Swift" target="Gracie Abrams" />
+    <edge source="Nicky Jam" target="The Chainsmokers" />
+    <edge source="Nicky Jam" target="Marshmello" />
+    <edge source="Lil Baby" target="Young Thug" />
+    <edge source="Lil Baby" target="Travis Scott" />
+    <edge source="Lil Baby" target="21 Savage" />
+    <edge source="Lil Baby" target="Central Cee" />
+    <edge source="Peso Pluma" target="Arcángel" />
+    <edge source="Peso Pluma" target="Natanael Cano" />
+    <edge source="Peso Pluma" target="Neton Vega" />
+    <edge source="Central Cee" target="21 Savage" />
+    <edge source="Jane Remover" target="Danny Brown" />
+    <edge source="Fred again.." target="Skrillex" />
+    <edge source="Lil Yachty" target="Lucki" />
+    <edge source="Lil Yachty" target="Kid Cudi" />
+    <edge source="Lil Yachty" target="Mustard" />
+    <edge source="D. Savage" target="Ty Dolla $ign" />
+    <edge source="Young Stoner Life" target="Young Thug" />
+    <edge source="Young Stoner Life" target="Cordae" />
+    <edge source="Rocco" target="Filipe Ret" />
+    <edge source="Kid Cudi" target="Travis Scott" />
+    <edge source="Kid Cudi" target="Wiz Khalifa" />
+    <edge source="Fat Joe" target="Jennifer Lopez" />
+    <edge source="Fat Joe" target="Ty Dolla $ign" />
+    <edge source="Tyga" target="Lil Wayne" />
+    <edge source="Tyga" target="Ty Dolla $ign" />
+    <edge source="Black Eyed Peas" target="Tiësto" />
+    <edge source="Snoop Dogg" target="Dr. Dre" />
+    <edge source="Snoop Dogg" target="Pharrell Williams" />
+    <edge source="Snoop Dogg" target="DMX" />
+    <edge source="Camille Saint-Saëns" target="Ludwig van Beethoven" />
+    <edge source="Camille Saint-Saëns" target="Johann Sebastian Bach" />
+    <edge source="ScHoolboy Q" target="Freddie Gibbs" />
+    <edge source="ScHoolboy Q" target="Mustard" />
+    <edge source="Travis Scott" target="Bad Bunny" />
+    <edge source="Travis Scott" target="Young Thug" />
+    <edge source="Travis Scott" target="Playboi Carti" />
+    <edge source="Travis Scott" target="21 Savage" />
+    <edge source="Travis Scott" target="Mustard" />
+    <edge source="Travis Scott" target="Them &amp; I" />
+    <edge source="Illenium" target="All Time Low" />
+    <edge source="Bladee" target="Skrillex" />
+    <edge source="Tate McRae" target="Tiësto" />
+    <edge source="Lancey Foux" target="Fimiguerrero" />
+    <edge source="MGK" target="Young Thug" />
+    <edge source="Russ" target="Will Smith" />
+    <edge source="A BOOGIE WIT DA HOODIE" target="Young Thug" />
+    <edge source="Wiz Khalifa" target="Ty Dolla $ign" />
+    <edge source="Nicki Minaj" target="Jason Derulo" />
+    <edge source="Nicki Minaj" target="Jessie Ware" />
+    <edge source="Nicki Minaj" target="Lil Wayne" />
+    <edge source="21 Savage" target="Katy Perry" />
+    <edge source="21 Savage" target="Young Thug" />
+    <edge source="21 Savage" target="Lil Wayne" />
+    <edge source="Ravyn Lenae" target="Ty Dolla $ign" />
+    <edge source="Ravyn Lenae" target="Smino" />
+    <edge source="Ravyn Lenae" target="Cordae" />
+    <edge source="All Time Low" target="I Prevail" />
+    <edge source="Meghan Trainor" target="Jason Derulo" />
+    <edge source="2 Chainz" target="Lil Wayne" />
+    <edge source="Benny Blanco" target="Gracie Abrams" />
+    <edge source="Jason Derulo" target="Ty Dolla $ign" />
+    <edge source="Jason Derulo" target="Lay Bankz" />
+    <edge source="Babytron" target="LAZER DIM 700" />
+    <edge source="Five Finger Death Punch" target="DMX" />
+    <edge source="Playboi Carti" target="Young Thug" />
+    <edge source="Playboi Carti" target="Ty Dolla $ign" />
+    <edge source="Playboi Carti" target="Ken Carson" />
+    <edge source="Playboi Carti" target="Them &amp; I" />
+    <edge source="T-Pain" target="Busta Rhymes" />
+    <edge source="MoneyBagg Yo" target="Morgan Wallen" />
+    <edge source="Young Thug" target="Mustard" />
+    <edge source="Young Thug" target="Busta Rhymes" />
+    <edge source="Cordae" target="Ty Dolla $ign" />
+    <edge source="Cordae" target="Lil Wayne" />
+    <edge source="Mustard" target="Ty Dolla $ign" />
+  </graph>
+</graphml>

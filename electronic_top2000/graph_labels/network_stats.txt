@@ -1,0 +1,13 @@
+ARTIST COLLABORATION NETWORK STATISTICS
+=====================================
+
+Artist distribution by major label:
+Other: 43 artists (35.2%) - 10 connected, 33 isolated
+Universal Music Group: 23 artists (18.9%) - 3 connected, 20 isolated
+Sony Music Entertainment: 16 artists (13.1%) - 5 connected, 11 isolated
+Warner Music Group: 37 artists (30.3%) - 11 connected, 26 isolated
+BMG: 3 artists (2.5%) - 1 connected, 2 isolated
+
+Network has 122 artists total:
+- 30 connected artists with 20 direct collaborations
+- 92 isolated artists with no collaborations

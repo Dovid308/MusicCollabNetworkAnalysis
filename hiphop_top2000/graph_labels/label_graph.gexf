@@ -1,0 +1,1446 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-07-24">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="major_label" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Powfu" label="Powfu">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Mike" label="Mike">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Kanye West" label="Kanye West">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Rick Ross" label="Rick Ross">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Freddie Gibbs" label="Freddie Gibbs">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Snoop Dogg" label="Snoop Dogg">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="UnoTheActivist" label="UnoTheActivist">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Lil Nas X" label="Lil Nas X">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Young Thug" label="Young Thug">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Young Stoner Life" label="Young Stoner Life">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="CupcakKe" label="CupcakKe">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Ebony" label="Ebony">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Larry June" label="Larry June">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="ScHoolboy Q" label="ScHoolboy Q">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Night Lovell" label="Night Lovell">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Joey Valence &amp; Brae" label="Joey Valence &amp; Brae">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="LIL PEEP" label="LIL PEEP">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lupe Fiasco" label="Lupe Fiasco">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Twista" label="Twista">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Chris Travis" label="Chris Travis">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Destroy Lonely" label="Destroy Lonely">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lancey Foux" label="Lancey Foux">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="21 Savage" label="21 Savage">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Danny Brown" label="Danny Brown">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Rich Gang" label="Rich Gang">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="2hollis" label="2hollis">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Rod Wave" label="Rod Wave">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Alemán" label="Alemán">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Logic" label="Logic">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Glorilla" label="Glorilla">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Jin" label="Jin">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Dreamville" label="Dreamville">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Denzel Curry" label="Denzel Curry">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Quavo" label="Quavo">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="2 Chainz" label="2 Chainz">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Westside Gunn" label="Westside Gunn">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Key Glock" label="Key Glock">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Insane Clown Posse" label="Insane Clown Posse">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Benny the Butcher" label="Benny the Butcher">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Busta Rhymes" label="Busta Rhymes">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Travis Scott" label="Travis Scott">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="LAZER DIM 700" label="LAZER DIM 700">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="2Pac" label="2Pac">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Homixide Gang" label="Homixide Gang">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Macklemore" label="Macklemore">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Aminé" label="Aminé">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="bbno$" label="bbno$">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Mac Miller" label="Mac Miller">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="SahBabii" label="SahBabii">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Will Smith" label="Will Smith">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="SLEEPY HALLOW" label="SLEEPY HALLOW">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Fat Joe" label="Fat Joe">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Trippie Redd" label="Trippie Redd">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="duquesa" label="duquesa">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Post Malone" label="Post Malone">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lil Wayne" label="Lil Wayne">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Tyga" label="Tyga">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Tana" label="Tana">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Dizzee Rascal" label="Dizzee Rascal">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Madvillain" label="Madvillain">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Pharrell Williams" label="Pharrell Williams">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Pi’erre Bourne" label="Pi’erre Bourne">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="SHORELINE MAFIA" label="SHORELINE MAFIA">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Bakar" label="Bakar">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Action Bronson" label="Action Bronson">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="G Herbo" label="G Herbo">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Soulja Boy" label="Soulja Boy">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lil Tecca" label="Lil Tecca">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Doechii" label="Doechii">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Rels B" label="Rels B">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Drake" label="Drake">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="K.Flay" label="K.Flay">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Gucci Mane" label="Gucci Mane">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Jack Harlow" label="Jack Harlow">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="$NOT" label="$NOT">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Eladio Carrion" label="Eladio Carrion">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Vince Staples" label="Vince Staples">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="A BOOGIE WIT DA HOODIE" label="A BOOGIE WIT DA HOODIE">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Joost" label="Joost">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Childish Gambino" label="Childish Gambino">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="A$AP Ferg" label="A$AP Ferg">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Offset" label="Offset">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="J. Cole" label="J. Cole">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Project Pat" label="Project Pat">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="MF DOOM" label="MF DOOM">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="lil skies" label="lil skies">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="KYLE" label="KYLE">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Lil B" label="Lil B">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lil Yachty" label="Lil Yachty">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Future" label="Future">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Gims" label="Gims">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Ian" label="Ian">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Lyrical Lemonade" label="Lyrical Lemonade">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="JPEGMAFIA" label="JPEGMAFIA">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="DMX" label="DMX">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="DDG" label="DDG">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Cordae" label="Cordae">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Kendrick Lamar" label="Kendrick Lamar">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Baco Exu do Blues" label="Baco Exu do Blues">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Gunna" label="Gunna">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lin-Manuel Miranda" label="Lin-Manuel Miranda">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Nemzzz" label="Nemzzz">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Rema" label="Rema">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Baby smoove" label="Baby smoove">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Common" label="Common">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="HanuMankind" label="HanuMankind">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Central Cee" label="Central Cee">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Agust D" label="Agust D">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Boldy James" label="Boldy James">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Timbaland" label="Timbaland">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="ICE SPICE" label="ICE SPICE">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Xavier Wulf" label="Xavier Wulf">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Nardo Wick" label="Nardo Wick">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Playboi Carti" label="Playboi Carti">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Ty Dolla $ign" label="Ty Dolla $ign">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="lil tjay" label="lil tjay">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="FBC" label="FBC">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="nettspend" label="nettspend">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Glokk40Spaz" label="Glokk40Spaz">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Bladee" label="Bladee">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="fakemink" label="fakemink">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Rob49" label="Rob49">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Eem Triplin" label="Eem Triplin">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Matuê" label="Matuê">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="yeat" label="yeat">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Megan Thee Stallion" label="Megan Thee Stallion">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Cypress Hill" label="Cypress Hill">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Diddy" label="Diddy">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="BigXthaPlug" label="BigXthaPlug">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="¥$" label="¥$">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="SICKBOYRARI" label="SICKBOYRARI">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Rich The Kid" label="Rich The Kid">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Cris Mj" label="Cris Mj">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="6ix9ine" label="6ix9ine">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Arizona Zervas" label="Arizona Zervas">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="The Alchemist" label="The Alchemist">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Kid Laroi" label="The Kid Laroi">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Yung Lean" label="Yung Lean">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Trueno" label="Trueno">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Little Simz" label="Little Simz">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Latto" label="Latto">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="DaBaby" label="DaBaby">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Connor Price" label="Connor Price">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Don Toliver" label="Don Toliver">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Kneecap" label="Kneecap">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Ca7riel &amp; Paco Amoroso" label="Ca7riel &amp; Paco Amoroso">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="YNW Melly" label="YNW Melly">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="NF" label="NF">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Yung Gravy" label="Yung Gravy">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Young Miko" label="Young Miko">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Juice WRLD" label="Juice WRLD">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Akon" label="Akon">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lil Durk" label="Lil Durk">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Dr. Dre" label="Dr. Dre">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="The Game" label="The Game">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Kodak Black" label="Kodak Black">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Ice Cube" label="Ice Cube">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Pitbull" label="Pitbull">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Eminem" label="Eminem">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Bossman Dlow" label="Bossman Dlow">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Kevin Gates" label="Kevin Gates">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="DJONGA" label="DJONGA">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Autumn!" label="Autumn!">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="LIL UZI VERT" label="LIL UZI VERT">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Nicki Minaj" label="Nicki Minaj">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Sexyy Red" label="Sexyy Red">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="MoneyBagg Yo" label="MoneyBagg Yo">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="YoungBoy Never Broke Again" label="YoungBoy Never Broke Again">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="SKI MASK THE SLUMP GOD" label="SKI MASK THE SLUMP GOD">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="De La Soul" label="De La Soul">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Veigh" label="Veigh">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Lil Darkie" label="Lil Darkie">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Duckwrth" label="Duckwrth">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Ashnikko" label="Ashnikko">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Coco &amp; Clair Clair" label="Coco &amp; Clair Clair">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Chance the Rapper" label="Chance the Rapper">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Tyler, the Creator" label="Tyler, the Creator">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Slum Village" label="Slum Village">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Earl Sweatshirt" label="Earl Sweatshirt">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Ken Carson" label="Ken Carson">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="vierre cloud" label="vierre cloud">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Nas" label="Nas">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Burna Boy" label="Burna Boy">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Meek Mill" label="Meek Mill">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Flo Milli" label="Flo Milli">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="$uicideboy$" label="$uicideboy$">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Creepy Nuts" label="Creepy Nuts">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="iann dior" label="iann dior">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Fetty Wap" label="Fetty Wap">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Juicy J" label="Juicy J">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="YG" label="YG">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Saba" label="Saba">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="B.o.B" label="B.o.B">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Racionais Mc's" label="Racionais Mc's">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Famous Dex" label="Famous Dex">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="NLE Choppa" label="NLE Choppa">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="SoFaygo" label="SoFaygo">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Black Eyed Peas" label="Black Eyed Peas">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Fimiguerrero" label="Fimiguerrero">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Smino" label="Smino">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Summrs" label="Summrs">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Kxllswxtch" label="Kxllswxtch">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="pumapjl" label="pumapjl">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Chief Keef" label="Chief Keef">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="D. Savage" label="D. Savage">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Kevin Abstract" label="Kevin Abstract">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Jordan Adetunji" label="Jordan Adetunji">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="French Montana" label="French Montana">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="SAINt JHN" label="SAINt JHN">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Polo G" label="Polo G">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Wiz Khalifa" label="Wiz Khalifa">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="G-Eazy" label="G-Eazy">
+        <attvalues>
+          <attvalue for="0" value="Sony Music Entertainment" />
+        </attvalues>
+      </node>
+      <node id="Mustard" label="Mustard">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Bones" label="Bones">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="King Von" label="King Von">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="IDK" label="IDK">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Russ" label="Russ">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Junior H" label="Junior H">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Kid Cudi" label="Kid Cudi">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Wu-Tang Clan" label="Wu-Tang Clan">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Hollywood Undead" label="Hollywood Undead">
+        <attvalues>
+          <attvalue for="0" value="BMG" />
+        </attvalues>
+      </node>
+      <node id="Lil Baby" label="Lil Baby">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Filipe Ret" label="Filipe Ret">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+      <node id="Tee Grizzley" label="Tee Grizzley">
+        <attvalues>
+          <attvalue for="0" value="Warner Music Group" />
+        </attvalues>
+      </node>
+      <node id="Rich Amiri" label="Rich Amiri">
+        <attvalues>
+          <attvalue for="0" value="Universal Music Group" />
+        </attvalues>
+      </node>
+      <node id="Eve" label="Eve">
+        <attvalues>
+          <attvalue for="0" value="Other" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Kanye West" target="¥$" id="0" />
+      <edge source="Kanye West" target="Ty Dolla $ign" id="1" />
+      <edge source="Kanye West" target="French Montana" id="2" />
+      <edge source="Kanye West" target="Cordae" id="3" />
+      <edge source="Rick Ross" target="Lil Wayne" id="4" />
+      <edge source="Rick Ross" target="French Montana" id="5" />
+      <edge source="Rick Ross" target="Meek Mill" id="6" />
+      <edge source="Rick Ross" target="Future" id="7" />
+      <edge source="Freddie Gibbs" target="ScHoolboy Q" id="8" />
+      <edge source="Snoop Dogg" target="Dr. Dre" id="9" />
+      <edge source="Snoop Dogg" target="Eminem" id="10" />
+      <edge source="Snoop Dogg" target="Pharrell Williams" id="11" />
+      <edge source="Snoop Dogg" target="Ice Cube" id="12" />
+      <edge source="Snoop Dogg" target="DMX" id="13" />
+      <edge source="Young Thug" target="Trippie Redd" id="14" />
+      <edge source="Young Thug" target="Lil Baby" id="15" />
+      <edge source="Young Thug" target="A BOOGIE WIT DA HOODIE" id="16" />
+      <edge source="Young Thug" target="Quavo" id="17" />
+      <edge source="Young Thug" target="Travis Scott" id="18" />
+      <edge source="Young Thug" target="Playboi Carti" id="19" />
+      <edge source="Young Thug" target="21 Savage" id="20" />
+      <edge source="Young Thug" target="Mustard" id="21" />
+      <edge source="Young Thug" target="Young Stoner Life" id="22" />
+      <edge source="Young Thug" target="Lil B" id="23" />
+      <edge source="Young Thug" target="Busta Rhymes" id="24" />
+      <edge source="Young Stoner Life" target="Trippie Redd" id="25" />
+      <edge source="Young Stoner Life" target="Offset" id="26" />
+      <edge source="Young Stoner Life" target="Cordae" id="27" />
+      <edge source="Larry June" target="Wiz Khalifa" id="28" />
+      <edge source="Larry June" target="The Alchemist" id="29" />
+      <edge source="Larry June" target="2 Chainz" id="30" />
+      <edge source="Larry June" target="YG" id="31" />
+      <edge source="Larry June" target="Action Bronson" id="32" />
+      <edge source="Larry June" target="Slum Village" id="33" />
+      <edge source="ScHoolboy Q" target="Tyler, the Creator" id="34" />
+      <edge source="ScHoolboy Q" target="Mustard" id="35" />
+      <edge source="Joey Valence &amp; Brae" target="Danny Brown" id="36" />
+      <edge source="Twista" target="Chance the Rapper" id="37" />
+      <edge source="Twista" target="Akon" id="38" />
+      <edge source="Twista" target="Gucci Mane" id="39" />
+      <edge source="Destroy Lonely" target="Ken Carson" id="40" />
+      <edge source="Lancey Foux" target="G-Eazy" id="41" />
+      <edge source="Lancey Foux" target="Fimiguerrero" id="42" />
+      <edge source="21 Savage" target="Lil Baby" id="43" />
+      <edge source="21 Savage" target="Gucci Mane" id="44" />
+      <edge source="21 Savage" target="Central Cee" id="45" />
+      <edge source="21 Savage" target="Travis Scott" id="46" />
+      <edge source="21 Savage" target="Burna Boy" id="47" />
+      <edge source="21 Savage" target="Lil Durk" id="48" />
+      <edge source="21 Savage" target="Lil Wayne" id="49" />
+      <edge source="21 Savage" target="Lil B" id="50" />
+      <edge source="21 Savage" target="Nardo Wick" id="51" />
+      <edge source="21 Savage" target="Diddy" id="52" />
+      <edge source="Rod Wave" target="Lil Baby" id="53" />
+      <edge source="Rod Wave" target="Lil B" id="54" />
+      <edge source="Rod Wave" target="Lil Yachty" id="55" />
+      <edge source="Glorilla" target="Sexyy Red" id="56" />
+      <edge source="Glorilla" target="Megan Thee Stallion" id="57" />
+      <edge source="Glorilla" target="Latto" id="58" />
+      <edge source="Dreamville" target="J. Cole" id="59" />
+      <edge source="Denzel Curry" target="Juicy J" id="60" />
+      <edge source="Denzel Curry" target="Ty Dolla $ign" id="61" />
+      <edge source="Denzel Curry" target="LAZER DIM 700" id="62" />
+      <edge source="Denzel Curry" target="Project Pat" id="63" />
+      <edge source="Denzel Curry" target="A$AP Ferg" id="64" />
+      <edge source="Denzel Curry" target="2 Chainz" id="65" />
+      <edge source="Denzel Curry" target="JPEGMAFIA" id="66" />
+      <edge source="Denzel Curry" target="Lyrical Lemonade" id="67" />
+      <edge source="Quavo" target="Future" id="68" />
+      <edge source="Quavo" target="Chief Keef" id="69" />
+      <edge source="Quavo" target="Mustard" id="70" />
+      <edge source="Quavo" target="Busta Rhymes" id="71" />
+      <edge source="2 Chainz" target="Eminem" id="72" />
+      <edge source="2 Chainz" target="Lil Wayne" id="73" />
+      <edge source="2 Chainz" target="The Alchemist" id="74" />
+      <edge source="2 Chainz" target="Juicy J" id="75" />
+      <edge source="Westside Gunn" target="Travis Scott" id="76" />
+      <edge source="Westside Gunn" target="French Montana" id="77" />
+      <edge source="Key Glock" target="Gucci Mane" id="78" />
+      <edge source="Benny the Butcher" target="Boldy James" id="79" />
+      <edge source="Busta Rhymes" target="Ice Cube" id="80" />
+      <edge source="Busta Rhymes" target="DaBaby" id="81" />
+      <edge source="Busta Rhymes" target="Burna Boy" id="82" />
+      <edge source="Busta Rhymes" target="Kodak Black" id="83" />
+      <edge source="Busta Rhymes" target="Diddy" id="84" />
+      <edge source="Travis Scott" target="Lil Baby" id="85" />
+      <edge source="Travis Scott" target="Offset" id="86" />
+      <edge source="Travis Scott" target="Future" id="87" />
+      <edge source="Travis Scott" target="Playboi Carti" id="88" />
+      <edge source="Travis Scott" target="Kid Cudi" id="89" />
+      <edge source="Travis Scott" target="Drake" id="90" />
+      <edge source="Travis Scott" target="Yung Lean" id="91" />
+      <edge source="Travis Scott" target="Rob49" id="92" />
+      <edge source="Travis Scott" target="Don Toliver" id="93" />
+      <edge source="Travis Scott" target="Mustard" id="94" />
+      <edge source="Travis Scott" target="ICE SPICE" id="95" />
+      <edge source="Travis Scott" target="Lil B" id="96" />
+      <edge source="Homixide Gang" target="Lil Yachty" id="97" />
+      <edge source="Macklemore" target="NLE Choppa" id="98" />
+      <edge source="Aminé" target="Lyrical Lemonade" id="99" />
+      <edge source="bbno$" target="Yung Gravy" id="100" />
+      <edge source="SahBabii" target="Trippie Redd" id="101" />
+      <edge source="SahBabii" target="Lyrical Lemonade" id="102" />
+      <edge source="Will Smith" target="Russ" id="103" />
+      <edge source="Fat Joe" target="Ty Dolla $ign" id="104" />
+      <edge source="Trippie Redd" target="G Herbo" id="105" />
+      <edge source="Trippie Redd" target="YoungBoy Never Broke Again" id="106" />
+      <edge source="Trippie Redd" target="Chance the Rapper" id="107" />
+      <edge source="Trippie Redd" target="Lil Tecca" id="108" />
+      <edge source="Trippie Redd" target="Lil Durk" id="109" />
+      <edge source="Trippie Redd" target="YNW Melly" id="110" />
+      <edge source="Trippie Redd" target="DaBaby" id="111" />
+      <edge source="Trippie Redd" target="Pi’erre Bourne" id="112" />
+      <edge source="Trippie Redd" target="Russ" id="113" />
+      <edge source="Trippie Redd" target="Juice WRLD" id="114" />
+      <edge source="Trippie Redd" target="Lil Yachty" id="115" />
+      <edge source="Trippie Redd" target="Rob49" id="116" />
+      <edge source="Trippie Redd" target="Famous Dex" id="117" />
+      <edge source="Trippie Redd" target="Rich The Kid" id="118" />
+      <edge source="duquesa" target="Baco Exu do Blues" id="119" />
+      <edge source="Lil Wayne" target="Nas" id="120" />
+      <edge source="Lil Wayne" target="Tyler, the Creator" id="121" />
+      <edge source="Lil Wayne" target="Nicki Minaj" id="122" />
+      <edge source="Lil Wayne" target="French Montana" id="123" />
+      <edge source="Lil Wayne" target="Tyga" id="124" />
+      <edge source="Lil Wayne" target="Cordae" id="125" />
+      <edge source="Lil Wayne" target="Juicy J" id="126" />
+      <edge source="Tyga" target="Flo Milli" id="127" />
+      <edge source="Tyga" target="Ty Dolla $ign" id="128" />
+      <edge source="Madvillain" target="MF DOOM" id="129" />
+      <edge source="Pharrell Williams" target="Kendrick Lamar" id="130" />
+      <edge source="Action Bronson" target="Chance the Rapper" id="131" />
+      <edge source="G Herbo" target="King Von" id="132" />
+      <edge source="G Herbo" target="Chief Keef" id="133" />
+      <edge source="G Herbo" target="Polo G" id="134" />
+      <edge source="G Herbo" target="lil tjay" id="135" />
+      <edge source="G Herbo" target="Tee Grizzley" id="136" />
+      <edge source="G Herbo" target="YG" id="137" />
+      <edge source="G Herbo" target="Lyrical Lemonade" id="138" />
+      <edge source="G Herbo" target="Rob49" id="139" />
+      <edge source="Lil Tecca" target="Don Toliver" id="140" />
+      <edge source="Lil Tecca" target="Lyrical Lemonade" id="141" />
+      <edge source="Doechii" target="Tyler, the Creator" id="142" />
+      <edge source="Rels B" target="Junior H" id="143" />
+      <edge source="Drake" target="Nicki Minaj" id="144" />
+      <edge source="Drake" target="Sexyy Red" id="145" />
+      <edge source="Gucci Mane" target="DaBaby" id="146" />
+      <edge source="Gucci Mane" target="Megan Thee Stallion" id="147" />
+      <edge source="Gucci Mane" target="J. Cole" id="148" />
+      <edge source="Gucci Mane" target="Nardo Wick" id="149" />
+      <edge source="Gucci Mane" target="Lil Baby" id="150" />
+      <edge source="Gucci Mane" target="Kodak Black" id="151" />
+      <edge source="Jack Harlow" target="Lyrical Lemonade" id="152" />
+      <edge source="$NOT" target="Lyrical Lemonade" id="153" />
+      <edge source="Eladio Carrion" target="Cris Mj" id="154" />
+      <edge source="Eladio Carrion" target="Young Miko" id="155" />
+      <edge source="Vince Staples" target="JPEGMAFIA" id="156" />
+      <edge source="Vince Staples" target="Earl Sweatshirt" id="157" />
+      <edge source="Vince Staples" target="Mustard" id="158" />
+      <edge source="A BOOGIE WIT DA HOODIE" target="Lil Durk" id="159" />
+      <edge source="A BOOGIE WIT DA HOODIE" target="Future" id="160" />
+      <edge source="Childish Gambino" target="Flo Milli" id="161" />
+      <edge source="Childish Gambino" target="Chance the Rapper" id="162" />
+      <edge source="A$AP Ferg" target="Future" id="163" />
+      <edge source="Offset" target="Latto" id="164" />
+      <edge source="Offset" target="Future" id="165" />
+      <edge source="Offset" target="Don Toliver" id="166" />
+      <edge source="Offset" target="Juice WRLD" id="167" />
+      <edge source="Offset" target="Gunna" id="168" />
+      <edge source="Offset" target="Polo G" id="169" />
+      <edge source="Offset" target="DDG" id="170" />
+      <edge source="J. Cole" target="Tee Grizzley" id="171" />
+      <edge source="J. Cole" target="Burna Boy" id="172" />
+      <edge source="Project Pat" target="Xavier Wulf" id="173" />
+      <edge source="Project Pat" target="Juicy J" id="174" />
+      <edge source="MF DOOM" target="De La Soul" id="175" />
+      <edge source="Lil B" target="Future" id="176" />
+      <edge source="Lil B" target="Lyrical Lemonade" id="177" />
+      <edge source="Lil Yachty" target="Kodak Black" id="178" />
+      <edge source="Lil Yachty" target="Ian" id="179" />
+      <edge source="Lil Yachty" target="Kid Cudi" id="180" />
+      <edge source="Lil Yachty" target="The Kid Laroi" id="181" />
+      <edge source="Lil Yachty" target="Mustard" id="182" />
+      <edge source="Lil Yachty" target="YG" id="183" />
+      <edge source="Lil Yachty" target="Lyrical Lemonade" id="184" />
+      <edge source="Future" target="Lil Baby" id="185" />
+      <edge source="Future" target="Playboi Carti" id="186" />
+      <edge source="Future" target="Don Toliver" id="187" />
+      <edge source="Future" target="The Kid Laroi" id="188" />
+      <edge source="Future" target="SKI MASK THE SLUMP GOD" id="189" />
+      <edge source="Future" target="Polo G" id="190" />
+      <edge source="Future" target="Meek Mill" id="191" />
+      <edge source="Future" target="Lil Durk" id="192" />
+      <edge source="Future" target="Mustard" id="193" />
+      <edge source="Future" target="Tee Grizzley" id="194" />
+      <edge source="Future" target="Nardo Wick" id="195" />
+      <edge source="Ian" target="Chief Keef" id="196" />
+      <edge source="Lyrical Lemonade" target="Juicy J" id="197" />
+      <edge source="Lyrical Lemonade" target="Kid Cudi" id="198" />
+      <edge source="Lyrical Lemonade" target="Cordae" id="199" />
+      <edge source="Lyrical Lemonade" target="Eminem" id="200" />
+      <edge source="Lyrical Lemonade" target="Latto" id="201" />
+      <edge source="Lyrical Lemonade" target="Lil Durk" id="202" />
+      <edge source="Lyrical Lemonade" target="Juice WRLD" id="203" />
+      <edge source="Lyrical Lemonade" target="Chief Keef" id="204" />
+      <edge source="DDG" target="The Game" id="205" />
+      <edge source="DDG" target="Ty Dolla $ign" id="206" />
+      <edge source="DDG" target="NLE Choppa" id="207" />
+      <edge source="DDG" target="Rob49" id="208" />
+      <edge source="DDG" target="DaBaby" id="209" />
+      <edge source="DDG" target="Rich The Kid" id="210" />
+      <edge source="DDG" target="Wiz Khalifa" id="211" />
+      <edge source="Cordae" target="NF" id="212" />
+      <edge source="Cordae" target="Ty Dolla $ign" id="213" />
+      <edge source="Cordae" target="Juicy J" id="214" />
+      <edge source="Cordae" target="Slum Village" id="215" />
+      <edge source="Kendrick Lamar" target="Playboi Carti" id="216" />
+      <edge source="Gunna" target="Wiz Khalifa" id="217" />
+      <edge source="Gunna" target="Flo Milli" id="218" />
+      <edge source="Gunna" target="ICE SPICE" id="219" />
+      <edge source="Nemzzz" target="Central Cee" id="220" />
+      <edge source="Common" target="De La Soul" id="221" />
+      <edge source="Central Cee" target="Lil Baby" id="222" />
+      <edge source="Central Cee" target="Lil Durk" id="223" />
+      <edge source="Central Cee" target="Young Miko" id="224" />
+      <edge source="Central Cee" target="The Kid Laroi" id="225" />
+      <edge source="Central Cee" target="ICE SPICE" id="226" />
+      <edge source="ICE SPICE" target="DaBaby" id="227" />
+      <edge source="ICE SPICE" target="NLE Choppa" id="228" />
+      <edge source="Xavier Wulf" target="Juicy J" id="229" />
+      <edge source="Nardo Wick" target="Lil Baby" id="230" />
+      <edge source="Nardo Wick" target="Sexyy Red" id="231" />
+      <edge source="Playboi Carti" target="Ty Dolla $ign" id="232" />
+      <edge source="Playboi Carti" target="Ken Carson" id="233" />
+      <edge source="Playboi Carti" target="Latto" id="234" />
+      <edge source="Ty Dolla $ign" target="¥$" id="235" />
+      <edge source="Ty Dolla $ign" target="Wiz Khalifa" id="236" />
+      <edge source="Ty Dolla $ign" target="Mustard" id="237" />
+      <edge source="Ty Dolla $ign" target="YG" id="238" />
+      <edge source="Ty Dolla $ign" target="D. Savage" id="239" />
+      <edge source="Ty Dolla $ign" target="Eem Triplin" id="240" />
+      <edge source="Ty Dolla $ign" target="Diddy" id="241" />
+      <edge source="lil tjay" target="Polo G" id="242" />
+      <edge source="lil tjay" target="Rich The Kid" id="243" />
+      <edge source="lil tjay" target="NLE Choppa" id="244" />
+      <edge source="Bladee" target="Yung Lean" id="245" />
+      <edge source="Rob49" target="Kodak Black" id="246" />
+      <edge source="Rob49" target="Mustard" id="247" />
+      <edge source="Rob49" target="MoneyBagg Yo" id="248" />
+      <edge source="Rob49" target="Lil Durk" id="249" />
+      <edge source="Rob49" target="DaBaby" id="250" />
+      <edge source="Matuê" target="Veigh" id="251" />
+      <edge source="yeat" target="Kodak Black" id="252" />
+      <edge source="yeat" target="Summrs" id="253" />
+      <edge source="yeat" target="Don Toliver" id="254" />
+      <edge source="yeat" target="Lil Durk" id="255" />
+      <edge source="Megan Thee Stallion" target="Flo Milli" id="256" />
+      <edge source="Megan Thee Stallion" target="Latto" id="257" />
+      <edge source="Diddy" target="Burna Boy" id="258" />
+      <edge source="Diddy" target="French Montana" id="259" />
+      <edge source="Rich The Kid" target="Famous Dex" id="260" />
+      <edge source="Rich The Kid" target="Kodak Black" id="261" />
+      <edge source="6ix9ine" target="Kodak Black" id="262" />
+      <edge source="The Alchemist" target="Earl Sweatshirt" id="263" />
+      <edge source="The Kid Laroi" target="YoungBoy Never Broke Again" id="264" />
+      <edge source="Latto" target="Flo Milli" id="265" />
+      <edge source="Don Toliver" target="Wiz Khalifa" id="266" />
+      <edge source="Don Toliver" target="Kodak Black" id="267" />
+      <edge source="Yung Gravy" target="Juicy J" id="268" />
+      <edge source="Juice WRLD" target="Nicki Minaj" id="269" />
+      <edge source="Juice WRLD" target="Eminem" id="270" />
+      <edge source="Juice WRLD" target="SKI MASK THE SLUMP GOD" id="271" />
+      <edge source="Lil Durk" target="King Von" id="272" />
+      <edge source="Lil Durk" target="French Montana" id="273" />
+      <edge source="Lil Durk" target="Polo G" id="274" />
+      <edge source="Lil Durk" target="Lil Baby" id="275" />
+      <edge source="Lil Durk" target="Mustard" id="276" />
+      <edge source="Lil Durk" target="MoneyBagg Yo" id="277" />
+      <edge source="Dr. Dre" target="Eminem" id="278" />
+      <edge source="The Game" target="French Montana" id="279" />
+      <edge source="Kodak Black" target="Mustard" id="280" />
+      <edge source="Kodak Black" target="Famous Dex" id="281" />
+      <edge source="Bossman Dlow" target="French Montana" id="282" />
+      <edge source="Bossman Dlow" target="Lil Baby" id="283" />
+      <edge source="Nicki Minaj" target="Meek Mill" id="284" />
+      <edge source="Sexyy Red" target="Tyler, the Creator" id="285" />
+      <edge source="Sexyy Red" target="Chief Keef" id="286" />
+      <edge source="Sexyy Red" target="Lil Baby" id="287" />
+      <edge source="Duckwrth" target="IDK" id="288" />
+      <edge source="Chance the Rapper" target="Saba" id="289" />
+      <edge source="Meek Mill" target="French Montana" id="290" />
+      <edge source="Juicy J" target="Wiz Khalifa" id="291" />
+      <edge source="YG" target="Tee Grizzley" id="292" />
+      <edge source="YG" target="Mustard" id="293" />
+      <edge source="Jordan Adetunji" target="Lil Baby" id="294" />
+      <edge source="French Montana" target="G-Eazy" id="295" />
+      <edge source="French Montana" target="Lil Baby" id="296" />
+      <edge source="French Montana" target="SAINt JHN" id="297" />
+      <edge source="Polo G" target="King Von" id="298" />
+      <edge source="Wiz Khalifa" target="Kid Cudi" id="299" />
+      <edge source="King Von" target="Tee Grizzley" id="300" />
+    </edges>
+  </graph>
+</gexf>

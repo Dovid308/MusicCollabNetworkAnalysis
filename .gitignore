@@ -1,0 +1,8 @@
+.env
+myenv
+__pycache__
+/data
+/graph_labels
+/graph_genre
+/analysis/analysis_results
+*.pdf

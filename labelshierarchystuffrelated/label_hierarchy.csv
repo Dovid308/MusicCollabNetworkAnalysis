@@ -1,0 +1,82 @@
+Label,Parent,Level,Patterns,Keywords,ExactMatches
+Universal Music Group,,0.0,,,"Universal Music Group,UMG,Universal"
+Sony Music Entertainment,,0.0,,,"Sony Music Entertainment,SME,Sony"
+Warner Music Group,,0.0,,,"Warner Music Group,WMG,Warner"
+BMG,,0.0,,,"BMG,Bertelsmann Music Group"
+300 Entertainment,Warner Music Group,1.0,"300 entertainment,300 ent","300,three hundred",300 Entertainment
+Atlantic Records,Warner Music Group,1.0,atlantic,atlantic,"atlantic,atlantic records"
+Warner Records,Warner Music Group,1.0,warner,warner,"warner,warner records"
+Elektra Records,Warner Music Group,1.0,elektra,elektra,"elektra,elektra records"
+Parlophone Records,Warner Music Group,1.0,parlophone,parlophone,Parlophone
+Reprise Records,Warner Music Group,1.0,reprise,reprise,"reprise,reprise records"
+Nonesuch Records,Warner Music Group,1.0,nonesuch,nonesuch,"nonesuch,nonesuch records"
+Rhino Entertainment,Warner Music Group,1.0,rhino,rhino,"rhino,rhino entertainment"
+Sire Records,Warner Music Group,1.0,sire,sire,"sire,sire records"
+Fueled by Ramen,Atlantic Records,2.0,"fueled by ramen,fueledbyramen","fueled by ramen,fueledbyramen",Fueled by Ramen
+Roadrunner Records,Warner Music Group,1.0,roadrunner,roadrunner,Roadrunner Records
+Black Swan Records,Warner Music Group,1.0,black swan,black swan,Black Swan Records
+Asylum Records,Warner Music Group,1.0,asylum,asylum,Asylum Records
+East West Records,Warner Music Group,1.0,east west,east west,East West Records
+Grand Hustle Records,Atlantic Records,2.0,"grand hustle,grandhustle","grand hustle,grandhustle","Grand Hustle,GrandHustle"
+Highbridge the Label,Atlantic Records,2.0,highbridge,highbridge,Highbridge
+1017 Records,Atlantic Records,2.0,"1017,ten seventeen","1017,ten seventeen","1017,Ten Seventeen"
+Generation Now,Atlantic Records,2.0,generation now,generation now,Generation Now
+MMG,Atlantic Records,2.0,"mmg,maybach music group","mmg,maybach music group","MMG,Maybach Music Group"
+Interscope Records,Universal Music Group,1.0,"interscope,inter scope","interscope,inter scope","interscope,interscope records"
+Def Jam Recordings,Universal Music Group,1.0,"def jam,defjam","def jam,defjam","def jam,def jam recordings"
+Island Records,Universal Music Group,1.0,island,island,"island,island records"
+Republic Records,Universal Music Group,1.0,republic,republic,"republic,republic records"
+Capitol Records,Universal Music Group,1.0,capitol,capitol,"capitol,capitol records"
+Motown Records,Universal Music Group,1.0,motown,motown,"motown,motown records"
+Geffen Records,Universal Music Group,1.0,geffen,geffen,"geffen,geffen records"
+Polydor Records,Universal Music Group,1.0,polydor,polydor,"polydor,polydor records"
+Decca Records,Universal Music Group,1.0,decca,decca,"decca,decca records"
+Mercury Records,Universal Music Group,1.0,mercury,mercury,"mercury,mercury records"
+Verve Records,Universal Music Group,1.0,verve,verve,"verve,verve records"
+A&M Records,Universal Music Group,1.0,"a&m,a & m","a&m,a & m","a&m,a & m,a&m records"
+Aftermath Entertainment,Interscope Records,2.0,aftermath,aftermath,"aftermath,aftermath entertainment"
+Dreamville,Interscope Records,2.0,dreamville,dreamville,Dreamville
+GOOD Music,Def Jam Recordings,2.0,"good music,goodmusic","good music,goodmusic","GOOD Music,G.O.O.D. Music"
+Cash Money Records,Republic Records,2.0,"cash money,cashmoney","cash money,cashmoney","cash money,cash money records"
+Young Money Entertainment,Cash Money Records,3.0,"young money,youngmoney","young money,youngmoney","young money,young money entertainment"
+Top Dawg Entertainment,Interscope Records,2.0,"top dawg,tde","top dawg,tde","TDE,Top Dawg Entertainment"
+Shady Records,Interscope Records,2.0,shady,shady,"shady,shady records"
+Quality Control Music,Capitol Records,2.0,"quality control,qc music","quality control,qc music","quality control,qc music,quality control music"
+Astralwerks,Capitol Records,2.0,astralwerks,astralwerks,Astralwerks
+Harvest Records,Capitol Records,2.0,harvest,harvest,Harvest
+Capitol Christian Music Group,Capitol Records,2.0,capitol christian,capitol christian,Capitol Christian Music Group
+Caroline Records,Capitol Records,2.0,caroline,caroline,Caroline Records
+Columbia Records,Sony Music Entertainment,1.0,columbia,columbia,"columbia,columbia records"
+RCA Records,Sony Music Entertainment,1.0,rca,rca,"rca,rca records"
+Epic Records,Sony Music Entertainment,1.0,epic,epic,"epic,epic records"
+Arista Records,Sony Music Entertainment,1.0,arista,arista,"arista,arista records"
+Legacy Recordings,Sony Music Entertainment,1.0,legacy,legacy,Legacy
+Jive Records,Sony Music Entertainment,1.0,jive,jive,Jive
+Roc Nation,Sony Music Entertainment,1.0,"roc nation,rocnation","roc nation,rocnation",Roc Nation
+Bad Boy Records,Epic Records,2.0,"bad boy,badboy","bad boy,badboy","Bad Boy,Bad Boy Records"
+Kemosabe Records,Sony Music Entertainment,1.0,kemosabe,kemosabe,Kemosabe
+Disruptor Records,Sony Music Entertainment,1.0,disruptor,disruptor,Disruptor
+Alamo Records,Sony Music Entertainment,1.0,alamo,alamo,"alamo,alamo records"
+Ultra Records,Sony Music Entertainment,1.0,ultra,ultra,"ultra,ultra records"
+RMG,RCA Records,2.0,"rmg,reggae makossa","rmg,reggae makossa","RMG,Reggae Makossa"
+Verity Records,RCA Records,2.0,verity,verity,Verity Records
+Provident Label Group,RCA Records,2.0,provident,provident,Provident Label Group
+Mute Records,BMG,1.0,mute,mute,Mute
+Rise Records,BMG,1.0,rise,rise,Rise
+Infectious Music,BMG,1.0,infectious,infectious,Infectious Music
+Skint Records,BMG,1.0,skint,skint,Skint Records
+BMG Rights Management,BMG,1.0,bmg rights management,bmg rights management,BMG Rights Management
+S-Curve Records,BMG,1.0,s-curve,s-curve,S-Curve Records
+Vector Recordings,BMG,1.0,vector,vector,Vector Recordings
+Sanctuary Records,BMG,1.0,sanctuary,sanctuary,Sanctuary Records
+EMI Records,Universal Music Group,,,,EMI Records
+Blue Note Records,Universal Music Group,,,,Blue Note Records
+Virgin Records,Universal Music Group,,,,Virgin Records
+Casablanca Records,Universal Music Group,,,,Casablanca Records
+Deutsche Grammophon,Universal Music Group,,,,Deutsche Grammophon
+Sony Classical,Sony Music Entertainment,,,,Sony Classical
+Ministry of Sound,Sony Music Entertainment,,,,Ministry of Sound
+Century Media Records,Sony Music Entertainment,,,,Century Media Records
+AWAL,Sony Music Entertainment,,,,AWAL
+Parlophone,Warner Music Group,,,,Parlophone
+Spinnin' Records,Warner Music Group,,,,Spinnin' Records
