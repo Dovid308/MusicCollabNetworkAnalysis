@@ -2,8 +2,8 @@
 # Labels Influence Graph Analysis
 
 This project investigates the structural patterns behind artist **collaborations** in the contemporary **music industry** using a **graph-based approach**. By modeling the Spotify artist network as a graph, we analyze how specific artist features influence the formation of these connections. In particular, we focus on two key attributes: **musical genre** and **record label affiliation**. Using standard graph analysis techniques we explore how these features relate to network structure and cluster formation. Our results highlight musical genre as the most significant driver of collaborations, with label affiliation  playing a marginal role. The study provides a data-driven perspective on how artist communities are shaped in the modern music ecosystem.
-
-[Link to the report](https://github.com/Dovid308/MusicLabelsInfluenceGraphAnalysis)
+[
+Link to the report](https://github.com/Dovid308/MusicCollabNetworkAnalysis/blob/master/Report_ATCS_module1.pdf)
 
 ## Setup
 
